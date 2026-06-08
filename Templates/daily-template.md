@@ -12,7 +12,87 @@
 - 对 RL / 游戏模型训练的影响：{{rl_takeaway}}
 - 建议今天深读：{{reading_plan}}
 
-## 1. 必读 / 高优先级
+## 1. 今日态势图
+
+日报必须先给一个信息压缩图，而不是直接进入长表。
+
+```mermaid
+flowchart LR
+  subgraph Sources[今日来源]
+    C[大厂博客/Research]
+    P[论文/arXiv/OpenReview]
+    G[GitHub/工具项目]
+    N[行业资讯]
+  end
+
+  subgraph Themes[主题聚类]
+    T1[Serving / Infra]
+    T2[RLHF / Post-training]
+    T3[Agent / Eval]
+    T4[World Model / Game AI]
+  end
+
+  subgraph Actions[我的动作]
+    A1[必读]
+    A2[试用/复现]
+    A3[加入观察]
+    A4[低置信跳过]
+  end
+
+  C --> T3
+  C --> T1
+  P --> T2
+  P --> T4
+  G --> T1
+  N --> T3
+  T1 --> A1
+  T2 --> A1
+  T3 --> A2
+  T4 --> A3
+
+  classDef source fill:#e1d5e7,stroke:#9673a6,stroke-width:2px;
+  classDef theme fill:#dae8fc,stroke:#6c8ebf,stroke-width:2px;
+  classDef action fill:#d5e8d4,stroke:#82b366,stroke-width:2px;
+  class C,P,G,N source;
+  class T1,T2,T3,T4 theme;
+  class A1,A2,A3,A4 action;
+```
+
+## 2. 必读卡片区
+
+用 3-5 张卡片/Callout 展示最值得读的内容。
+
+> [!important] {{title_1}}
+> - 大类：{{major_category_1}}
+> - 小类：{{minor_category_1}}
+> - 重点：{{summary_1}}
+> - 为什么重要：{{why_important_1}}
+> - 详情：[[{{note_path_1}}]] / [网页详情]({{github_blob_url_1}}) / [原文]({{source_url_1}})
+
+> [!tip] {{title_2}}
+> - 大类：{{major_category_2}}
+> - 小类：{{minor_category_2}}
+> - 重点：{{summary_2}}
+> - 为什么重要：{{why_important_2}}
+> - 详情：[[{{note_path_2}}]] / [网页详情]({{github_blob_url_2}}) / [原文]({{source_url_2}})
+
+## 3. 优先级矩阵
+
+```mermaid
+quadrantChart
+  title 今日内容优先级：影响力 × 可落地性
+  x-axis 低可落地性 --> 高可落地性
+  y-axis 低影响力 --> 高影响力
+  quadrant-1 立即读/试
+  quadrant-2 读论文/看趋势
+  quadrant-3 暂存
+  quadrant-4 可工具化
+  {{item_1}}: [0.82, 0.88]
+  {{item_2}}: [0.62, 0.80]
+  {{item_3}}: [0.75, 0.52]
+```
+
+## 4. 分类清单
 
 每条必须给出足够长的“为什么重要”，不要只写一句截断描述。
 

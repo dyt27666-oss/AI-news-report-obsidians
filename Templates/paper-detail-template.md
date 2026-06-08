@@ -40,7 +40,7 @@
 
 ## 方法/系统图示
 
-图示必须比文字更“信息密集”：表达问题、方法模块、训练/推理流程、实验信号、局限性和我该不该读。优先用 Mermaid；如果论文原图非常关键，也可在 Mermaid 后附原图链接。
+图示必须比文字更“信息密集”。不要只给单张单调流程图。每篇重要论文至少包含一个 Mermaid 主图和一个辅助视觉结构，例如时间线、象限图、机制表、mindmap 或实验矩阵。主图表达问题、方法模块、训练/推理流程、实验信号、局限性和我该不该读；如果论文原图非常关键，也可在 Mermaid 后附原图链接。
 
 ```mermaid
 flowchart TB
@@ -91,6 +91,20 @@ flowchart TB
   class M1,M2,M3,D,T,I,O method;
   class E1,E2,E3 eval;
   class R1,R2 decision;
+```
+
+### 辅助图：阅读/复现决策矩阵
+
+```mermaid
+quadrantChart
+  title 论文阅读决策：新意 × 可复现性
+  x-axis 低可复现 --> 高可复现
+  y-axis 低新意 --> 高新意
+  quadrant-1 优先复现
+  quadrant-2 读方法
+  quadrant-3 暂存
+  quadrant-4 工程可试
+  当前论文: [{{reproducibility_score}}, {{novelty_score}}]
 ```
 
 ## 专业解读

@@ -36,7 +36,11 @@
 
 ## 信息压缩图示
 
-图示是详情页的核心。优先使用 Mermaid，把系统逻辑、因果关系、数据流、决策点、收益/风险压缩到一张图里。允许更丰富、更“花”的结构，但必须帮助理解，不要装饰。
+图示是详情页的核心。不要只给单张单调流程图。每个重要详情页至少包含一个 Mermaid 主图和一个辅助视觉结构，例如影响矩阵、时间线、象限图、关系网、mindmap 或机制表。
+
+### 主图：机制 / 系统逻辑
+
+优先使用 Mermaid，把系统逻辑、因果关系、数据流、决策点、收益/风险压缩到一张图里。允许更丰富、更“花”的结构，但必须帮助理解，不要装饰。
 
 ```mermaid
 flowchart TB
@@ -80,6 +84,20 @@ flowchart TB
   class P1,I1,I2,S3,E1 hot;
   class I3,S1,S2,S4,E3 core;
   class E2 risk;
+```
+
+### 辅助图：影响力 × 可落地性
+
+```mermaid
+quadrantChart
+  title 影响力 × 可落地性
+  x-axis 低可落地性 --> 高可落地性
+  y-axis 低影响力 --> 高影响力
+  quadrant-1 立即试用/深读
+  quadrant-2 关注趋势
+  quadrant-3 暂存
+  quadrant-4 可工具化
+  当前条目: [{{implementation_score}}, {{impact_score}}]
 ```
 
 ## 专业解读

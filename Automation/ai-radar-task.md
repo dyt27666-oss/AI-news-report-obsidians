@@ -37,21 +37,31 @@
 
 ## 日报结构
 
-日报必须按大类组织，不要混成一个长表。
+日报必须是 Obsidian dashboard，不要只是单调长表。长表只能作为索引之一，必须搭配图、矩阵、卡片区和主题视图。
 
 推荐结构：
 
-1. 今日结论。
-2. 必读 / 高优先级。
-3. 论文。
+1. 今日结论：3-5 条 bullet。
+2. 今日态势图：用 Mermaid 展示今天信息流向，例如“大厂信号 -> 论文趋势 -> GitHub 工具 -> 对 AI Infra/RL 的行动”。
+3. 必读卡片区：用 Markdown callout/card 风格列 3-5 条，不只放表格。
+4. 优先级矩阵：用 Mermaid `quadrantChart` 或 Markdown 表格展示“影响力 × 可落地性”。
+5. 论文。
    - 按主题细分，例如：Serving、RLHF、Agent Eval、World Model、Quantization。
-4. 博客。
+   - 可加 `timeline` 展示近几天论文趋势。
+6. 博客。
    - 按公司/实验室细分，例如：OpenAI、Anthropic、Google DeepMind、Meta AI、NVIDIA、Hugging Face、腾讯、字节、SpaceAI。
-5. 资讯 / GitHub 项目。
+   - 可加公司信号图或 timeline。
+7. 资讯 / GitHub 项目。
    - 按主题细分，例如：LLM Serving、AI Infra、RL Environment、Eval、Agent Framework。
-6. 按主题索引。
-7. 值得后续深挖。
-8. 采集失败或低置信来源。
+   - 可加生态关系网或架构图。
+8. 按主题索引。
+9. 值得后续深挖。
+10. 采集失败或低置信来源。
+
+日报至少包含 2 种非表格可视化/结构化元素：
+
+- Mermaid 态势图、象限图、时间线、mindmap、关系网中的至少一种。
+- 必读卡片区、主题 radar 表、行动清单、影响力矩阵中的至少一种。
 
 日报表格每条必须包含：
 
@@ -126,21 +136,45 @@ GitHub 项目必须明确标注：
 11. 相关链接。
 12. 标签。
 
-## Mermaid 图示要求
+## 图示与结构要求
 
 必须参考：
 
 - `Templates/mermaid-patterns.md`
 
-Obsidian 支持 Mermaid，所以图示可以丰富一些。图示是压缩信息的核心，不是装饰。
+Obsidian 支持丰富 Mermaid，所以不要只用单调流程图。图示是压缩信息的核心，不是装饰。
 
-每个重要论文、博客、资讯详情页至少一张 Mermaid 图。图示应该包含 8-15 个节点，并使用：
+### 日报图示
 
-- `subgraph` 分组。
-- `classDef` 配色。
-- 具体节点名。
-- 多路径逻辑，而不是简单 A -> B -> C。
-- 必要时使用 `flowchart TB/LR`、`mindmap`、`sequenceDiagram`、`timeline`、`quadrantChart`、`gantt`。
+日报必须至少包含 2 种不同类型的结构化呈现，优先组合：
+
+- `flowchart` 今日态势图：表达大厂信号、论文趋势、GitHub 项目和行动建议之间的关系。
+- `quadrantChart` 优先级矩阵：影响力 × 可落地性。
+- `timeline` 时间线：新发布/更新的时间序列。
+- `mindmap` 主题树：AI Infra、LLM、RL、Agent、Eval 的今日分布。
+- Markdown 卡片区 / callout：展示 Top 3-5 必读内容。
+- Markdown 矩阵表：主题 × 来源 × 推荐动作。
+
+日报不能只有一个长表。
+
+### 详情页图示
+
+每个重要论文、博客、资讯详情页至少包含 2 个视觉/结构模块：
+
+1. 一张 Mermaid 主图，8-15 个节点，使用 `subgraph`、`classDef`、具体节点名、多路径逻辑。
+2. 一个辅助结构：机制表、影响矩阵、timeline、quadrantChart、mindmap、sequenceDiagram、gantt 或关系网。
+
+不要只画简单 A -> B -> C。必要时使用：
+
+- `flowchart TB/LR`
+- `mindmap`
+- `sequenceDiagram`
+- `timeline`
+- `quadrantChart`
+- `gantt`
+- `pie`
+- 关系网 graph
+- Markdown 表格/矩阵/callout
 
 ### 论文图示
 
