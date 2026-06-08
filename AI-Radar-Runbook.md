@@ -36,7 +36,9 @@
 
 ## GitHub 同步
 
-远端 repo：`https://github.com/dyt27666-oss/AI-news-report-obsidians.git`
+远端 repo：`git@github-tt:dyt27666-oss/AI-news-report-obsidians.git`
+
+说明：这台机器默认 `git@github.com` 认证到 `hody2`；用于该 repo 的 SSH host 是 `github-tt`，对应 GitHub 用户 `dyt27666-oss`。
 
 每日任务会检测是否存在 git remote；如果存在，会自动 commit 和 push。
 
