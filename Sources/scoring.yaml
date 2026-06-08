@@ -1,0 +1,17 @@
+weights:
+  ai_infra_relevance: 3
+  llm_engineering_value: 3
+  rl_game_model_relevance: 3
+  code_available: 2
+  benchmark_available: 2
+  star_growth: 2
+  company_or_lab_signal: 2
+  novelty: 2
+  production_readiness: 2
+  hype_penalty: -2
+
+labels:
+  must_read: "必读"
+  skim: "可 skim"
+  save: "可收藏"
+  ignore: "暂不重要"

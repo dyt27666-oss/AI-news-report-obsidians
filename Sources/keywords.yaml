@@ -1,0 +1,49 @@
+primary_topics:
+  - ai infra
+  - llm infra
+  - inference serving
+  - distributed training
+  - reinforcement learning
+  - game ai
+  - world model
+  - agent systems
+  - evaluation
+  - post training
+  - alignment
+
+technical_keywords:
+  - vllm
+  - sglang
+  - tensorrt-llm
+  - triton
+  - cuda
+  - flash attention
+  - kv cache
+  - speculative decoding
+  - paged attention
+  - moe
+  - grpo
+  - ppo
+  - dpo
+  - rlhf
+  - rlaif
+  - verl
+  - ray
+  - megatron
+  - deepspeed
+  - fsdp
+  - torch compile
+  - model serving
+  - benchmark
+
+companies:
+  - openai
+  - anthropic
+  - google deepmind
+  - meta ai
+  - nvidia
+  - microsoft research
+  - hugging face
+  - tencent
+  - bytedance
+  - spaceai

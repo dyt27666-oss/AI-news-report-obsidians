@@ -1,0 +1,65 @@
+github:
+  trending_queries:
+    - "topic:artificial-intelligence stars:>1000"
+    - "topic:llm stars:>500"
+    - "topic:machine-learning stars:>1000"
+    - "topic:reinforcement-learning stars:>100"
+    - "topic:agents stars:>100"
+    - "topic:inference stars:>100"
+    - "topic:cuda stars:>100"
+    - "topic:triton stars:>50"
+    - "vllm OR sglang OR tensorrt-llm"
+    - "grpo OR rlhf OR verl OR openrlhf"
+  sort_modes:
+    - stars
+    - updated
+    - created
+
+papers:
+  arxiv_categories:
+    - cs.AI
+    - cs.LG
+    - cs.CL
+    - cs.DC
+    - stat.ML
+  queries:
+    - "large language model inference"
+    - "reinforcement learning language models"
+    - "distributed training large language models"
+    - "LLM serving"
+    - "agent evaluation"
+    - "world model reinforcement learning"
+    - "game reinforcement learning"
+    - "post training language models"
+
+company_blogs:
+  - name: OpenAI Blog
+    url: https://openai.com/news/
+  - name: OpenAI Research
+    url: https://openai.com/research/
+  - name: Anthropic News
+    url: https://www.anthropic.com/news
+  - name: Anthropic Research
+    url: https://www.anthropic.com/research
+  - name: Google DeepMind Blog
+    url: https://deepmind.google/discover/blog/
+  - name: Meta AI Blog
+    url: https://ai.meta.com/blog/
+  - name: NVIDIA Technical Blog AI
+    url: https://developer.nvidia.com/blog/category/artificial-intelligence/
+  - name: Hugging Face Blog
+    url: https://huggingface.co/blog
+  - name: Microsoft Research AI
+    url: https://www.microsoft.com/en-us/research/research-area/artificial-intelligence/
+  - name: Tencent AI Lab
+    url: https://ai.tencent.com/ailab/en/index
+  - name: ByteDance Seed
+    url: https://seed.bytedance.com/en/
+  - name: SpaceAI
+    url: https://spaceai.com/
+
+optional_sources:
+  - Hacker News
+  - Hugging Face Trending
+  - Papers with Code
+  - Reddit MachineLearning
