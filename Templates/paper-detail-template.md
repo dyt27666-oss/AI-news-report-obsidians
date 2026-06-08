@@ -26,10 +26,14 @@
 
 | 字段 | 内容 |
 |---|---|
+| 论文来源 | {{paper_source}} |
+| 来源类型 | {{source_type}} |
 | 标题 | {{paper_title}} |
 | 作者/机构 | {{authors}} |
 | 发布时间 | {{published_at}} |
 | arXiv | [abs]({{arxiv_url}}) |
+| OpenReview / 会议页 | {{openreview_or_conference_url}} |
+| Semantic Scholar | {{semantic_scholar_url}} |
 | PDF | [pdf]({{pdf_url}}) |
 | 代码 | {{code_url}} |
 | 方向 | {{topic}} |

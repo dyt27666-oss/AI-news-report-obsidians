@@ -24,7 +24,9 @@
 
 | 字段 | 内容 |
 |---|---|
-| 来源 | {{source_name}} |
+| 发布方/来源 | {{source_name}} |
+| 大厂/实验室 | {{company_or_lab}} |
+| 栏目/来源类型 | {{source_type}} |
 | 作者/机构 | {{authors_or_org}} |
 | 发布时间 | {{published_at}} |
 | 原文 | [原文]({{source_url}}) |
