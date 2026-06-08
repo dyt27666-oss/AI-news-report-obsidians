@@ -1,94 +1,82 @@
 # AI Radar Daily - {{date}}
 
 > 生成时间：{{datetime_bj}}
-> 范围：AI Infra / LLM / RL / Game AI / 大厂博客 / 论文 / GitHub
-> 说明：日报是总览导航页，不是全部正文。点击“详情页”进入项目/论文/博客的完整卡片。
+> 范围：AI Infra / LLM / RL / Game AI / 大厂博客 / 论文 / GitHub / 行业资讯
+> 说明：日报是总览导航页，不是全部正文。Obsidian 中点 `[[详情页]]`，Telegram/GitHub 中点“网页详情”。
 
 ## 0. 今日结论
 
-- 今日最值得关注：
-- 对 AI Infra 的直接影响：
-- 对 LLM 训练 / 推理 / Agent 的影响：
-- 对 RL / 游戏模型训练的影响：
-- 建议今天深读：
+- 今日最值得关注：{{top_takeaway}}
+- 对 AI Infra 的直接影响：{{infra_takeaway}}
+- 对 LLM 训练 / 推理 / Agent 的影响：{{llm_takeaway}}
+- 对 RL / 游戏模型训练的影响：{{rl_takeaway}}
+- 建议今天深读：{{reading_plan}}
 
-## 1. 可点击总清单
+## 1. 必读 / 高优先级
 
-| 优先级 | 类型 | 分类 | 标题 | 一句话价值 | 详情页 | 原文 |
+每条必须给出足够长的“为什么重要”，不要只写一句截断描述。
+
+| 标签 | 大类 | 小类 | 标题 | 重点概括 | 为什么重要 | Obsidian 详情 | 网页详情 | 原文 |
+|---|---|---|---|---|---|---|---|---|
+| 必读 | 论文/博客/资讯/GitHub | 主题/公司/人物 | {{title}} | {{summary_zh}} | {{why_it_matters}} | [[{{note_path}}]] | [网页详情]({{github_blob_url}}) | [原文]({{source_url}}) |
+
+## 2. 论文
+
+### 2.1 {{topic_name}}
+
+| 标签 | 论文 | 作者/机构 | 重点概括 | 工程/研究价值 | Obsidian 详情 | 网页详情 | PDF/原文 |
+|---|---|---|---|---|---|---|---|
+
+## 3. 博客
+
+### 3.1 {{company_or_lab}}
+
+| 标签 | 公司/实验室 | 标题 | 重点概括 | 工程/算法影响 | Obsidian 详情 | 网页详情 | 原文 |
+|---|---|---|---|---|---|---|---|
+
+## 4. 资讯 / GitHub 项目
+
+### 4.1 {{topic_name}}
+
+| 标签 | 来源 | 标题 | 重点概括 | 对我有什么用 | Obsidian 详情 | 网页详情 | 原文 |
+|---|---|---|---|---|---|---|---|
+
+## 5. 按主题索引
+
+### AI Infra / Serving / Training
+
+- [[{{note_path}}]] - {{short_reason}}
+
+### LLM / Agent / RAG / Evaluation
+
+- [[{{note_path}}]] - {{short_reason}}
+
+### RL / Game AI / World Model
+
+- [[{{note_path}}]] - {{short_reason}}
+
+### 公司 / 实验室
+
+- OpenAI: [[{{note_path}}]]
+- Anthropic: [[{{note_path}}]]
+- DeepMind: [[{{note_path}}]]
+- Meta: [[{{note_path}}]]
+- NVIDIA: [[{{note_path}}]]
+- 腾讯 / 字节 / 国内大厂: [[{{note_path}}]]
+
+### 大牛 / 作者
+
+- {{person_or_author}}: [[{{note_path}}]]
+
+## 6. 值得后续深挖
+
+| 标签 | 大类 | 小类 | 标题 | 后续动作 | Obsidian 详情 | 原文 |
 |---|---|---|---|---|---|---|
-| 必读 | 论文/项目/博客 | AI Infra |  |  | [[Papers/...]] | [原文](https://example.com) |
 
-## 2. 必读内容 Top 5
-
-### 1. {{title}}
-
-- 类型：{{type}}
-- 分类：{{category}}
-- 推荐等级：{{priority}}
-- 详情页：{{note_link}}
-- 原文链接：{{source_url}}
-
-#### 专业解读
-
-{{professional_explanation}}
-
-#### 通俗解释
-
-{{plain_explanation}}
-
-#### 为什么值得今天看
-
-- {{reason_1}}
-- {{reason_2}}
-
-## 3. GitHub 高 Star 项目
-
-| 项目 | Stars | 增长信号 | 分类 | 推荐等级 | 详情页 | 原文 |
-|---|---:|---:|---|---|---|---|
-
-## 4. GitHub Star 增长最快项目
-
-| 项目 | Stars | 近期增长 | 分类 | 推荐等级 | 详情页 | 原文 |
-|---|---:|---:|---|---|---|---|
-
-## 5. AI Infra / Serving / Training
-
-| 标题 | 类型 | 一句话价值 | 推荐等级 | 详情页 | 原文 |
-|---|---|---|---|---|---|
-
-## 6. LLM / Agent / RAG / Evaluation
-
-| 标题 | 类型 | 一句话价值 | 推荐等级 | 详情页 | 原文 |
-|---|---|---|---|---|---|
-
-## 7. RL / Game AI / World Model
-
-| 标题 | 类型 | 一句话价值 | 推荐等级 | 详情页 | 原文 |
-|---|---|---|---|---|---|
-
-## 8. 最新论文
-
-| 论文 | 机构/作者 | 方向 | 推荐等级 | 详情页 | PDF/原文 |
-|---|---|---|---|---|---|
-
-## 9. 大厂动态与工程博客
-
-| 发布方 | 标题 | 工程/算法影响 | 推荐等级 | 详情页 | 原文 |
-|---|---|---|---|---|---|
-
-## 10. 值得后续深挖
-
-| 标题 | 类型 | 后续动作 | 详情页/原文 |
-|---|---|---|---|
-
-## 11. 今日知识卡片
-
-- [[Concepts/...]]
-
-## 12. 采集失败或低置信来源
+## 7. 采集失败或低置信来源
 
 - 无 / {{failed_sources}}
 
-## 13. 归档标签
+## 8. 归档标签
 
 #ai-radar #daily #ai-infra #llm #rl
