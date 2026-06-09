@@ -100,32 +100,63 @@ quadrantChart
 |---|---|---|---|---|---|---|---|---|
 | 必读 | 论文/博客/资讯/GitHub | 主题/公司/人物 | {{title}} | {{summary_zh}} | {{why_it_matters}} | [[{{note_path}}]] | [网页详情]({{github_blob_url}}) | [原文]({{source_url}}) |
 
-## 2. 论文
-
-论文必须标注来源平台和来源类型，例如 arXiv、OpenReview、Semantic Scholar、Papers with Code、公司 Research Blog、会议论文页。不要只写标题。
-
-### 2.1 {{topic_name}}
-
-| 标签 | 论文来源 | 论文 | 作者/机构 | 重点概括 | 工程/研究价值 | Obsidian 详情 | 网页详情 | PDF/原文 |
-|---|---|---|---|---|---|---|---|---|
-
-## 3. 博客
+## 5. 大厂资讯 / 工程博客 / Research
 
 大厂博客必须显式标注发布方/大厂，不允许只写“博客”。发布方示例：OpenAI、Anthropic、Google DeepMind、Meta AI、NVIDIA、Microsoft、Hugging Face、腾讯、字节、SpaceAI。
 
-### 3.1 {{company_or_lab}}
+### 5.1 公司来源扫描矩阵
+
+即使没有高相关新项，也必须保留这一节，避免误以为未扫描。
+
+| 公司/实验室 | 来源/栏目 | 今日状态 | 高相关条数 | 代表条目 | 备注 |
+|---|---|---|---:|---|---|
+| OpenAI | News / Research | {{status}} | {{count}} | {{title_or_none}} | {{note}} |
+| Anthropic | News / Research / Engineering | {{status}} | {{count}} | {{title_or_none}} | {{note}} |
+| Google DeepMind | Blog / Research | {{status}} | {{count}} | {{title_or_none}} | {{note}} |
+| Meta AI | Blog / Research | {{status}} | {{count}} | {{title_or_none}} | {{note}} |
+| NVIDIA | Technical Blog / AI | {{status}} | {{count}} | {{title_or_none}} | {{note}} |
+| Microsoft | Research AI | {{status}} | {{count}} | {{title_or_none}} | {{note}} |
+| Hugging Face | Blog / Papers / Releases | {{status}} | {{count}} | {{title_or_none}} | {{note}} |
+| 腾讯 | AI Lab / 技术博客 | {{status}} | {{count}} | {{title_or_none}} | {{note}} |
+| 字节 | Seed / 技术博客 | {{status}} | {{count}} | {{title_or_none}} | {{note}} |
+| SpaceAI | Blog / News | {{status}} | {{count}} | {{title_or_none}} | {{note}} |
+
+### 5.2 高相关大厂条目
 
 | 标签 | 发布方/大厂 | 栏目/来源 | 标题 | 重点概括 | 工程/算法影响 | Obsidian 详情 | 网页详情 | 原文 |
 |---|---|---|---|---|---|---|---|---|
 
-## 4. 资讯 / GitHub 项目
+## 6. GitHub 高 star Top 10
 
-### 4.1 {{topic_name}}
+必须单独输出 10 条；如果不足 10 条，必须解释 API/rate limit/过滤原因。
+
+| 排名 | repo | stars | forks | language | updated_at | topics | 重点概括 | 是否值得试用 | Obsidian 详情 | 原文 |
+|---:|---|---:|---:|---|---|---|---|---|---|---|
+
+## 7. GitHub star 增长最快 Top 10
+
+必须单独输出 10 条。优先使用历史 snapshot 计算 `stars_delta`；冷启动时必须标注“冷启动代理，非真实日增”。
+
+| 排名 | repo | stars_delta | stars | forks | language | updated_at | 增长依据 | 重点概括 | Obsidian 详情 | 原文 |
+|---:|---|---:|---:|---:|---|---|---|---|---|---|
+
+## 8. 论文
+
+论文必须标注来源平台和来源类型，例如 arXiv、OpenReview、Semantic Scholar、Papers with Code、公司 Research Blog、会议论文页。不要只写标题。
+
+### 8.1 {{topic_name}}
+
+| 标签 | 论文来源 | 论文 | 作者/机构 | 重点概括 | 工程/研究价值 | Obsidian 详情 | 网页详情 | PDF/原文 |
+|---|---|---|---|---|---|---|---|---|
+
+## 9. 资讯 / 其他 GitHub 项目
+
+### 9.1 {{topic_name}}
 
 | 标签 | 来源 | 标题 | 重点概括 | 对我有什么用 | Obsidian 详情 | 网页详情 | 原文 |
 |---|---|---|---|---|---|---|---|
 
-## 5. 按主题索引
+## 10. 按主题索引
 
 ### AI Infra / Serving / Training
 
@@ -152,15 +183,15 @@ quadrantChart
 
 - {{person_or_author}}: [[{{note_path}}]]
 
-## 6. 值得后续深挖
+## 11. 值得后续深挖
 
 | 标签 | 大类 | 小类 | 标题 | 后续动作 | Obsidian 详情 | 原文 |
 |---|---|---|---|---|---|---|
 
-## 7. 采集失败或低置信来源
+## 12. 采集失败或低置信来源
 
 - 无 / {{failed_sources}}
 
-## 8. 归档标签
+## 13. 归档标签
 
 #ai-radar #daily #ai-infra #llm #rl

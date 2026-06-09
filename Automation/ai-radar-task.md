@@ -35,6 +35,25 @@
 - `GitHub/.../*.md`：项目/资讯详情页。
 - 必要时生成 `Concepts/.../*.md`：概念卡片。
 
+### 强制覆盖范围
+
+每天日报不能只靠“模型觉得重要”来裁剪来源，必须先完整扫一遍这些固定板块，再做筛选和解读：
+
+1. 大厂资讯 / Research / Engineering Blog。
+   - 必须覆盖 OpenAI、Anthropic、Google DeepMind、Meta AI、NVIDIA、Microsoft、Hugging Face、腾讯、字节、SpaceAI。
+   - 每家公司必须在日报里出现：有高相关新内容则放入博客/大厂动态表；没有高相关新内容也要在“公司来源扫描矩阵”里写清楚“无高相关新项 / 低置信 / 访问失败”。
+   - 每天至少保留 6-10 条大厂/工程博客/研究动态候选；其中至少 3 条生成 `Industry/...` 详情页。若当天不足 3 条，必须解释不足原因。
+2. GitHub 高 star 项目。
+   - 必须单独输出 “GitHub 高 star Top 10” 表，不得只挑 2-3 个项目混进总清单。
+   - 每条必须包含 repo、stars、forks、language、updated_at、topics、原文链接、是否值得试用。
+3. GitHub star 增长最快项目。
+   - 必须单独输出 “GitHub star 增长最快 Top 10” 表。
+   - 优先用本仓库保存的昨日/历史 star snapshot 计算 `stars_delta`。
+   - 如果没有历史 snapshot，必须用 GitHub Trending、近期 created/updated + stars 排序作为冷启动代理，并明确标注“冷启动代理，非真实日增”。
+   - 每次运行后必须保存当日 GitHub star snapshot，路径为 `Automation/state/github-stars-YYYY-MM-DD.json`，供次日计算真实增长。
+4. 论文。
+   - 继续保留高信号论文，但不能挤掉大厂和 GitHub 固定板块。
+
 ## 日报结构
 
 日报必须是 Obsidian dashboard，不要只是单调长表。长表只能作为索引之一，必须搭配图、矩阵、卡片区和主题视图。
@@ -45,18 +64,25 @@
 2. 今日态势图：用 Mermaid 展示今天信息流向，例如“大厂信号 -> 论文趋势 -> GitHub 工具 -> 对 AI Infra/RL 的行动”。
 3. 必读卡片区：用 Markdown callout/card 风格列 3-5 条，不只放表格。
 4. 优先级矩阵：用 Mermaid `quadrantChart` 或 Markdown 表格展示“影响力 × 可落地性”。
-5. 论文。
+5. 大厂资讯 / 工程博客 / Research。
+   - 按公司/实验室细分，例如：OpenAI、Anthropic、Google DeepMind、Meta AI、NVIDIA、Hugging Face、腾讯、字节、SpaceAI。
+   - 必须包含“公司来源扫描矩阵”，即使某家公司今天没有高相关新项也要出现状态。
+   - 可加公司信号图或 timeline。
+6. GitHub 高 star Top 10。
+   - 单独表格，不得省略。
+   - 重点看 AI Infra、LLM serving/training、agent、eval、RL、world model、MLOps。
+7. GitHub star 增长最快 Top 10。
+   - 单独表格，不得省略。
+   - 真实增长优先；无历史 snapshot 时明确标注冷启动代理。
+8. 论文。
    - 按主题细分，例如：Serving、RLHF、Agent Eval、World Model、Quantization。
    - 可加 `timeline` 展示近几天论文趋势。
-6. 博客。
-   - 按公司/实验室细分，例如：OpenAI、Anthropic、Google DeepMind、Meta AI、NVIDIA、Hugging Face、腾讯、字节、SpaceAI。
-   - 可加公司信号图或 timeline。
-7. 资讯 / GitHub 项目。
+9. 资讯 / 其他项目。
    - 按主题细分，例如：LLM Serving、AI Infra、RL Environment、Eval、Agent Framework。
    - 可加生态关系网或架构图。
-8. 按主题索引。
-9. 值得后续深挖。
-10. 采集失败或低置信来源。
+10. 按主题索引。
+11. 值得后续深挖。
+12. 采集失败或低置信来源。
 
 日报至少包含 2 种非表格可视化/结构化元素：
 
@@ -116,6 +142,17 @@ GitHub 项目必须明确标注：
 - 原文链接。
 - 是否有 benchmark / docs / examples / release。
 - 是否值得试用。
+
+GitHub 必须分成两个固定榜单：
+
+1. `GitHub 高 star Top 10`：按 stars 排序，重点关注 AI Infra、LLM serving/training、agent、eval、RL、world model、MLOps。不能只给 3 个项目。
+2. `GitHub star 增长最快 Top 10`：按 `stars_delta` 排序；如果没有昨日 snapshot，则用冷启动代理，并写明“非真实日增”。
+
+每次运行必须做 snapshot：
+
+- 读取最近一个 `Automation/state/github-stars-*.json` 作为 baseline。
+- 把今天扫描到的 repo 元数据保存到 `Automation/state/github-stars-YYYY-MM-DD.json`。
+- snapshot 字段至少包含：`repo`, `stars`, `forks`, `language`, `updated_at`, `pushed_at`, `topics`, `html_url`, `description`, `collected_at`。
 
 ## 详情页要求
 
@@ -219,6 +256,17 @@ AI Infra 项目图示必须表达：
 - 不要堆砌信息。日报 10-20 条，详情页展开。
 - 每条必须保留原文链接。
 - 低置信内容要明确标注低置信，不要混入必读。
+
+## 运行前后验收检查
+
+生成日报前必须读取本文件和 `Sources/sources.yaml`。生成日报后必须检查当天 `Daily/YYYY-MM-DD.md` 是否满足以下硬性条件，不满足就继续补齐，不要直接推送：
+
+- 存在 `## 5. 大厂资讯 / 工程博客 / Research`。
+- 存在 `### 5.1 公司来源扫描矩阵`，且矩阵包含 OpenAI、Anthropic、Google DeepMind、Meta AI、NVIDIA、Microsoft、Hugging Face、腾讯、字节、SpaceAI。
+- 存在 `## 6. GitHub 高 star Top 10`，表内尽量 10 条；不足 10 条必须写明原因。
+- 存在 `## 7. GitHub star 增长最快 Top 10`，表内尽量 10 条；若无历史 snapshot 必须写“冷启动代理，非真实日增”。
+- 存在 `Automation/state/github-stars-YYYY-MM-DD.json`。
+- Telegram 摘要必须提到大厂扫描、GitHub 高 star Top 10、GitHub 增长 Top 10 是否已生成。
 
 ## GitHub / Telegram
 
