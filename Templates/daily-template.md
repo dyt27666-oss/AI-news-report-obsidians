@@ -140,23 +140,47 @@ quadrantChart
 | 排名 | repo | stars_delta | stars | forks | language | updated_at | 增长依据 | 重点概括 | Obsidian 详情 | 原文 |
 |---:|---|---:|---:|---:|---|---|---|---|---|---|
 
-## 8. 论文
+## 8. Coding 工具 / AI 工具功能更新
+
+必须单独输出这一节，覆盖 Claude Code、OpenAI Codex、Cursor、Windsurf、GitHub Copilot、Gemini Code Assist、Qwen Code、Roo Code、Cline、Continue 等热门 coding/AI 工具。重点捕捉 Claude Tag、agent mode、MCP、IDE 集成、远程执行、权限模式、上下文窗口、CLI/TUI、pricing/rate limit 等功能变化。
+
+### 8.1 Coding 工具扫描矩阵
+
+| 工具 | 厂商 | 来源类型 | 今日状态 | 代表更新 | 对我的影响 | 原文 |
+|---|---|---|---|---|---|---|
+| Claude Code | Anthropic | Changelog / Release Notes | {{status}} | {{update_or_none}} | {{impact}} | {{source_url}} |
+| OpenAI Codex | OpenAI | Changelog / Docs | {{status}} | {{update_or_none}} | {{impact}} | {{source_url}} |
+| Cursor | Cursor | Changelog | {{status}} | {{update_or_none}} | {{impact}} | {{source_url}} |
+| Windsurf | Windsurf | Changelog | {{status}} | {{update_or_none}} | {{impact}} | {{source_url}} |
+| GitHub Copilot | GitHub | Changelog / Blog | {{status}} | {{update_or_none}} | {{impact}} | {{source_url}} |
+| Gemini Code Assist | Google | Release Notes | {{status}} | {{update_or_none}} | {{impact}} | {{source_url}} |
+| Qwen Code | Alibaba/Qwen | GitHub Releases | {{status}} | {{update_or_none}} | {{impact}} | {{source_url}} |
+| Roo Code | Roo Code | GitHub Releases | {{status}} | {{update_or_none}} | {{impact}} | {{source_url}} |
+| Cline | Cline | GitHub Releases | {{status}} | {{update_or_none}} | {{impact}} | {{source_url}} |
+| Continue | Continue | GitHub Releases | {{status}} | {{update_or_none}} | {{impact}} | {{source_url}} |
+
+### 8.2 高相关工具更新
+
+| 标签 | 工具/厂商 | 来源类型 | 标题/功能 | 重点概括 | 对 AI coding 工作流的影响 | Obsidian 详情 | 网页详情 | 原文 |
+|---|---|---|---|---|---|---|---|---|
+
+## 9. 论文
 
 论文必须标注来源平台和来源类型，例如 arXiv、OpenReview、Semantic Scholar、Papers with Code、公司 Research Blog、会议论文页。不要只写标题。
 
-### 8.1 {{topic_name}}
+### 9.1 {{topic_name}}
 
 | 标签 | 论文来源 | 论文 | 作者/机构 | 重点概括 | 工程/研究价值 | Obsidian 详情 | 网页详情 | PDF/原文 |
 |---|---|---|---|---|---|---|---|---|
 
-## 9. 资讯 / 其他 GitHub 项目
+## 10. 资讯 / 其他 GitHub 项目
 
-### 9.1 {{topic_name}}
+### 10.1 {{topic_name}}
 
 | 标签 | 来源 | 标题 | 重点概括 | 对我有什么用 | Obsidian 详情 | 网页详情 | 原文 |
 |---|---|---|---|---|---|---|---|
 
-## 10. 按主题索引
+## 11. 按主题索引
 
 ### AI Infra / Serving / Training
 
@@ -183,15 +207,15 @@ quadrantChart
 
 - {{person_or_author}}: [[{{note_path}}]]
 
-## 11. 值得后续深挖
+## 12. 值得后续深挖
 
 | 标签 | 大类 | 小类 | 标题 | 后续动作 | Obsidian 详情 | 原文 |
 |---|---|---|---|---|---|---|
 
-## 12. 采集失败或低置信来源
+## 13. 采集失败或低置信来源
 
 - 无 / {{failed_sources}}
 
-## 13. 归档标签
+## 14. 归档标签
 
 #ai-radar #daily #ai-infra #llm #rl

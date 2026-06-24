@@ -58,6 +58,60 @@ company_blogs:
   - name: SpaceAI
     url: https://spaceai.com/
 
+coding_ai_tools:
+  - name: Claude Code Changelog
+    vendor: Anthropic
+    url: https://docs.anthropic.com/en/release-notes/claude-code
+    category: coding-agent
+  - name: Claude Code Overview
+    vendor: Anthropic
+    url: https://docs.anthropic.com/en/docs/claude-code/overview
+    category: coding-agent
+  - name: OpenAI Codex Changelog
+    vendor: OpenAI
+    url: https://developers.openai.com/codex/changelog
+    category: coding-agent
+  - name: OpenAI Codex Docs
+    vendor: OpenAI
+    url: https://developers.openai.com/codex/
+    category: coding-agent
+  - name: Cursor Changelog
+    vendor: Cursor
+    url: https://cursor.com/changelog
+    category: ai-ide
+  - name: Windsurf Changelog
+    vendor: Windsurf
+    url: https://windsurf.com/changelog
+    category: ai-ide
+  - name: GitHub Copilot Changelog
+    vendor: GitHub
+    url: https://github.blog/changelog/label/copilot/
+    category: coding-assistant
+  - name: GitHub Copilot Blog
+    vendor: GitHub
+    url: https://github.blog/ai-and-ml/github-copilot/
+    category: coding-assistant
+  - name: Gemini Code Assist Release Notes
+    vendor: Google
+    url: https://cloud.google.com/gemini/docs/codeassist/release-notes
+    category: coding-assistant
+  - name: Qwen Code Releases
+    vendor: Alibaba/Qwen
+    url: https://github.com/QwenLM/qwen-code/releases
+    category: coding-agent
+  - name: Roo Code Releases
+    vendor: Roo Code
+    url: https://github.com/RooCodeInc/Roo-Code/releases
+    category: ai-ide-extension
+  - name: Cline Releases
+    vendor: Cline
+    url: https://github.com/cline/cline/releases
+    category: ai-ide-extension
+  - name: Continue Releases
+    vendor: Continue
+    url: https://github.com/continuedev/continue/releases
+    category: ai-ide-extension
+
 optional_sources:
   - Hacker News
   - Hugging Face Trending

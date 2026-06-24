@@ -51,8 +51,13 @@
    - 优先用本仓库保存的昨日/历史 star snapshot 计算 `stars_delta`。
    - 如果没有历史 snapshot，必须用 GitHub Trending、近期 created/updated + stars 排序作为冷启动代理，并明确标注“冷启动代理，非真实日增”。
    - 每次运行后必须保存当日 GitHub star snapshot，路径为 `Automation/state/github-stars-YYYY-MM-DD.json`，供次日计算真实增长。
-4. 论文。
-   - 继续保留高信号论文，但不能挤掉大厂和 GitHub 固定板块。
+4. 热门 coding 工具 / AI 工具功能更新。
+   - 必须覆盖 Claude Code、OpenAI Codex、Cursor、Windsurf、GitHub Copilot、Gemini Code Assist、Qwen Code、Roo Code、Cline、Continue 等开发者 AI 工具。
+   - 重点捕捉功能更新、release notes、changelog、定价/权限/上下文窗口/agent 能力/MCP/插件/远程执行/IDE 集成变化。
+   - 例如 Claude 发布 Claude Tag、Codex 新增 CLI/IDE 能力、Cursor/Windsurf agent 模式更新，都要进入 news 推送。
+   - 没有高相关新内容也要在“Coding 工具扫描矩阵”里写清楚状态，不能省略。
+5. 论文。
+   - 继续保留高信号论文，但不能挤掉大厂、GitHub 和 coding 工具固定板块。
 
 ## 日报结构
 
@@ -74,15 +79,19 @@
 7. GitHub star 增长最快 Top 10。
    - 单独表格，不得省略。
    - 真实增长优先；无历史 snapshot 时明确标注冷启动代理。
-8. 论文。
+8. Coding 工具 / AI 工具功能更新。
+   - 单独板块，不得省略。
+   - 必须包含 Claude Code、OpenAI Codex、Cursor、Windsurf、GitHub Copilot、Gemini Code Assist、Qwen Code、Roo Code、Cline、Continue 的扫描状态。
+   - 有重要功能更新时写入 news 推送，并按需生成 `Industry/Tools/...` 或 `GitHub/Tools/...` 详情页。
+9. 论文。
    - 按主题细分，例如：Serving、RLHF、Agent Eval、World Model、Quantization。
    - 可加 `timeline` 展示近几天论文趋势。
-9. 资讯 / 其他项目。
+10. 资讯 / 其他项目。
    - 按主题细分，例如：LLM Serving、AI Infra、RL Environment、Eval、Agent Framework。
    - 可加生态关系网或架构图。
-10. 按主题索引。
-11. 值得后续深挖。
-12. 采集失败或低置信来源。
+11. 按主题索引。
+12. 值得后续深挖。
+13. 采集失败或低置信来源。
 
 日报至少包含 2 种非表格可视化/结构化元素：
 
@@ -129,6 +138,19 @@
 - 原文链接。
 
 不要只写“博客”。
+
+### Coding 工具 / AI 工具功能更新
+
+Coding 工具更新必须明确标注：
+
+- 工具/厂商：Claude Code、OpenAI Codex、Cursor、Windsurf、GitHub Copilot、Gemini Code Assist、Qwen Code、Roo Code、Cline、Continue 等。
+- 来源类型：Changelog、Release Notes、Blog、Docs、GitHub Release、Product Announcement。
+- 功能变化：例如 Claude Tag、agent mode、MCP、IDE 集成、远程执行、权限模式、上下文窗口、CLI/TUI 体验、pricing/rate limit。
+- 发布时间或 release tag。
+- 原文链接。
+- 对我的影响：是否影响 AI coding 工作流、tmux 多 agent 监控、代码审查、AI Infra 工程效率。
+
+日报必须包含 `Coding 工具扫描矩阵`：即使没有高相关更新，也要列出扫描状态，避免漏扫。
 
 ### GitHub / 资讯
 
@@ -265,8 +287,9 @@ AI Infra 项目图示必须表达：
 - 存在 `### 5.1 公司来源扫描矩阵`，且矩阵包含 OpenAI、Anthropic、Google DeepMind、Meta AI、NVIDIA、Microsoft、Hugging Face、腾讯、字节、SpaceAI。
 - 存在 `## 6. GitHub 高 star Top 10`，表内尽量 10 条；不足 10 条必须写明原因。
 - 存在 `## 7. GitHub star 增长最快 Top 10`，表内尽量 10 条；若无历史 snapshot 必须写“冷启动代理，非真实日增”。
+- 存在 `## 8. Coding 工具 / AI 工具功能更新` 和 `Coding 工具扫描矩阵`，且矩阵包含 Claude Code、OpenAI Codex、Cursor、Windsurf、GitHub Copilot、Gemini Code Assist、Qwen Code、Roo Code、Cline、Continue。
 - 存在 `Automation/state/github-stars-YYYY-MM-DD.json`。
-- Telegram 摘要必须提到大厂扫描、GitHub 高 star Top 10、GitHub 增长 Top 10 是否已生成。
+- Telegram 摘要必须提到大厂扫描、GitHub 高 star Top 10、GitHub 增长 Top 10、Coding 工具更新是否已生成。
 
 ## GitHub / Telegram
 
