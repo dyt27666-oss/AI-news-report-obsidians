@@ -2,6 +2,8 @@ weights:
   ai_infra_relevance: 3
   llm_engineering_value: 3
   rl_game_model_relevance: 3
+  point_rummy_business_relevance: 4
+  loop_engineering_relevance: 3
   code_available: 2
   benchmark_available: 2
   star_growth: 2

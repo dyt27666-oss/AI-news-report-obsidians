@@ -5,6 +5,11 @@ primary_topics:
   - distributed training
   - reinforcement learning
   - game ai
+  - point rummy
+  - indian rummy
+  - rummy ai
+  - loop engineering
+  - harness engineering
   - world model
   - agent systems
   - evaluation
@@ -35,6 +40,25 @@ technical_keywords:
   - torch compile
   - model serving
   - benchmark
+  - point rummy
+  - indian rummy
+  - gin rummy
+  - rummy bot
+  - rummy ai
+  - rummy reinforcement learning
+  - rummy simulation
+  - rummy scoring
+  - rummy rules engine
+  - imperfect information game
+  - ismcts
+  - mcts
+  - loop engineering
+  - loop engineer
+  - harness engineering
+  - coding agent loop
+  - agent loop
+  - AGENTS.md
+  - context engineering
 
 companies:
   - openai

@@ -10,6 +10,10 @@ github:
     - "topic:triton stars:>50"
     - "vllm OR sglang OR tensorrt-llm"
     - "grpo OR rlhf OR verl OR openrlhf"
+    - "point rummy OR indian rummy OR rummy ai"
+    - "rummy reinforcement learning OR rummy bot OR rummy simulation"
+    - "loop engineering OR loop engineer OR harness engineering"
+    - "coding agent loop OR agent loop design OR AGENTS.md harness"
   sort_modes:
     - stars
     - updated
@@ -31,6 +35,37 @@ papers:
     - "world model reinforcement learning"
     - "game reinforcement learning"
     - "post training language models"
+    - "point rummy artificial intelligence"
+    - "indian rummy reinforcement learning"
+    - "rummy imperfect information game AI"
+    - "gin rummy artificial intelligence MCTS"
+    - "loop engineering coding agents"
+    - "harness engineering AI coding agents"
+
+watch_topics:
+  point_rummy:
+    description: "Point Rummy / Indian Rummy 业务主题：GitHub、论文、规则引擎、AI opponent、RL agent、simulation/evaluator。"
+    github_queries:
+      - "point rummy"
+      - "indian rummy"
+      - "rummy ai"
+      - "rummy reinforcement learning"
+      - "gin rummy ai"
+    paper_queries:
+      - "point rummy artificial intelligence"
+      - "indian rummy reinforcement learning"
+      - "rummy imperfect information game AI"
+      - "gin rummy MCTS reinforcement learning"
+    required_daily_section: "## 9. Point Rummy / Indian Rummy 业务主题"
+  loop_engineer:
+    description: "Loop Engineer / Loop Engineering 主题：coding-agent loop、harness engineering、AGENTS.md、skills、eval loop。"
+    github_queries:
+      - "loop engineering"
+      - "loop engineer"
+      - "harness engineering"
+      - "coding agent loop"
+      - "AGENTS.md harness"
+    required_daily_section: "## 10. Loop Engineer / Loop Engineering 主题"
 
 company_blogs:
   - name: OpenAI Blog

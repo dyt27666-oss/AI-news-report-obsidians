@@ -164,23 +164,62 @@ quadrantChart
 | 标签 | 工具/厂商 | 来源类型 | 标题/功能 | 重点概括 | 对 AI coding 工作流的影响 | Obsidian 详情 | 网页详情 | 原文 |
 |---|---|---|---|---|---|---|---|---|
 
-## 9. 论文
+## 9. Point Rummy / Indian Rummy 业务主题
+
+这是用户近期业务重点；即使没有高相关新项，也必须保留本节并说明低置信/失败来源。
+
+### 9.1 GitHub 候选
+
+| 标签 | repo | stars | forks | language | updated_at | 重点概括 | 业务可用性 | Obsidian 详情 | 原文 |
+|---|---|---:|---:|---|---|---|---|---|---|
+
+### 9.2 论文 / 资料候选
+
+| 标签 | 来源 | 标题 | 作者/机构 | 重点概括 | 对 Point Rummy 业务有什么用 | Obsidian 详情 | 原文 |
+|---|---|---|---|---|---|---|---|
+
+### 9.3 业务可用性判断
+
+| 方向 | 今日信号 | 可用性 | 下一步 |
+|---|---|---|---|
+| 规则引擎 / 计分 | {{rummy_rules_signal}} | {{rummy_rules_value}} | {{rummy_rules_next}} |
+| Bot / RL Agent | {{rummy_agent_signal}} | {{rummy_agent_value}} | {{rummy_agent_next}} |
+| 仿真 / 评测 | {{rummy_sim_signal}} | {{rummy_sim_value}} | {{rummy_sim_next}} |
+
+## 10. Loop Engineer / Loop Engineering 主题
+
+### 10.1 Loop Engineer GitHub 高 star Top 10
+
+| 排名 | repo | stars | forks | language | updated_at | topics | 重点概括 | 是否值得试用 | Obsidian 详情 | 原文 |
+|---:|---|---:|---:|---|---|---|---|---|---|---|
+
+### 10.2 Loop Engineer GitHub star 增长最快 Top 10
+
+| 排名 | repo | stars_delta | stars | forks | language | updated_at | 增长依据 | 重点概括 | Obsidian 详情 | 原文 |
+|---:|---|---:|---:|---:|---|---|---|---|---|---|
+
+### 10.3 Loop Engineering 方法信号
+
+| 标签 | 来源 | 标题 | 重点概括 | 对 AI coding 工作流的影响 | Obsidian 详情 | 原文 |
+|---|---|---|---|---|---|---|
+
+## 11. 论文
 
 论文必须标注来源平台和来源类型，例如 arXiv、OpenReview、Semantic Scholar、Papers with Code、公司 Research Blog、会议论文页。不要只写标题。
 
-### 9.1 {{topic_name}}
+### 11.1 {{topic_name}}
 
 | 标签 | 论文来源 | 论文 | 作者/机构 | 重点概括 | 工程/研究价值 | Obsidian 详情 | 网页详情 | PDF/原文 |
 |---|---|---|---|---|---|---|---|---|
 
-## 10. 资讯 / 其他 GitHub 项目
+## 12. 资讯 / 其他 GitHub 项目
 
-### 10.1 {{topic_name}}
+### 12.1 {{topic_name}}
 
 | 标签 | 来源 | 标题 | 重点概括 | 对我有什么用 | Obsidian 详情 | 网页详情 | 原文 |
 |---|---|---|---|---|---|---|---|
 
-## 11. 按主题索引
+## 13. 按主题索引
 
 ### AI Infra / Serving / Training
 
@@ -191,6 +230,14 @@ quadrantChart
 - [[{{note_path}}]] - {{short_reason}}
 
 ### RL / Game AI / World Model
+
+- [[{{note_path}}]] - {{short_reason}}
+
+### Point Rummy / Indian Rummy
+
+- [[{{note_path}}]] - {{short_reason}}
+
+### Loop Engineer / Coding Agent Loop
 
 - [[{{note_path}}]] - {{short_reason}}
 
@@ -207,15 +254,15 @@ quadrantChart
 
 - {{person_or_author}}: [[{{note_path}}]]
 
-## 12. 值得后续深挖
+## 14. 值得后续深挖
 
 | 标签 | 大类 | 小类 | 标题 | 后续动作 | Obsidian 详情 | 原文 |
 |---|---|---|---|---|---|---|
 
-## 13. 采集失败或低置信来源
+## 15. 采集失败或低置信来源
 
 - 无 / {{failed_sources}}
 
-## 14. 归档标签
+## 16. 归档标签
 
-#ai-radar #daily #ai-infra #llm #rl
+#ai-radar #daily #ai-infra #llm #rl #point-rummy #loop-engineering

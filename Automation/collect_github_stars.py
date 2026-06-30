@@ -22,14 +22,43 @@ QUERIES = [
     "topic:triton stars:>50",
     "vllm OR sglang OR tensorrt-llm",
     "grpo OR rlhf OR verl OR openrlhf",
+    "point rummy OR indian rummy OR rummy ai",
+    "rummy reinforcement learning OR rummy bot OR rummy simulation",
+    "loop engineering OR loop engineer OR harness engineering",
+    "coding agent loop OR agent loop design OR AGENTS.md harness",
 ]
+
+THEME_QUERIES = {
+    "point_rummy": [
+        "point rummy",
+        "indian rummy",
+        "rummy ai",
+        "rummy reinforcement learning",
+        "gin rummy ai",
+    ],
+    "loop_engineer": [
+        "loop engineering",
+        "loop engineer",
+        "harness engineering",
+        "coding agent loop",
+        "AGENTS.md harness",
+    ],
+}
 
 KEEP_KEYWORDS = {
     "llm", "large-language-model", "ai", "artificial-intelligence", "machine-learning",
     "deep-learning", "reinforcement-learning", "rl", "agent", "agents", "inference",
     "serving", "model-serving", "cuda", "triton", "pytorch", "mlops", "evaluation",
     "benchmark", "rag", "transformer", "alignment", "rlhf", "vllm", "sglang",
+    "rummy", "indian-rummy", "point-rummy", "gin-rummy", "card-game", "mcts", "ismcts",
+    "loop-engineering", "loop", "harness", "coding-agent", "agents-md", "context-engineering",
 }
+
+POINT_RUMMY_TERMS = ("rummy", "indian rummy", "point rummy", "gin rummy")
+LOOP_ENGINEER_TERMS = (
+    "loop engineering", "loop-engineering", "loop engineer", "harness engineering",
+    "coding agent loop", "agent loop", "agents.md", "context engineering",
+)
 
 def fetch_json(url: str) -> dict:
     req = urllib.request.Request(url, headers={"User-Agent": "ai-radar-github-snapshot"})
@@ -55,13 +84,39 @@ def normalize(repo: dict, collected_at: str) -> dict:
         "collected_at": collected_at,
     }
 
-def relevant(r: dict) -> bool:
-    text = " ".join([
+def repo_text(r: dict) -> str:
+    return " ".join([
         r.get("repo") or "",
         r.get("description") or "",
         " ".join(r.get("topics") or []),
     ]).lower()
+
+
+def relevant(r: dict) -> bool:
+    text = repo_text(r)
     return any(k in text for k in KEEP_KEYWORDS)
+
+
+def tag_themes(item: dict) -> list[str]:
+    text = repo_text(item)
+    themes = []
+    if any(term in text for term in POINT_RUMMY_TERMS):
+        themes.append("point_rummy")
+    if any(term in text for term in LOOP_ENGINEER_TERMS):
+        themes.append("loop_engineer")
+    return themes
+
+
+def theme_top(repos: list[dict], theme: str, limit: int) -> dict:
+    items = [r for r in repos if theme in (r.get("themes") or [])]
+    high_star = sorted(items, key=lambda x: (x.get("stars") or 0), reverse=True)[:limit]
+    growth = sorted(
+        items,
+        key=lambda x: (x.get("stars_delta") if x.get("stars_delta") is not None else -1, x.get("updated_at") or ""),
+        reverse=True,
+    )[:limit]
+    return {"repos": items, "high_star_top10": high_star, "growth_top10": growth}
+
 
 def previous_snapshot(state_dir: Path, date: str) -> Dict[str, dict]:
     files = sorted(p for p in state_dir.glob("github-stars-*.json") if date not in p.name)
@@ -84,7 +139,14 @@ def main() -> None:
 
     by_repo: Dict[str, dict] = {}
     errors = []
-    for query in QUERIES:
+    # Theme-specific queries run first so niche business topics are not lost if
+    # GitHub's unauthenticated search quota is exhausted by broad AI queries.
+    all_queries = []
+    for queries in THEME_QUERIES.values():
+        all_queries.extend(queries)
+    all_queries.extend(QUERIES)
+
+    for query in all_queries:
         for sort in ("stars", "updated"):
             try:
                 for repo in search_repos(query, sort):
@@ -102,6 +164,9 @@ def main() -> None:
         old = prev.get(item["repo"])
         item["stars_delta"] = None if old is None else item["stars"] - int(old.get("stars", 0))
         item["growth_basis"] = "historical_snapshot" if old else "cold_start_proxy_updated_or_stars"
+        item["themes"] = tag_themes(item)
+
+    theme_sections = {theme: theme_top(repos, theme, args.limit) for theme in THEME_QUERIES}
 
     high_star = sorted(repos, key=lambda x: (x.get("stars") or 0), reverse=True)[: args.limit]
     if cold_start:
@@ -114,11 +179,13 @@ def main() -> None:
         "collected_at": collected_at,
         "cold_start": cold_start,
         "baseline_available": not cold_start,
-        "queries": QUERIES,
+        "queries": all_queries,
+        "theme_queries": THEME_QUERIES,
         "errors": errors,
         "repos": sorted(repos, key=lambda x: x["repo"].lower()),
         "high_star_top10": high_star,
         "growth_top10": growth,
+        "theme_sections": theme_sections,
     }
     out_path = state_dir / f"github-stars-{args.date}.json"
     out_path.write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")

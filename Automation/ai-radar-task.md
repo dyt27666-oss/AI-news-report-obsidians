@@ -56,8 +56,19 @@
    - 重点捕捉功能更新、release notes、changelog、定价/权限/上下文窗口/agent 能力/MCP/插件/远程执行/IDE 集成变化。
    - 例如 Claude 发布 Claude Tag、Codex 新增 CLI/IDE 能力、Cursor/Windsurf agent 模式更新，都要进入 news 推送。
    - 没有高相关新内容也要在“Coding 工具扫描矩阵”里写清楚状态，不能省略。
-5. 论文。
-   - 继续保留高信号论文，但不能挤掉大厂、GitHub 和 coding 工具固定板块。
+5. Point Rummy / Indian Rummy 业务主题。
+   - 每天必须单独扫描 Point Rummy / Indian Rummy / Rummy AI / Rummy reinforcement learning 相关 GitHub 与论文来源。
+   - 这是用户近期业务重点；即使当天没有高相关新项，也要在日报中保留 `Point Rummy / Indian Rummy 业务主题` 板块，写清楚“无高相关新项 / 低置信 / API 失败”。
+   - GitHub 结果优先关注可复用规则引擎、AI opponent、RL agent、simulation environment、scoring/evaluator、Android/web game implementation、computer vision assistant。
+   - 论文结果优先关注 imperfect-information card game、Rummy/Gin Rummy/Indian Rummy、ISMCTS/MCTS、RL game agent、belief/state abstraction、simulation/self-play。
+   - 每条必须说明对当前 Point Rummy 业务有什么用：规则建模、环境并行、bot 策略、评测基准、前后端实现、作弊/视觉识别、用户行为分析等。
+6. Loop Engineer / Loop Engineering 主题。
+   - 每天必须单独扫描 Loop Engineer / Loop Engineering / harness engineering / coding-agent loop 相关 GitHub 项目。
+   - 必须在日报中生成两个子表：`Loop Engineer GitHub 高 star Top 10` 和 `Loop Engineer GitHub star 增长最快 Top 10`。
+   - 如果历史 snapshot 中没有对应 repo，增长榜可以用冷启动代理，但必须明确标注；如果 GitHub API 失败，保留低置信说明。
+   - 重点关注 coding agent workflow、agent loop design、AGENTS.md/harness、skills、eval loop、prompt/context engineering、multi-agent task orchestration。
+7. 论文。
+   - 继续保留高信号论文，但不能挤掉大厂、GitHub、coding 工具、Point Rummy 和 Loop Engineer 固定板块。
 
 ## 日报结构
 
@@ -83,15 +94,23 @@
    - 单独板块，不得省略。
    - 必须包含 Claude Code、OpenAI Codex、Cursor、Windsurf、GitHub Copilot、Gemini Code Assist、Qwen Code、Roo Code、Cline、Continue 的扫描状态。
    - 有重要功能更新时写入 news 推送，并按需生成 `Industry/Tools/...` 或 `GitHub/Tools/...` 详情页。
-9. 论文。
-   - 按主题细分，例如：Serving、RLHF、Agent Eval、World Model、Quantization。
+9. Point Rummy / Indian Rummy 业务主题。
+   - 单独板块，不得省略。
+   - 必须包含 GitHub 项目候选、论文/资料候选、业务可用性判断、低置信/失败源说明。
+   - 推荐详情页路径：`Business/PointRummy/YYYY-MM-DD/...` 或 `GitHub/PointRummy/YYYY-MM-DD/...`。
+10. Loop Engineer / Loop Engineering 主题。
+   - 单独板块，不得省略。
+   - 必须包含 `Loop Engineer GitHub 高 star Top 10` 与 `Loop Engineer GitHub star 增长最快 Top 10`。
+   - 推荐详情页路径：`GitHub/LoopEngineer/YYYY-MM-DD/...`。
+11. 论文。
+   - 按主题细分，例如：Serving、RLHF、Agent Eval、World Model、Quantization、Rummy/Game AI。
    - 可加 `timeline` 展示近几天论文趋势。
-10. 资讯 / 其他项目。
-   - 按主题细分，例如：LLM Serving、AI Infra、RL Environment、Eval、Agent Framework。
+12. 资讯 / 其他项目。
+   - 按主题细分，例如：LLM Serving、AI Infra、RL Environment、Eval、Agent Framework、Point Rummy、Loop Engineering。
    - 可加生态关系网或架构图。
-11. 按主题索引。
-12. 值得后续深挖。
-13. 采集失败或低置信来源。
+13. 按主题索引。
+14. 值得后续深挖。
+15. 采集失败或低置信来源。
 
 日报至少包含 2 种非表格可视化/结构化元素：
 
@@ -288,8 +307,10 @@ AI Infra 项目图示必须表达：
 - 存在 `## 6. GitHub 高 star Top 10`，表内尽量 10 条；不足 10 条必须写明原因。
 - 存在 `## 7. GitHub star 增长最快 Top 10`，表内尽量 10 条；若无历史 snapshot 必须写“冷启动代理，非真实日增”。
 - 存在 `## 8. Coding 工具 / AI 工具功能更新` 和 `Coding 工具扫描矩阵`，且矩阵包含 Claude Code、OpenAI Codex、Cursor、Windsurf、GitHub Copilot、Gemini Code Assist、Qwen Code、Roo Code、Cline、Continue。
+- 存在 `## 9. Point Rummy / Indian Rummy 业务主题`，且包含 GitHub 候选、论文/资料候选、业务可用性判断；无高相关内容时也必须保留低置信说明。
+- 存在 `## 10. Loop Engineer / Loop Engineering 主题`，且包含 `Loop Engineer GitHub 高 star Top 10` 与 `Loop Engineer GitHub star 增长最快 Top 10` 两个子表。
 - 存在 `Automation/state/github-stars-YYYY-MM-DD.json`。
-- Telegram 摘要必须提到大厂扫描、GitHub 高 star Top 10、GitHub 增长 Top 10、Coding 工具更新是否已生成。
+- Telegram 摘要必须提到大厂扫描、GitHub 高 star Top 10、GitHub 增长 Top 10、Coding 工具更新、Point Rummy 主题、Loop Engineer 主题是否已生成。
 
 ## GitHub / Telegram
 
