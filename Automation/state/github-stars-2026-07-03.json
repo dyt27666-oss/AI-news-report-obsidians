@@ -1,0 +1,1537 @@
+{
+  "date": "2026-07-03",
+  "collected_at": "2026-07-03T01:01:05.200399+00:00",
+  "cold_start": false,
+  "baseline_available": true,
+  "queries": [
+    "point rummy",
+    "indian rummy",
+    "rummy ai",
+    "rummy reinforcement learning",
+    "gin rummy ai",
+    "loop engineering",
+    "loop engineer",
+    "harness engineering",
+    "coding agent loop",
+    "AGENTS.md harness",
+    "topic:artificial-intelligence stars:>1000",
+    "topic:llm stars:>500",
+    "topic:machine-learning stars:>1000",
+    "topic:reinforcement-learning stars:>100",
+    "topic:agents stars:>100",
+    "topic:inference stars:>100",
+    "topic:cuda stars:>100",
+    "topic:triton stars:>50",
+    "vllm OR sglang OR tensorrt-llm",
+    "grpo OR rlhf OR verl OR openrlhf",
+    "point rummy OR indian rummy OR rummy ai",
+    "rummy reinforcement learning OR rummy bot OR rummy simulation",
+    "loop engineering OR loop engineer OR harness engineering",
+    "coding agent loop OR agent loop design OR AGENTS.md harness"
+  ],
+  "theme_queries": {
+    "point_rummy": [
+      "point rummy",
+      "indian rummy",
+      "rummy ai",
+      "rummy reinforcement learning",
+      "gin rummy ai"
+    ],
+    "loop_engineer": [
+      "loop engineering",
+      "loop engineer",
+      "harness engineering",
+      "coding agent loop",
+      "AGENTS.md harness"
+    ]
+  },
+  "errors": [
+    {
+      "query": "indian rummy",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "indian rummy",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy ai",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy ai",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "gin rummy ai",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "gin rummy ai",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineer",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineer",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "harness engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "harness engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "AGENTS.md harness",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "AGENTS.md harness",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:artificial-intelligence stars:>1000",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:artificial-intelligence stars:>1000",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:llm stars:>500",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:llm stars:>500",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:machine-learning stars:>1000",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:machine-learning stars:>1000",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:reinforcement-learning stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:reinforcement-learning stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:agents stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:agents stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:inference stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:inference stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:cuda stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:cuda stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:triton stars:>50",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:triton stars:>50",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "vllm OR sglang OR tensorrt-llm",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "vllm OR sglang OR tensorrt-llm",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "grpo OR rlhf OR verl OR openrlhf",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "grpo OR rlhf OR verl OR openrlhf",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "point rummy OR indian rummy OR rummy ai",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "point rummy OR indian rummy OR rummy ai",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning OR rummy bot OR rummy simulation",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning OR rummy bot OR rummy simulation",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering OR loop engineer OR harness engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering OR loop engineer OR harness engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop OR agent loop design OR AGENTS.md harness",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop OR agent loop design OR AGENTS.md harness",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    }
+  ],
+  "repos": [
+    {
+      "repo": "Abhishek230799/Rummy-301-points-counter",
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2025-05-27T09:53:06Z",
+      "pushed_at": "2025-05-27T09:53:03Z",
+      "topics": [],
+      "html_url": "https://github.com/Abhishek230799/Rummy-301-points-counter",
+      "description": "Rummy 301 Points Counter Tired of scribbling down scores every time we played Rummy 301, I decided to build a simple Java Swing app to keep track of points automatically. Just enter player names, add rounds, and watch the app handle the rest — eliminating players who hit 301 and crowning the last one standing. Easy, fun, and saves paper!",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "ajaydasm/rummy-point-tracker",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "updated_at": "2025-08-29T11:50:21Z",
+      "pushed_at": "2025-08-29T11:53:32Z",
+      "topics": [],
+      "html_url": "https://github.com/ajaydasm/rummy-point-tracker",
+      "description": "",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Alan-seb/RummyVision",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2025-12-03T03:14:55Z",
+      "pushed_at": "2025-12-03T03:14:51Z",
+      "topics": [],
+      "html_url": "https://github.com/Alan-seb/RummyVision",
+      "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "bencesibin/rummy-points-calculator",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "updated_at": "2022-02-16T17:37:32Z",
+      "pushed_at": "2022-02-16T19:33:37Z",
+      "topics": [],
+      "html_url": "https://github.com/bencesibin/rummy-points-calculator",
+      "description": "",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "codingmickey/rummy-points-calculator",
+      "stars": 1,
+      "forks": 0,
+      "language": "C++",
+      "updated_at": "2024-07-10T15:40:45Z",
+      "pushed_at": "2021-07-29T17:18:07Z",
+      "topics": [],
+      "html_url": "https://github.com/codingmickey/rummy-points-calculator",
+      "description": "A cpp progarm to calculate Rummy points of all the players for each round.",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "debabrata-mandal/RummyPulse",
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2026-06-28T09:58:44Z",
+      "pushed_at": "2026-06-28T10:02:39Z",
+      "topics": [
+        "android"
+      ],
+      "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+      "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "karthikeyankkn/rummy-points",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2020-07-05T19:19:11Z",
+      "pushed_at": "2020-07-05T19:19:09Z",
+      "topics": [],
+      "html_url": "https://github.com/karthikeyankkn/rummy-points",
+      "description": "Now easy to maintain rummy points... :D",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "kikiongame/3-Plus-Games",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "2024-04-02T14:36:56Z",
+      "pushed_at": "2024-01-08T09:52:54Z",
+      "topics": [],
+      "html_url": "https://github.com/kikiongame/3-Plus-Games",
+      "description": "3 plus games is the best online gaming platform in india which offers you unlimited fun with real money, here you can play rummy (point, pool, deal), poker, carrom, ludo, snakes and ladders, 8 ball pool, call break and many more games play and win real money rewards",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Mohitkumar-559/RummyServer",
+      "stars": 2,
+      "forks": 1,
+      "language": "JavaScript",
+      "updated_at": "2024-03-17T03:48:34Z",
+      "pushed_at": "2023-03-03T06:49:23Z",
+      "topics": [],
+      "html_url": "https://github.com/Mohitkumar-559/RummyServer",
+      "description": "Rummy game server for game that contain deal rummy and point rummy",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "musukur/rummy-points",
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2023-09-13T12:29:40Z",
+      "pushed_at": "2023-02-26T06:26:14Z",
+      "topics": [],
+      "html_url": "https://github.com/musukur/rummy-points",
+      "description": "",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Navomi1/RummyPointCounter",
+      "stars": 0,
+      "forks": 0,
+      "language": "Swift",
+      "updated_at": "2026-01-13T23:49:39Z",
+      "pushed_at": "2026-01-13T23:49:35Z",
+      "topics": [],
+      "html_url": "https://github.com/Navomi1/RummyPointCounter",
+      "description": "Count points while playing Rummy",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Nethaji003/rummy2",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-06-18T07:31:53Z",
+      "pushed_at": "2026-06-18T07:31:49Z",
+      "topics": [],
+      "html_url": "https://github.com/Nethaji003/rummy2",
+      "description": "point",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "rafana73/rummy_points",
+      "stars": 0,
+      "forks": 0,
+      "language": "PHP",
+      "updated_at": "2022-01-12T16:29:15Z",
+      "pushed_at": "2022-01-12T16:50:27Z",
+      "topics": [],
+      "html_url": "https://github.com/rafana73/rummy_points",
+      "description": "",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Rajgowthaman/rummy-or-cards-points-calculator",
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2024-05-14T10:19:48Z",
+      "pushed_at": "2024-05-14T10:19:45Z",
+      "topics": [],
+      "html_url": "https://github.com/Rajgowthaman/rummy-or-cards-points-calculator",
+      "description": "",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "samikshamodi/PointsRummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2021-06-01T21:14:14Z",
+      "pushed_at": "2021-05-31T21:09:13Z",
+      "topics": [],
+      "html_url": "https://github.com/samikshamodi/PointsRummy",
+      "description": "A GUI version of Points Rummy using pygame where you play against an intelligent computer opponent",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Soumyadeep-Kar2006/RummyPointCalculator",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-06-05T19:06:53Z",
+      "pushed_at": "2026-06-05T19:06:49Z",
+      "topics": [],
+      "html_url": "https://github.com/Soumyadeep-Kar2006/RummyPointCalculator",
+      "description": "",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    }
+  ],
+  "high_star_top10": [
+    {
+      "repo": "Mohitkumar-559/RummyServer",
+      "stars": 2,
+      "forks": 1,
+      "language": "JavaScript",
+      "updated_at": "2024-03-17T03:48:34Z",
+      "pushed_at": "2023-03-03T06:49:23Z",
+      "topics": [],
+      "html_url": "https://github.com/Mohitkumar-559/RummyServer",
+      "description": "Rummy game server for game that contain deal rummy and point rummy",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "codingmickey/rummy-points-calculator",
+      "stars": 1,
+      "forks": 0,
+      "language": "C++",
+      "updated_at": "2024-07-10T15:40:45Z",
+      "pushed_at": "2021-07-29T17:18:07Z",
+      "topics": [],
+      "html_url": "https://github.com/codingmickey/rummy-points-calculator",
+      "description": "A cpp progarm to calculate Rummy points of all the players for each round.",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "debabrata-mandal/RummyPulse",
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2026-06-28T09:58:44Z",
+      "pushed_at": "2026-06-28T10:02:39Z",
+      "topics": [
+        "android"
+      ],
+      "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+      "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Alan-seb/RummyVision",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2025-12-03T03:14:55Z",
+      "pushed_at": "2025-12-03T03:14:51Z",
+      "topics": [],
+      "html_url": "https://github.com/Alan-seb/RummyVision",
+      "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Nethaji003/rummy2",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-06-18T07:31:53Z",
+      "pushed_at": "2026-06-18T07:31:49Z",
+      "topics": [],
+      "html_url": "https://github.com/Nethaji003/rummy2",
+      "description": "point",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "samikshamodi/PointsRummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2021-06-01T21:14:14Z",
+      "pushed_at": "2021-05-31T21:09:13Z",
+      "topics": [],
+      "html_url": "https://github.com/samikshamodi/PointsRummy",
+      "description": "A GUI version of Points Rummy using pygame where you play against an intelligent computer opponent",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Navomi1/RummyPointCounter",
+      "stars": 0,
+      "forks": 0,
+      "language": "Swift",
+      "updated_at": "2026-01-13T23:49:39Z",
+      "pushed_at": "2026-01-13T23:49:35Z",
+      "topics": [],
+      "html_url": "https://github.com/Navomi1/RummyPointCounter",
+      "description": "Count points while playing Rummy",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Soumyadeep-Kar2006/RummyPointCalculator",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-06-05T19:06:53Z",
+      "pushed_at": "2026-06-05T19:06:49Z",
+      "topics": [],
+      "html_url": "https://github.com/Soumyadeep-Kar2006/RummyPointCalculator",
+      "description": "",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "karthikeyankkn/rummy-points",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2020-07-05T19:19:11Z",
+      "pushed_at": "2020-07-05T19:19:09Z",
+      "topics": [],
+      "html_url": "https://github.com/karthikeyankkn/rummy-points",
+      "description": "Now easy to maintain rummy points... :D",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "musukur/rummy-points",
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2023-09-13T12:29:40Z",
+      "pushed_at": "2023-02-26T06:26:14Z",
+      "topics": [],
+      "html_url": "https://github.com/musukur/rummy-points",
+      "description": "",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    }
+  ],
+  "growth_top10": [
+    {
+      "repo": "Mohitkumar-559/RummyServer",
+      "stars": 2,
+      "forks": 1,
+      "language": "JavaScript",
+      "updated_at": "2024-03-17T03:48:34Z",
+      "pushed_at": "2023-03-03T06:49:23Z",
+      "topics": [],
+      "html_url": "https://github.com/Mohitkumar-559/RummyServer",
+      "description": "Rummy game server for game that contain deal rummy and point rummy",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "codingmickey/rummy-points-calculator",
+      "stars": 1,
+      "forks": 0,
+      "language": "C++",
+      "updated_at": "2024-07-10T15:40:45Z",
+      "pushed_at": "2021-07-29T17:18:07Z",
+      "topics": [],
+      "html_url": "https://github.com/codingmickey/rummy-points-calculator",
+      "description": "A cpp progarm to calculate Rummy points of all the players for each round.",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "debabrata-mandal/RummyPulse",
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2026-06-28T09:58:44Z",
+      "pushed_at": "2026-06-28T10:02:39Z",
+      "topics": [
+        "android"
+      ],
+      "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+      "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Alan-seb/RummyVision",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2025-12-03T03:14:55Z",
+      "pushed_at": "2025-12-03T03:14:51Z",
+      "topics": [],
+      "html_url": "https://github.com/Alan-seb/RummyVision",
+      "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Nethaji003/rummy2",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-06-18T07:31:53Z",
+      "pushed_at": "2026-06-18T07:31:49Z",
+      "topics": [],
+      "html_url": "https://github.com/Nethaji003/rummy2",
+      "description": "point",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "samikshamodi/PointsRummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2021-06-01T21:14:14Z",
+      "pushed_at": "2021-05-31T21:09:13Z",
+      "topics": [],
+      "html_url": "https://github.com/samikshamodi/PointsRummy",
+      "description": "A GUI version of Points Rummy using pygame where you play against an intelligent computer opponent",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Navomi1/RummyPointCounter",
+      "stars": 0,
+      "forks": 0,
+      "language": "Swift",
+      "updated_at": "2026-01-13T23:49:39Z",
+      "pushed_at": "2026-01-13T23:49:35Z",
+      "topics": [],
+      "html_url": "https://github.com/Navomi1/RummyPointCounter",
+      "description": "Count points while playing Rummy",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Soumyadeep-Kar2006/RummyPointCalculator",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-06-05T19:06:53Z",
+      "pushed_at": "2026-06-05T19:06:49Z",
+      "topics": [],
+      "html_url": "https://github.com/Soumyadeep-Kar2006/RummyPointCalculator",
+      "description": "",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "karthikeyankkn/rummy-points",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2020-07-05T19:19:11Z",
+      "pushed_at": "2020-07-05T19:19:09Z",
+      "topics": [],
+      "html_url": "https://github.com/karthikeyankkn/rummy-points",
+      "description": "Now easy to maintain rummy points... :D",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "musukur/rummy-points",
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2023-09-13T12:29:40Z",
+      "pushed_at": "2023-02-26T06:26:14Z",
+      "topics": [],
+      "html_url": "https://github.com/musukur/rummy-points",
+      "description": "",
+      "collected_at": "2026-07-03T01:01:05.200399+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    }
+  ],
+  "theme_sections": {
+    "point_rummy": {
+      "repos": [
+        {
+          "repo": "Mohitkumar-559/RummyServer",
+          "stars": 2,
+          "forks": 1,
+          "language": "JavaScript",
+          "updated_at": "2024-03-17T03:48:34Z",
+          "pushed_at": "2023-03-03T06:49:23Z",
+          "topics": [],
+          "html_url": "https://github.com/Mohitkumar-559/RummyServer",
+          "description": "Rummy game server for game that contain deal rummy and point rummy",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "codingmickey/rummy-points-calculator",
+          "stars": 1,
+          "forks": 0,
+          "language": "C++",
+          "updated_at": "2024-07-10T15:40:45Z",
+          "pushed_at": "2021-07-29T17:18:07Z",
+          "topics": [],
+          "html_url": "https://github.com/codingmickey/rummy-points-calculator",
+          "description": "A cpp progarm to calculate Rummy points of all the players for each round.",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "debabrata-mandal/RummyPulse",
+          "stars": 1,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2026-06-28T09:58:44Z",
+          "pushed_at": "2026-06-28T10:02:39Z",
+          "topics": [
+            "android"
+          ],
+          "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+          "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Alan-seb/RummyVision",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2025-12-03T03:14:55Z",
+          "pushed_at": "2025-12-03T03:14:51Z",
+          "topics": [],
+          "html_url": "https://github.com/Alan-seb/RummyVision",
+          "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Nethaji003/rummy2",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-06-18T07:31:53Z",
+          "pushed_at": "2026-06-18T07:31:49Z",
+          "topics": [],
+          "html_url": "https://github.com/Nethaji003/rummy2",
+          "description": "point",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "samikshamodi/PointsRummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2021-06-01T21:14:14Z",
+          "pushed_at": "2021-05-31T21:09:13Z",
+          "topics": [],
+          "html_url": "https://github.com/samikshamodi/PointsRummy",
+          "description": "A GUI version of Points Rummy using pygame where you play against an intelligent computer opponent",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Navomi1/RummyPointCounter",
+          "stars": 0,
+          "forks": 0,
+          "language": "Swift",
+          "updated_at": "2026-01-13T23:49:39Z",
+          "pushed_at": "2026-01-13T23:49:35Z",
+          "topics": [],
+          "html_url": "https://github.com/Navomi1/RummyPointCounter",
+          "description": "Count points while playing Rummy",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Soumyadeep-Kar2006/RummyPointCalculator",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-06-05T19:06:53Z",
+          "pushed_at": "2026-06-05T19:06:49Z",
+          "topics": [],
+          "html_url": "https://github.com/Soumyadeep-Kar2006/RummyPointCalculator",
+          "description": "",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "karthikeyankkn/rummy-points",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2020-07-05T19:19:11Z",
+          "pushed_at": "2020-07-05T19:19:09Z",
+          "topics": [],
+          "html_url": "https://github.com/karthikeyankkn/rummy-points",
+          "description": "Now easy to maintain rummy points... :D",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "musukur/rummy-points",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2023-09-13T12:29:40Z",
+          "pushed_at": "2023-02-26T06:26:14Z",
+          "topics": [],
+          "html_url": "https://github.com/musukur/rummy-points",
+          "description": "",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "rafana73/rummy_points",
+          "stars": 0,
+          "forks": 0,
+          "language": "PHP",
+          "updated_at": "2022-01-12T16:29:15Z",
+          "pushed_at": "2022-01-12T16:50:27Z",
+          "topics": [],
+          "html_url": "https://github.com/rafana73/rummy_points",
+          "description": "",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "bencesibin/rummy-points-calculator",
+          "stars": 0,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2022-02-16T17:37:32Z",
+          "pushed_at": "2022-02-16T19:33:37Z",
+          "topics": [],
+          "html_url": "https://github.com/bencesibin/rummy-points-calculator",
+          "description": "",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "ajaydasm/rummy-point-tracker",
+          "stars": 0,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2025-08-29T11:50:21Z",
+          "pushed_at": "2025-08-29T11:53:32Z",
+          "topics": [],
+          "html_url": "https://github.com/ajaydasm/rummy-point-tracker",
+          "description": "",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Abhishek230799/Rummy-301-points-counter",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2025-05-27T09:53:06Z",
+          "pushed_at": "2025-05-27T09:53:03Z",
+          "topics": [],
+          "html_url": "https://github.com/Abhishek230799/Rummy-301-points-counter",
+          "description": "Rummy 301 Points Counter Tired of scribbling down scores every time we played Rummy 301, I decided to build a simple Java Swing app to keep track of points automatically. Just enter player names, add rounds, and watch the app handle the rest — eliminating players who hit 301 and crowning the last one standing. Easy, fun, and saves paper!",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Rajgowthaman/rummy-or-cards-points-calculator",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2024-05-14T10:19:48Z",
+          "pushed_at": "2024-05-14T10:19:45Z",
+          "topics": [],
+          "html_url": "https://github.com/Rajgowthaman/rummy-or-cards-points-calculator",
+          "description": "",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "kikiongame/3-Plus-Games",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "2024-04-02T14:36:56Z",
+          "pushed_at": "2024-01-08T09:52:54Z",
+          "topics": [],
+          "html_url": "https://github.com/kikiongame/3-Plus-Games",
+          "description": "3 plus games is the best online gaming platform in india which offers you unlimited fun with real money, here you can play rummy (point, pool, deal), poker, carrom, ludo, snakes and ladders, 8 ball pool, call break and many more games play and win real money rewards",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        }
+      ],
+      "high_star_top10": [
+        {
+          "repo": "Mohitkumar-559/RummyServer",
+          "stars": 2,
+          "forks": 1,
+          "language": "JavaScript",
+          "updated_at": "2024-03-17T03:48:34Z",
+          "pushed_at": "2023-03-03T06:49:23Z",
+          "topics": [],
+          "html_url": "https://github.com/Mohitkumar-559/RummyServer",
+          "description": "Rummy game server for game that contain deal rummy and point rummy",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "codingmickey/rummy-points-calculator",
+          "stars": 1,
+          "forks": 0,
+          "language": "C++",
+          "updated_at": "2024-07-10T15:40:45Z",
+          "pushed_at": "2021-07-29T17:18:07Z",
+          "topics": [],
+          "html_url": "https://github.com/codingmickey/rummy-points-calculator",
+          "description": "A cpp progarm to calculate Rummy points of all the players for each round.",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "debabrata-mandal/RummyPulse",
+          "stars": 1,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2026-06-28T09:58:44Z",
+          "pushed_at": "2026-06-28T10:02:39Z",
+          "topics": [
+            "android"
+          ],
+          "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+          "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Alan-seb/RummyVision",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2025-12-03T03:14:55Z",
+          "pushed_at": "2025-12-03T03:14:51Z",
+          "topics": [],
+          "html_url": "https://github.com/Alan-seb/RummyVision",
+          "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Nethaji003/rummy2",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-06-18T07:31:53Z",
+          "pushed_at": "2026-06-18T07:31:49Z",
+          "topics": [],
+          "html_url": "https://github.com/Nethaji003/rummy2",
+          "description": "point",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "samikshamodi/PointsRummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2021-06-01T21:14:14Z",
+          "pushed_at": "2021-05-31T21:09:13Z",
+          "topics": [],
+          "html_url": "https://github.com/samikshamodi/PointsRummy",
+          "description": "A GUI version of Points Rummy using pygame where you play against an intelligent computer opponent",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Navomi1/RummyPointCounter",
+          "stars": 0,
+          "forks": 0,
+          "language": "Swift",
+          "updated_at": "2026-01-13T23:49:39Z",
+          "pushed_at": "2026-01-13T23:49:35Z",
+          "topics": [],
+          "html_url": "https://github.com/Navomi1/RummyPointCounter",
+          "description": "Count points while playing Rummy",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Soumyadeep-Kar2006/RummyPointCalculator",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-06-05T19:06:53Z",
+          "pushed_at": "2026-06-05T19:06:49Z",
+          "topics": [],
+          "html_url": "https://github.com/Soumyadeep-Kar2006/RummyPointCalculator",
+          "description": "",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "karthikeyankkn/rummy-points",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2020-07-05T19:19:11Z",
+          "pushed_at": "2020-07-05T19:19:09Z",
+          "topics": [],
+          "html_url": "https://github.com/karthikeyankkn/rummy-points",
+          "description": "Now easy to maintain rummy points... :D",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "musukur/rummy-points",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2023-09-13T12:29:40Z",
+          "pushed_at": "2023-02-26T06:26:14Z",
+          "topics": [],
+          "html_url": "https://github.com/musukur/rummy-points",
+          "description": "",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        }
+      ],
+      "growth_top10": [
+        {
+          "repo": "debabrata-mandal/RummyPulse",
+          "stars": 1,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2026-06-28T09:58:44Z",
+          "pushed_at": "2026-06-28T10:02:39Z",
+          "topics": [
+            "android"
+          ],
+          "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+          "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Nethaji003/rummy2",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-06-18T07:31:53Z",
+          "pushed_at": "2026-06-18T07:31:49Z",
+          "topics": [],
+          "html_url": "https://github.com/Nethaji003/rummy2",
+          "description": "point",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Soumyadeep-Kar2006/RummyPointCalculator",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-06-05T19:06:53Z",
+          "pushed_at": "2026-06-05T19:06:49Z",
+          "topics": [],
+          "html_url": "https://github.com/Soumyadeep-Kar2006/RummyPointCalculator",
+          "description": "",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Navomi1/RummyPointCounter",
+          "stars": 0,
+          "forks": 0,
+          "language": "Swift",
+          "updated_at": "2026-01-13T23:49:39Z",
+          "pushed_at": "2026-01-13T23:49:35Z",
+          "topics": [],
+          "html_url": "https://github.com/Navomi1/RummyPointCounter",
+          "description": "Count points while playing Rummy",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Alan-seb/RummyVision",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2025-12-03T03:14:55Z",
+          "pushed_at": "2025-12-03T03:14:51Z",
+          "topics": [],
+          "html_url": "https://github.com/Alan-seb/RummyVision",
+          "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "ajaydasm/rummy-point-tracker",
+          "stars": 0,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2025-08-29T11:50:21Z",
+          "pushed_at": "2025-08-29T11:53:32Z",
+          "topics": [],
+          "html_url": "https://github.com/ajaydasm/rummy-point-tracker",
+          "description": "",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Abhishek230799/Rummy-301-points-counter",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2025-05-27T09:53:06Z",
+          "pushed_at": "2025-05-27T09:53:03Z",
+          "topics": [],
+          "html_url": "https://github.com/Abhishek230799/Rummy-301-points-counter",
+          "description": "Rummy 301 Points Counter Tired of scribbling down scores every time we played Rummy 301, I decided to build a simple Java Swing app to keep track of points automatically. Just enter player names, add rounds, and watch the app handle the rest — eliminating players who hit 301 and crowning the last one standing. Easy, fun, and saves paper!",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "codingmickey/rummy-points-calculator",
+          "stars": 1,
+          "forks": 0,
+          "language": "C++",
+          "updated_at": "2024-07-10T15:40:45Z",
+          "pushed_at": "2021-07-29T17:18:07Z",
+          "topics": [],
+          "html_url": "https://github.com/codingmickey/rummy-points-calculator",
+          "description": "A cpp progarm to calculate Rummy points of all the players for each round.",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Rajgowthaman/rummy-or-cards-points-calculator",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2024-05-14T10:19:48Z",
+          "pushed_at": "2024-05-14T10:19:45Z",
+          "topics": [],
+          "html_url": "https://github.com/Rajgowthaman/rummy-or-cards-points-calculator",
+          "description": "",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "kikiongame/3-Plus-Games",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "2024-04-02T14:36:56Z",
+          "pushed_at": "2024-01-08T09:52:54Z",
+          "topics": [],
+          "html_url": "https://github.com/kikiongame/3-Plus-Games",
+          "description": "3 plus games is the best online gaming platform in india which offers you unlimited fun with real money, here you can play rummy (point, pool, deal), poker, carrom, ludo, snakes and ladders, 8 ball pool, call break and many more games play and win real money rewards",
+          "collected_at": "2026-07-03T01:01:05.200399+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        }
+      ]
+    },
+    "loop_engineer": {
+      "repos": [],
+      "high_star_top10": [],
+      "growth_top10": []
+    }
+  }
+}
