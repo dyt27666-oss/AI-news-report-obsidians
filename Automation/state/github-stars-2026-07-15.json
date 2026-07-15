@@ -1,0 +1,3342 @@
+{
+  "date": "2026-07-15",
+  "collected_at": "2026-07-15T01:01:00.826855+00:00",
+  "cold_start": false,
+  "baseline_available": true,
+  "queries": [
+    "point rummy",
+    "indian rummy",
+    "rummy ai",
+    "rummy reinforcement learning",
+    "gin rummy ai",
+    "loop engineering",
+    "loop engineer",
+    "harness engineering",
+    "coding agent loop",
+    "AGENTS.md harness",
+    "topic:artificial-intelligence stars:>1000",
+    "topic:llm stars:>500",
+    "topic:machine-learning stars:>1000",
+    "topic:reinforcement-learning stars:>100",
+    "topic:agents stars:>100",
+    "topic:inference stars:>100",
+    "topic:cuda stars:>100",
+    "topic:triton stars:>50",
+    "vllm OR sglang OR tensorrt-llm",
+    "grpo OR rlhf OR verl OR openrlhf",
+    "point rummy OR indian rummy OR rummy ai",
+    "rummy reinforcement learning OR rummy bot OR rummy simulation",
+    "loop engineering OR loop engineer OR harness engineering",
+    "coding agent loop OR agent loop design OR AGENTS.md harness"
+  ],
+  "theme_queries": {
+    "point_rummy": [
+      "point rummy",
+      "indian rummy",
+      "rummy ai",
+      "rummy reinforcement learning",
+      "gin rummy ai"
+    ],
+    "loop_engineer": [
+      "loop engineering",
+      "loop engineer",
+      "harness engineering",
+      "coding agent loop",
+      "AGENTS.md harness"
+    ]
+  },
+  "errors": [
+    {
+      "query": "point rummy",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "point rummy",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "indian rummy",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "indian rummy",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy ai",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy ai",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "gin rummy ai",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "gin rummy ai",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineer",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineer",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "harness engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "harness engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "AGENTS.md harness",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "AGENTS.md harness",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:artificial-intelligence stars:>1000",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:artificial-intelligence stars:>1000",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:llm stars:>500",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:llm stars:>500",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:machine-learning stars:>1000",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:machine-learning stars:>1000",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:reinforcement-learning stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:reinforcement-learning stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:agents stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:agents stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:inference stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:inference stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:cuda stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:cuda stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:triton stars:>50",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:triton stars:>50",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "vllm OR sglang OR tensorrt-llm",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "vllm OR sglang OR tensorrt-llm",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "grpo OR rlhf OR verl OR openrlhf",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "grpo OR rlhf OR verl OR openrlhf",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "point rummy OR indian rummy OR rummy ai",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "point rummy OR indian rummy OR rummy ai",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning OR rummy bot OR rummy simulation",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning OR rummy bot OR rummy simulation",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering OR loop engineer OR harness engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering OR loop engineer OR harness engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop OR agent loop design OR AGENTS.md harness",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop OR agent loop design OR AGENTS.md harness",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    }
+  ],
+  "repos": [
+    {
+      "repo": "Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+      "stars": 2,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updated_at": "2023-04-01T05:48:51Z",
+      "pushed_at": "2020-01-05T05:06:30Z",
+      "topics": [],
+      "html_url": "https://github.com/Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+      "description": "Rummy Game Agent trained using Reinforcement Learning algorithm.",
+      "collected_at": "2026-07-15T01:36:09.623005+00:00",
+      "themes": [
+        "point_rummy"
+      ],
+      "stars_delta": 0,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "abubakarmunir712/dsa-final-project",
+      "stars": 2,
+      "forks": 1,
+      "language": "Python",
+      "updated_at": "2026-06-27T06:34:26Z",
+      "pushed_at": "2026-06-27T06:34:22Z",
+      "topics": [],
+      "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+      "description": "A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+      "collected_at": "2026-07-15T01:36:09.305971+00:00",
+      "themes": [
+        "point_rummy"
+      ],
+      "stars_delta": 0,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "aidanw33/cards-ai-bot",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-05-13T01:09:05Z",
+      "pushed_at": "2026-05-13T01:09:00Z",
+      "topics": [],
+      "html_url": "https://github.com/aidanw33/cards-ai-bot",
+      "description": "AI bot to play a specific version of gin rummy",
+      "collected_at": "2026-07-15T01:36:11.167273+00:00",
+      "themes": [
+        "point_rummy"
+      ],
+      "stars_delta": 0,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "Alan-seb/RummyVision",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2025-12-03T03:14:55Z",
+      "pushed_at": "2025-12-03T03:14:51Z",
+      "topics": [],
+      "html_url": "https://github.com/Alan-seb/RummyVision",
+      "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+      "collected_at": "2026-07-15T01:36:09.959532+00:00",
+      "themes": [
+        "point_rummy"
+      ],
+      "stars_delta": 0,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 137885,
+      "forks": 22232,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:34:47Z",
+      "pushed_at": "2026-07-14T23:45:25Z",
+      "topics": [],
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "collected_at": "2026-07-15T01:36:00.000939+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 152,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 64665,
+      "forks": 6914,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:29:12Z",
+      "pushed_at": "2026-07-15T01:27:44Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-07-15T01:36:02.404426+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 40,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "continuedev/continue",
+      "stars": 34876,
+      "forks": 5044,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:17:55Z",
+      "pushed_at": "2026-07-14T17:00:05Z",
+      "topics": [
+        "agent",
+        "ai",
+        "cli",
+        "developer-tools",
+        "open-source"
+      ],
+      "html_url": "https://github.com/continuedev/continue",
+      "description": "open-source coding agent",
+      "collected_at": "2026-07-15T01:36:03.397354+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 18,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "debabrata-mandal/RummyPulse",
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2026-07-14T08:10:30Z",
+      "pushed_at": "2026-07-14T08:14:10Z",
+      "topics": [
+        "android"
+      ],
+      "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+      "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+      "collected_at": "2026-07-15T01:36:10.452944+00:00",
+      "themes": [
+        "point_rummy"
+      ],
+      "stars_delta": 0,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "deepspeedai/DeepSpeed",
+      "stars": 42708,
+      "forks": 4883,
+      "language": "Python",
+      "updated_at": "2026-07-14T21:59:36Z",
+      "pushed_at": "2026-07-14T21:59:24Z",
+      "topics": [
+        "billion-parameters",
+        "compression",
+        "data-parallelism",
+        "deep-learning",
+        "gpu",
+        "inference",
+        "machine-learning",
+        "mixture-of-experts",
+        "model-parallelism",
+        "pipeline-parallelism",
+        "pytorch",
+        "trillion-parameters",
+        "zero"
+      ],
+      "html_url": "https://github.com/deepspeedai/DeepSpeed",
+      "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+      "collected_at": "2026-07-15T01:36:05.712004+00:00",
+      "themes": [],
+      "stars_delta": 7,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "drewmcgee/gin-rummy-rl-lab",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-04-30T00:13:25Z",
+      "pushed_at": "2026-04-30T00:13:20Z",
+      "topics": [],
+      "html_url": "https://github.com/drewmcgee/gin-rummy-rl-lab",
+      "description": "Gin Rummy reinforcement learning lab with a Java game server, Python agents, and C++ rollout infrastructure.",
+      "collected_at": "2026-07-15T01:36:10.841652+00:00",
+      "themes": [
+        "point_rummy"
+      ],
+      "stars_delta": 0,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "stars": 105987,
+      "forks": 14256,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T00:20:27Z",
+      "pushed_at": "2026-07-15T01:28:44Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ],
+      "html_url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "collected_at": "2026-07-15T01:36:00.346380+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 17,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "huggingface/accelerate",
+      "stars": 9778,
+      "forks": 1402,
+      "language": "Python",
+      "updated_at": "2026-07-15T00:03:48Z",
+      "pushed_at": "2026-07-13T07:56:54Z",
+      "topics": [],
+      "html_url": "https://github.com/huggingface/accelerate",
+      "description": "🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support",
+      "collected_at": "2026-07-15T01:36:07.633325+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct GET /repos fallback; 2026-07-14 snapshot 无该 repo baseline"
+    },
+    {
+      "repo": "huggingface/transformers",
+      "stars": 162609,
+      "forks": 33881,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:18:23Z",
+      "pushed_at": "2026-07-14T19:41:53Z",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "html_url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "collected_at": "2026-07-15T01:35:59.686276+00:00",
+      "themes": [],
+      "stars_delta": 36,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "jmhummel/Gin-Rummy-Java",
+      "stars": 8,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2023-08-16T16:12:58Z",
+      "pushed_at": "2017-04-23T03:09:31Z",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "card-game",
+        "card-games",
+        "cardgame",
+        "gin",
+        "gin-rummy",
+        "java",
+        "java-8",
+        "java8",
+        "rummy"
+      ],
+      "html_url": "https://github.com/jmhummel/Gin-Rummy-Java",
+      "description": "Java-based Gin Rummy console game, with an AI opponent",
+      "collected_at": "2026-07-15T01:36:08.669166+00:00",
+      "themes": [
+        "point_rummy"
+      ],
+      "stars_delta": 0,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "langchain-ai/langgraph",
+      "stars": 37307,
+      "forks": 6249,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:34:08Z",
+      "pushed_at": "2026-07-14T15:22:35Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "collected_at": "2026-07-15T01:36:03.088037+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 100,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 59735,
+      "forks": 8991,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:02:08Z",
+      "pushed_at": "2026-04-15T11:59:09Z",
+      "topics": [
+        "agentic",
+        "agentic-agi",
+        "agents",
+        "ai",
+        "autogen",
+        "autogen-ecosystem",
+        "chatgpt",
+        "framework",
+        "llm-agent",
+        "llm-framework"
+      ],
+      "html_url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "collected_at": "2026-07-15T01:36:02.774143+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 22,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "microsoft/semantic-kernel",
+      "stars": 28314,
+      "forks": 4680,
+      "language": "C#",
+      "updated_at": "2026-07-15T00:45:18Z",
+      "pushed_at": "2026-07-10T22:29:35Z",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "llm",
+        "openai",
+        "sdk"
+      ],
+      "html_url": "https://github.com/microsoft/semantic-kernel",
+      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+      "collected_at": "2026-07-15T01:36:06.047074+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 5,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "stars": 88480,
+      "forks": 11218,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:21:33Z",
+      "pushed_at": "2026-07-10T03:30:19Z",
+      "topics": [],
+      "html_url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "collected_at": "2026-07-15T01:36:01.406749+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 60,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "mudont/indian-rummy",
+      "stars": 5,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2025-08-08T21:05:04Z",
+      "pushed_at": "2025-08-08T21:05:00Z",
+      "topics": [],
+      "html_url": "https://github.com/mudont/indian-rummy",
+      "description": "Typescript library for Indian Rummy card game",
+      "collected_at": "2026-07-15T01:36:08.993027+00:00",
+      "themes": [
+        "point_rummy"
+      ],
+      "stars_delta": 0,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "nakkekakke/rummy-ai",
+      "stars": 11,
+      "forks": 5,
+      "language": "Java",
+      "updated_at": "2026-04-17T10:02:59Z",
+      "pushed_at": "2019-09-07T14:49:42Z",
+      "topics": [
+        "ai",
+        "card",
+        "card-game",
+        "game",
+        "ismcts",
+        "mcts",
+        "monte-carlo-tree-search",
+        "rummy"
+      ],
+      "html_url": "https://github.com/nakkekakke/rummy-ai",
+      "description": "Text based classic Rummy game with an AI that uses ISMCTS. Data Structures and Algorithms course project, University of Helsinki",
+      "collected_at": "2026-07-15T01:36:08.340850+00:00",
+      "themes": [
+        "point_rummy"
+      ],
+      "stars_delta": 0,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "NVIDIA/NeMo",
+      "stars": 17773,
+      "forks": 3503,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:17:17Z",
+      "pushed_at": "2026-07-15T01:17:15Z",
+      "topics": [
+        "asr",
+        "deeplearning",
+        "generative-ai",
+        "machine-translation",
+        "neural-networks",
+        "speaker-diariazation",
+        "speaker-recognition",
+        "speech-synthesis",
+        "speech-translation",
+        "tts"
+      ],
+      "html_url": "https://github.com/NVIDIA-NeMo/Speech",
+      "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+      "collected_at": "2026-07-15T01:36:07.312966+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct GET /repos fallback; 2026-07-14 snapshot 无该 repo baseline"
+    },
+    {
+      "repo": "NVIDIA/TensorRT-LLM",
+      "stars": 14119,
+      "forks": 2561,
+      "language": "Python",
+      "updated_at": "2026-07-15T00:38:38Z",
+      "pushed_at": "2026-07-14T21:35:59Z",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ],
+      "html_url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "collected_at": "2026-07-15T01:36:05.395672+00:00",
+      "themes": [],
+      "stars_delta": 10,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "openai/codex",
+      "stars": 98073,
+      "forks": 14625,
+      "language": "Rust",
+      "updated_at": "2026-07-15T01:33:30Z",
+      "pushed_at": "2026-07-15T01:33:27Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-07-15T01:36:01.085275+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 362,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "stars": 80793,
+      "forks": 10310,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:29:52Z",
+      "pushed_at": "2026-07-14T21:54:03Z",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "llm",
+        "openai"
+      ],
+      "html_url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "collected_at": "2026-07-15T01:36:02.075183+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 117,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "OpenRLHF/OpenRLHF",
+      "stars": 9788,
+      "forks": 989,
+      "language": "Python",
+      "updated_at": "2026-07-14T14:49:32Z",
+      "pushed_at": "2026-07-14T01:57:21Z",
+      "topics": [
+        "large-language-models",
+        "proximal-policy-optimization",
+        "raylib",
+        "reinforcement-learning",
+        "reinforcement-learning-from-human-feedback",
+        "transformers",
+        "visual-language-models",
+        "vllm"
+      ],
+      "html_url": "https://github.com/OpenRLHF/OpenRLHF",
+      "description": "An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL)",
+      "collected_at": "2026-07-15T01:36:05.020979+00:00",
+      "themes": [],
+      "stars_delta": 3,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "stars": 101813,
+      "forks": 28492,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:35:45Z",
+      "pushed_at": "2026-07-15T01:35:54Z",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+      ],
+      "html_url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "collected_at": "2026-07-15T01:36:00.758335+00:00",
+      "themes": [],
+      "stars_delta": 22,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "stars": 26023,
+      "forks": 2646,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:33:20Z",
+      "pushed_at": "2026-07-15T01:26:17Z",
+      "topics": [],
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "collected_at": "2026-07-15T01:36:03.747290+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 18,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "ray-project/ray",
+      "stars": 43246,
+      "forks": 7793,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:00:51Z",
+      "pushed_at": "2026-07-15T01:19:02Z",
+      "topics": [
+        "data-science",
+        "deep-learning",
+        "deployment",
+        "distributed",
+        "hyperparameter-optimization",
+        "hyperparameter-search",
+        "large-language-models",
+        "llm",
+        "llm-inference",
+        "llm-serving",
+        "machine-learning",
+        "optimization",
+        "parallel",
+        "python",
+        "pytorch",
+        "ray",
+        "reinforcement-learning",
+        "rllib",
+        "serving",
+        "tensorflow"
+      ],
+      "html_url": "https://github.com/ray-project/ray",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "collected_at": "2026-07-15T01:36:06.708548+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct GET /repos fallback; 2026-07-14 snapshot 无该 repo baseline"
+    },
+    {
+      "repo": "rickgorman/gin-rummy-ai",
+      "stars": 13,
+      "forks": 5,
+      "language": "Python",
+      "updated_at": "2025-03-25T13:47:09Z",
+      "pushed_at": "2017-12-24T22:22:19Z",
+      "topics": [],
+      "html_url": "https://github.com/rickgorman/gin-rummy-ai",
+      "description": "A hand-rolled neuroevolution AI for gin rummy.",
+      "collected_at": "2026-07-15T01:36:07.945113+00:00",
+      "themes": [
+        "point_rummy"
+      ],
+      "stars_delta": 0,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "RooCodeInc/Roo-Code",
+      "stars": 24339,
+      "forks": 3370,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:29:51Z",
+      "pushed_at": "2026-05-15T18:08:47Z",
+      "topics": [],
+      "html_url": "https://github.com/RooCodeInc/Roo-Code",
+      "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+      "collected_at": "2026-07-15T01:36:04.060567+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 8,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "sgl-project/sglang",
+      "stars": 30311,
+      "forks": 7154,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:19:20Z",
+      "pushed_at": "2026-07-15T01:24:21Z",
+      "topics": [
+        "attention",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "diffusion",
+        "glm",
+        "gpt-oss",
+        "inference",
+        "llama",
+        "llm",
+        "minimax",
+        "moe",
+        "qwen",
+        "qwen-image",
+        "reinforcement-learning",
+        "transformer",
+        "vlm",
+        "wan"
+      ],
+      "html_url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "collected_at": "2026-07-15T01:36:04.404084+00:00",
+      "themes": [],
+      "stars_delta": 48,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "triton-lang/triton",
+      "stars": 19679,
+      "forks": 3019,
+      "language": "MLIR",
+      "updated_at": "2026-07-15T00:28:55Z",
+      "pushed_at": "2026-07-15T00:28:50Z",
+      "topics": [],
+      "html_url": "https://github.com/triton-lang/triton",
+      "description": "Development repository for the Triton language and compiler",
+      "collected_at": "2026-07-15T01:36:06.372643+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct GET /repos fallback; 2026-07-14 snapshot 无该 repo baseline"
+    },
+    {
+      "repo": "verl-project/verl",
+      "stars": 22472,
+      "forks": 4216,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:28:27Z",
+      "pushed_at": "2026-07-15T01:28:23Z",
+      "topics": [],
+      "html_url": "https://github.com/verl-project/verl",
+      "description": "verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework ",
+      "collected_at": "2026-07-15T01:36:04.720344+00:00",
+      "themes": [],
+      "stars_delta": 21,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "stars": 86269,
+      "forks": 19415,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:33:25Z",
+      "pushed_at": "2026-07-15T01:25:05Z",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "html_url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "collected_at": "2026-07-15T01:36:01.741606+00:00",
+      "themes": [],
+      "stars_delta": 106,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    }
+  ],
+  "high_star_top10": [
+    {
+      "repo": "huggingface/transformers",
+      "stars": 162609,
+      "forks": 33881,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:18:23Z",
+      "pushed_at": "2026-07-14T19:41:53Z",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "html_url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "collected_at": "2026-07-15T01:35:59.686276+00:00",
+      "themes": [],
+      "stars_delta": 36,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 137885,
+      "forks": 22232,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:34:47Z",
+      "pushed_at": "2026-07-14T23:45:25Z",
+      "topics": [],
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "collected_at": "2026-07-15T01:36:00.000939+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 152,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "stars": 105987,
+      "forks": 14256,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T00:20:27Z",
+      "pushed_at": "2026-07-15T01:28:44Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ],
+      "html_url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "collected_at": "2026-07-15T01:36:00.346380+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 17,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "stars": 101813,
+      "forks": 28492,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:35:45Z",
+      "pushed_at": "2026-07-15T01:35:54Z",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+      ],
+      "html_url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "collected_at": "2026-07-15T01:36:00.758335+00:00",
+      "themes": [],
+      "stars_delta": 22,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "openai/codex",
+      "stars": 98073,
+      "forks": 14625,
+      "language": "Rust",
+      "updated_at": "2026-07-15T01:33:30Z",
+      "pushed_at": "2026-07-15T01:33:27Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-07-15T01:36:01.085275+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 362,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "stars": 88480,
+      "forks": 11218,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:21:33Z",
+      "pushed_at": "2026-07-10T03:30:19Z",
+      "topics": [],
+      "html_url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "collected_at": "2026-07-15T01:36:01.406749+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 60,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "stars": 86269,
+      "forks": 19415,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:33:25Z",
+      "pushed_at": "2026-07-15T01:25:05Z",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "html_url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "collected_at": "2026-07-15T01:36:01.741606+00:00",
+      "themes": [],
+      "stars_delta": 106,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "stars": 80793,
+      "forks": 10310,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:29:52Z",
+      "pushed_at": "2026-07-14T21:54:03Z",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "llm",
+        "openai"
+      ],
+      "html_url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "collected_at": "2026-07-15T01:36:02.075183+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 117,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 64665,
+      "forks": 6914,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:29:12Z",
+      "pushed_at": "2026-07-15T01:27:44Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-07-15T01:36:02.404426+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 40,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 59735,
+      "forks": 8991,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:02:08Z",
+      "pushed_at": "2026-04-15T11:59:09Z",
+      "topics": [
+        "agentic",
+        "agentic-agi",
+        "agents",
+        "ai",
+        "autogen",
+        "autogen-ecosystem",
+        "chatgpt",
+        "framework",
+        "llm-agent",
+        "llm-framework"
+      ],
+      "html_url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "collected_at": "2026-07-15T01:36:02.774143+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 22,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    }
+  ],
+  "growth_top10": [
+    {
+      "repo": "openai/codex",
+      "stars": 98073,
+      "forks": 14625,
+      "language": "Rust",
+      "updated_at": "2026-07-15T01:33:30Z",
+      "pushed_at": "2026-07-15T01:33:27Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-07-15T01:36:01.085275+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 362,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 137885,
+      "forks": 22232,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:34:47Z",
+      "pushed_at": "2026-07-14T23:45:25Z",
+      "topics": [],
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "collected_at": "2026-07-15T01:36:00.000939+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 152,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "stars": 80793,
+      "forks": 10310,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:29:52Z",
+      "pushed_at": "2026-07-14T21:54:03Z",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "llm",
+        "openai"
+      ],
+      "html_url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "collected_at": "2026-07-15T01:36:02.075183+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 117,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "stars": 86269,
+      "forks": 19415,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:33:25Z",
+      "pushed_at": "2026-07-15T01:25:05Z",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "html_url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "collected_at": "2026-07-15T01:36:01.741606+00:00",
+      "themes": [],
+      "stars_delta": 106,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "langchain-ai/langgraph",
+      "stars": 37307,
+      "forks": 6249,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:34:08Z",
+      "pushed_at": "2026-07-14T15:22:35Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "collected_at": "2026-07-15T01:36:03.088037+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 100,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "stars": 88480,
+      "forks": 11218,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:21:33Z",
+      "pushed_at": "2026-07-10T03:30:19Z",
+      "topics": [],
+      "html_url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "collected_at": "2026-07-15T01:36:01.406749+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 60,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "sgl-project/sglang",
+      "stars": 30311,
+      "forks": 7154,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:19:20Z",
+      "pushed_at": "2026-07-15T01:24:21Z",
+      "topics": [
+        "attention",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "diffusion",
+        "glm",
+        "gpt-oss",
+        "inference",
+        "llama",
+        "llm",
+        "minimax",
+        "moe",
+        "qwen",
+        "qwen-image",
+        "reinforcement-learning",
+        "transformer",
+        "vlm",
+        "wan"
+      ],
+      "html_url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "collected_at": "2026-07-15T01:36:04.404084+00:00",
+      "themes": [],
+      "stars_delta": 48,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 64665,
+      "forks": 6914,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:29:12Z",
+      "pushed_at": "2026-07-15T01:27:44Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-07-15T01:36:02.404426+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 40,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "huggingface/transformers",
+      "stars": 162609,
+      "forks": 33881,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:18:23Z",
+      "pushed_at": "2026-07-14T19:41:53Z",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "html_url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "collected_at": "2026-07-15T01:35:59.686276+00:00",
+      "themes": [],
+      "stars_delta": 36,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "stars": 101813,
+      "forks": 28492,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:35:45Z",
+      "pushed_at": "2026-07-15T01:35:54Z",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+      ],
+      "html_url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "collected_at": "2026-07-15T01:36:00.758335+00:00",
+      "themes": [],
+      "stars_delta": 22,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    }
+  ],
+  "theme_sections": {
+    "point_rummy": {
+      "repos": [
+        {
+          "repo": "rickgorman/gin-rummy-ai",
+          "stars": 13,
+          "forks": 5,
+          "language": "Python",
+          "updated_at": "2025-03-25T13:47:09Z",
+          "pushed_at": "2017-12-24T22:22:19Z",
+          "topics": [],
+          "html_url": "https://github.com/rickgorman/gin-rummy-ai",
+          "description": "A hand-rolled neuroevolution AI for gin rummy.",
+          "collected_at": "2026-07-15T01:36:07.945113+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "nakkekakke/rummy-ai",
+          "stars": 11,
+          "forks": 5,
+          "language": "Java",
+          "updated_at": "2026-04-17T10:02:59Z",
+          "pushed_at": "2019-09-07T14:49:42Z",
+          "topics": [
+            "ai",
+            "card",
+            "card-game",
+            "game",
+            "ismcts",
+            "mcts",
+            "monte-carlo-tree-search",
+            "rummy"
+          ],
+          "html_url": "https://github.com/nakkekakke/rummy-ai",
+          "description": "Text based classic Rummy game with an AI that uses ISMCTS. Data Structures and Algorithms course project, University of Helsinki",
+          "collected_at": "2026-07-15T01:36:08.340850+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "jmhummel/Gin-Rummy-Java",
+          "stars": 8,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2023-08-16T16:12:58Z",
+          "pushed_at": "2017-04-23T03:09:31Z",
+          "topics": [
+            "ai",
+            "artificial-intelligence",
+            "card-game",
+            "card-games",
+            "cardgame",
+            "gin",
+            "gin-rummy",
+            "java",
+            "java-8",
+            "java8",
+            "rummy"
+          ],
+          "html_url": "https://github.com/jmhummel/Gin-Rummy-Java",
+          "description": "Java-based Gin Rummy console game, with an AI opponent",
+          "collected_at": "2026-07-15T01:36:08.669166+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "mudont/indian-rummy",
+          "stars": 5,
+          "forks": 0,
+          "language": "TypeScript",
+          "updated_at": "2025-08-08T21:05:04Z",
+          "pushed_at": "2025-08-08T21:05:00Z",
+          "topics": [],
+          "html_url": "https://github.com/mudont/indian-rummy",
+          "description": "Typescript library for Indian Rummy card game",
+          "collected_at": "2026-07-15T01:36:08.993027+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "abubakarmunir712/dsa-final-project",
+          "stars": 2,
+          "forks": 1,
+          "language": "Python",
+          "updated_at": "2026-06-27T06:34:26Z",
+          "pushed_at": "2026-06-27T06:34:22Z",
+          "topics": [],
+          "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+          "description": "A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+          "collected_at": "2026-07-15T01:36:09.305971+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+          "stars": 2,
+          "forks": 0,
+          "language": "Jupyter Notebook",
+          "updated_at": "2023-04-01T05:48:51Z",
+          "pushed_at": "2020-01-05T05:06:30Z",
+          "topics": [],
+          "html_url": "https://github.com/Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+          "description": "Rummy Game Agent trained using Reinforcement Learning algorithm.",
+          "collected_at": "2026-07-15T01:36:09.623005+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "Alan-seb/RummyVision",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2025-12-03T03:14:55Z",
+          "pushed_at": "2025-12-03T03:14:51Z",
+          "topics": [],
+          "html_url": "https://github.com/Alan-seb/RummyVision",
+          "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+          "collected_at": "2026-07-15T01:36:09.959532+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "debabrata-mandal/RummyPulse",
+          "stars": 1,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2026-07-14T08:10:30Z",
+          "pushed_at": "2026-07-14T08:14:10Z",
+          "topics": [
+            "android"
+          ],
+          "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+          "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+          "collected_at": "2026-07-15T01:36:10.452944+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "drewmcgee/gin-rummy-rl-lab",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2026-04-30T00:13:25Z",
+          "pushed_at": "2026-04-30T00:13:20Z",
+          "topics": [],
+          "html_url": "https://github.com/drewmcgee/gin-rummy-rl-lab",
+          "description": "Gin Rummy reinforcement learning lab with a Java game server, Python agents, and C++ rollout infrastructure.",
+          "collected_at": "2026-07-15T01:36:10.841652+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "aidanw33/cards-ai-bot",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2026-05-13T01:09:05Z",
+          "pushed_at": "2026-05-13T01:09:00Z",
+          "topics": [],
+          "html_url": "https://github.com/aidanw33/cards-ai-bot",
+          "description": "AI bot to play a specific version of gin rummy",
+          "collected_at": "2026-07-15T01:36:11.167273+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        }
+      ],
+      "high_star_top10": [
+        {
+          "repo": "rickgorman/gin-rummy-ai",
+          "stars": 13,
+          "forks": 5,
+          "language": "Python",
+          "updated_at": "2025-03-25T13:47:09Z",
+          "pushed_at": "2017-12-24T22:22:19Z",
+          "topics": [],
+          "html_url": "https://github.com/rickgorman/gin-rummy-ai",
+          "description": "A hand-rolled neuroevolution AI for gin rummy.",
+          "collected_at": "2026-07-15T01:36:07.945113+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "nakkekakke/rummy-ai",
+          "stars": 11,
+          "forks": 5,
+          "language": "Java",
+          "updated_at": "2026-04-17T10:02:59Z",
+          "pushed_at": "2019-09-07T14:49:42Z",
+          "topics": [
+            "ai",
+            "card",
+            "card-game",
+            "game",
+            "ismcts",
+            "mcts",
+            "monte-carlo-tree-search",
+            "rummy"
+          ],
+          "html_url": "https://github.com/nakkekakke/rummy-ai",
+          "description": "Text based classic Rummy game with an AI that uses ISMCTS. Data Structures and Algorithms course project, University of Helsinki",
+          "collected_at": "2026-07-15T01:36:08.340850+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "jmhummel/Gin-Rummy-Java",
+          "stars": 8,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2023-08-16T16:12:58Z",
+          "pushed_at": "2017-04-23T03:09:31Z",
+          "topics": [
+            "ai",
+            "artificial-intelligence",
+            "card-game",
+            "card-games",
+            "cardgame",
+            "gin",
+            "gin-rummy",
+            "java",
+            "java-8",
+            "java8",
+            "rummy"
+          ],
+          "html_url": "https://github.com/jmhummel/Gin-Rummy-Java",
+          "description": "Java-based Gin Rummy console game, with an AI opponent",
+          "collected_at": "2026-07-15T01:36:08.669166+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "mudont/indian-rummy",
+          "stars": 5,
+          "forks": 0,
+          "language": "TypeScript",
+          "updated_at": "2025-08-08T21:05:04Z",
+          "pushed_at": "2025-08-08T21:05:00Z",
+          "topics": [],
+          "html_url": "https://github.com/mudont/indian-rummy",
+          "description": "Typescript library for Indian Rummy card game",
+          "collected_at": "2026-07-15T01:36:08.993027+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "abubakarmunir712/dsa-final-project",
+          "stars": 2,
+          "forks": 1,
+          "language": "Python",
+          "updated_at": "2026-06-27T06:34:26Z",
+          "pushed_at": "2026-06-27T06:34:22Z",
+          "topics": [],
+          "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+          "description": "A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+          "collected_at": "2026-07-15T01:36:09.305971+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+          "stars": 2,
+          "forks": 0,
+          "language": "Jupyter Notebook",
+          "updated_at": "2023-04-01T05:48:51Z",
+          "pushed_at": "2020-01-05T05:06:30Z",
+          "topics": [],
+          "html_url": "https://github.com/Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+          "description": "Rummy Game Agent trained using Reinforcement Learning algorithm.",
+          "collected_at": "2026-07-15T01:36:09.623005+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "Alan-seb/RummyVision",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2025-12-03T03:14:55Z",
+          "pushed_at": "2025-12-03T03:14:51Z",
+          "topics": [],
+          "html_url": "https://github.com/Alan-seb/RummyVision",
+          "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+          "collected_at": "2026-07-15T01:36:09.959532+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "debabrata-mandal/RummyPulse",
+          "stars": 1,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2026-07-14T08:10:30Z",
+          "pushed_at": "2026-07-14T08:14:10Z",
+          "topics": [
+            "android"
+          ],
+          "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+          "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+          "collected_at": "2026-07-15T01:36:10.452944+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "drewmcgee/gin-rummy-rl-lab",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2026-04-30T00:13:25Z",
+          "pushed_at": "2026-04-30T00:13:20Z",
+          "topics": [],
+          "html_url": "https://github.com/drewmcgee/gin-rummy-rl-lab",
+          "description": "Gin Rummy reinforcement learning lab with a Java game server, Python agents, and C++ rollout infrastructure.",
+          "collected_at": "2026-07-15T01:36:10.841652+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "aidanw33/cards-ai-bot",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2026-05-13T01:09:05Z",
+          "pushed_at": "2026-05-13T01:09:00Z",
+          "topics": [],
+          "html_url": "https://github.com/aidanw33/cards-ai-bot",
+          "description": "AI bot to play a specific version of gin rummy",
+          "collected_at": "2026-07-15T01:36:11.167273+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        }
+      ],
+      "growth_top10": [
+        {
+          "repo": "debabrata-mandal/RummyPulse",
+          "stars": 1,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2026-07-14T08:10:30Z",
+          "pushed_at": "2026-07-14T08:14:10Z",
+          "topics": [
+            "android"
+          ],
+          "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+          "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+          "collected_at": "2026-07-15T01:36:10.452944+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "abubakarmunir712/dsa-final-project",
+          "stars": 2,
+          "forks": 1,
+          "language": "Python",
+          "updated_at": "2026-06-27T06:34:26Z",
+          "pushed_at": "2026-06-27T06:34:22Z",
+          "topics": [],
+          "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+          "description": "A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+          "collected_at": "2026-07-15T01:36:09.305971+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "aidanw33/cards-ai-bot",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2026-05-13T01:09:05Z",
+          "pushed_at": "2026-05-13T01:09:00Z",
+          "topics": [],
+          "html_url": "https://github.com/aidanw33/cards-ai-bot",
+          "description": "AI bot to play a specific version of gin rummy",
+          "collected_at": "2026-07-15T01:36:11.167273+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "drewmcgee/gin-rummy-rl-lab",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2026-04-30T00:13:25Z",
+          "pushed_at": "2026-04-30T00:13:20Z",
+          "topics": [],
+          "html_url": "https://github.com/drewmcgee/gin-rummy-rl-lab",
+          "description": "Gin Rummy reinforcement learning lab with a Java game server, Python agents, and C++ rollout infrastructure.",
+          "collected_at": "2026-07-15T01:36:10.841652+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "nakkekakke/rummy-ai",
+          "stars": 11,
+          "forks": 5,
+          "language": "Java",
+          "updated_at": "2026-04-17T10:02:59Z",
+          "pushed_at": "2019-09-07T14:49:42Z",
+          "topics": [
+            "ai",
+            "card",
+            "card-game",
+            "game",
+            "ismcts",
+            "mcts",
+            "monte-carlo-tree-search",
+            "rummy"
+          ],
+          "html_url": "https://github.com/nakkekakke/rummy-ai",
+          "description": "Text based classic Rummy game with an AI that uses ISMCTS. Data Structures and Algorithms course project, University of Helsinki",
+          "collected_at": "2026-07-15T01:36:08.340850+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "Alan-seb/RummyVision",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2025-12-03T03:14:55Z",
+          "pushed_at": "2025-12-03T03:14:51Z",
+          "topics": [],
+          "html_url": "https://github.com/Alan-seb/RummyVision",
+          "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+          "collected_at": "2026-07-15T01:36:09.959532+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "mudont/indian-rummy",
+          "stars": 5,
+          "forks": 0,
+          "language": "TypeScript",
+          "updated_at": "2025-08-08T21:05:04Z",
+          "pushed_at": "2025-08-08T21:05:00Z",
+          "topics": [],
+          "html_url": "https://github.com/mudont/indian-rummy",
+          "description": "Typescript library for Indian Rummy card game",
+          "collected_at": "2026-07-15T01:36:08.993027+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "rickgorman/gin-rummy-ai",
+          "stars": 13,
+          "forks": 5,
+          "language": "Python",
+          "updated_at": "2025-03-25T13:47:09Z",
+          "pushed_at": "2017-12-24T22:22:19Z",
+          "topics": [],
+          "html_url": "https://github.com/rickgorman/gin-rummy-ai",
+          "description": "A hand-rolled neuroevolution AI for gin rummy.",
+          "collected_at": "2026-07-15T01:36:07.945113+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "jmhummel/Gin-Rummy-Java",
+          "stars": 8,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2023-08-16T16:12:58Z",
+          "pushed_at": "2017-04-23T03:09:31Z",
+          "topics": [
+            "ai",
+            "artificial-intelligence",
+            "card-game",
+            "card-games",
+            "cardgame",
+            "gin",
+            "gin-rummy",
+            "java",
+            "java-8",
+            "java8",
+            "rummy"
+          ],
+          "html_url": "https://github.com/jmhummel/Gin-Rummy-Java",
+          "description": "Java-based Gin Rummy console game, with an AI opponent",
+          "collected_at": "2026-07-15T01:36:08.669166+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+          "stars": 2,
+          "forks": 0,
+          "language": "Jupyter Notebook",
+          "updated_at": "2023-04-01T05:48:51Z",
+          "pushed_at": "2020-01-05T05:06:30Z",
+          "topics": [],
+          "html_url": "https://github.com/Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+          "description": "Rummy Game Agent trained using Reinforcement Learning algorithm.",
+          "collected_at": "2026-07-15T01:36:09.623005+00:00",
+          "themes": [
+            "point_rummy"
+          ],
+          "stars_delta": 0,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        }
+      ]
+    },
+    "loop_engineer": {
+      "repos": [
+        {
+          "repo": "anthropics/claude-code",
+          "stars": 137885,
+          "forks": 22232,
+          "language": "Python",
+          "updated_at": "2026-07-15T01:34:47Z",
+          "pushed_at": "2026-07-14T23:45:25Z",
+          "topics": [],
+          "html_url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "collected_at": "2026-07-15T01:36:00.000939+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 152,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "google-gemini/gemini-cli",
+          "stars": 105987,
+          "forks": 14256,
+          "language": "TypeScript",
+          "updated_at": "2026-07-15T00:20:27Z",
+          "pushed_at": "2026-07-15T01:28:44Z",
+          "topics": [
+            "ai",
+            "ai-agents",
+            "cli",
+            "gemini",
+            "gemini-api",
+            "mcp-client",
+            "mcp-server"
+          ],
+          "html_url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "collected_at": "2026-07-15T01:36:00.346380+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 17,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "openai/codex",
+          "stars": 98073,
+          "forks": 14625,
+          "language": "Rust",
+          "updated_at": "2026-07-15T01:33:30Z",
+          "pushed_at": "2026-07-15T01:33:27Z",
+          "topics": [],
+          "html_url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "collected_at": "2026-07-15T01:36:01.085275+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 362,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "modelcontextprotocol/servers",
+          "stars": 88480,
+          "forks": 11218,
+          "language": "TypeScript",
+          "updated_at": "2026-07-15T01:21:33Z",
+          "pushed_at": "2026-07-10T03:30:19Z",
+          "topics": [],
+          "html_url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "collected_at": "2026-07-15T01:36:01.406749+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 60,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "OpenHands/OpenHands",
+          "stars": 80793,
+          "forks": 10310,
+          "language": "Python",
+          "updated_at": "2026-07-15T01:29:52Z",
+          "pushed_at": "2026-07-14T21:54:03Z",
+          "topics": [
+            "agent",
+            "artificial-intelligence",
+            "chatgpt",
+            "claude-ai",
+            "cli",
+            "developer-tools",
+            "gpt",
+            "llm",
+            "openai"
+          ],
+          "html_url": "https://github.com/OpenHands/OpenHands",
+          "description": "🙌 OpenHands: AI-Driven Development",
+          "collected_at": "2026-07-15T01:36:02.075183+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 117,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "cline/cline",
+          "stars": 64665,
+          "forks": 6914,
+          "language": "TypeScript",
+          "updated_at": "2026-07-15T01:29:12Z",
+          "pushed_at": "2026-07-15T01:27:44Z",
+          "topics": [],
+          "html_url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+          "collected_at": "2026-07-15T01:36:02.404426+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 40,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "microsoft/autogen",
+          "stars": 59735,
+          "forks": 8991,
+          "language": "Python",
+          "updated_at": "2026-07-15T01:02:08Z",
+          "pushed_at": "2026-04-15T11:59:09Z",
+          "topics": [
+            "agentic",
+            "agentic-agi",
+            "agents",
+            "ai",
+            "autogen",
+            "autogen-ecosystem",
+            "chatgpt",
+            "framework",
+            "llm-agent",
+            "llm-framework"
+          ],
+          "html_url": "https://github.com/microsoft/autogen",
+          "description": "A programming framework for agentic AI",
+          "collected_at": "2026-07-15T01:36:02.774143+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 22,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "langchain-ai/langgraph",
+          "stars": 37307,
+          "forks": 6249,
+          "language": "Python",
+          "updated_at": "2026-07-15T01:34:08Z",
+          "pushed_at": "2026-07-14T15:22:35Z",
+          "topics": [
+            "agents",
+            "ai",
+            "ai-agents",
+            "chatgpt",
+            "deepagents",
+            "enterprise",
+            "framework",
+            "gemini",
+            "generative-ai",
+            "langchain",
+            "langgraph",
+            "llm",
+            "multiagent",
+            "open-source",
+            "openai",
+            "pydantic",
+            "python",
+            "rag"
+          ],
+          "html_url": "https://github.com/langchain-ai/langgraph",
+          "description": "Build resilient agents.",
+          "collected_at": "2026-07-15T01:36:03.088037+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 100,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "continuedev/continue",
+          "stars": 34876,
+          "forks": 5044,
+          "language": "TypeScript",
+          "updated_at": "2026-07-15T01:17:55Z",
+          "pushed_at": "2026-07-14T17:00:05Z",
+          "topics": [
+            "agent",
+            "ai",
+            "cli",
+            "developer-tools",
+            "open-source"
+          ],
+          "html_url": "https://github.com/continuedev/continue",
+          "description": "open-source coding agent",
+          "collected_at": "2026-07-15T01:36:03.397354+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 18,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "QwenLM/qwen-code",
+          "stars": 26023,
+          "forks": 2646,
+          "language": "TypeScript",
+          "updated_at": "2026-07-15T01:33:20Z",
+          "pushed_at": "2026-07-15T01:26:17Z",
+          "topics": [],
+          "html_url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "collected_at": "2026-07-15T01:36:03.747290+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 18,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "RooCodeInc/Roo-Code",
+          "stars": 24339,
+          "forks": 3370,
+          "language": "TypeScript",
+          "updated_at": "2026-07-15T01:29:51Z",
+          "pushed_at": "2026-05-15T18:08:47Z",
+          "topics": [],
+          "html_url": "https://github.com/RooCodeInc/Roo-Code",
+          "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+          "collected_at": "2026-07-15T01:36:04.060567+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 8,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "microsoft/semantic-kernel",
+          "stars": 28314,
+          "forks": 4680,
+          "language": "C#",
+          "updated_at": "2026-07-15T00:45:18Z",
+          "pushed_at": "2026-07-10T22:29:35Z",
+          "topics": [
+            "ai",
+            "artificial-intelligence",
+            "llm",
+            "openai",
+            "sdk"
+          ],
+          "html_url": "https://github.com/microsoft/semantic-kernel",
+          "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+          "collected_at": "2026-07-15T01:36:06.047074+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 5,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        }
+      ],
+      "high_star_top10": [
+        {
+          "repo": "anthropics/claude-code",
+          "stars": 137885,
+          "forks": 22232,
+          "language": "Python",
+          "updated_at": "2026-07-15T01:34:47Z",
+          "pushed_at": "2026-07-14T23:45:25Z",
+          "topics": [],
+          "html_url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "collected_at": "2026-07-15T01:36:00.000939+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 152,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "google-gemini/gemini-cli",
+          "stars": 105987,
+          "forks": 14256,
+          "language": "TypeScript",
+          "updated_at": "2026-07-15T00:20:27Z",
+          "pushed_at": "2026-07-15T01:28:44Z",
+          "topics": [
+            "ai",
+            "ai-agents",
+            "cli",
+            "gemini",
+            "gemini-api",
+            "mcp-client",
+            "mcp-server"
+          ],
+          "html_url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "collected_at": "2026-07-15T01:36:00.346380+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 17,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "openai/codex",
+          "stars": 98073,
+          "forks": 14625,
+          "language": "Rust",
+          "updated_at": "2026-07-15T01:33:30Z",
+          "pushed_at": "2026-07-15T01:33:27Z",
+          "topics": [],
+          "html_url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "collected_at": "2026-07-15T01:36:01.085275+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 362,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "modelcontextprotocol/servers",
+          "stars": 88480,
+          "forks": 11218,
+          "language": "TypeScript",
+          "updated_at": "2026-07-15T01:21:33Z",
+          "pushed_at": "2026-07-10T03:30:19Z",
+          "topics": [],
+          "html_url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "collected_at": "2026-07-15T01:36:01.406749+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 60,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "OpenHands/OpenHands",
+          "stars": 80793,
+          "forks": 10310,
+          "language": "Python",
+          "updated_at": "2026-07-15T01:29:52Z",
+          "pushed_at": "2026-07-14T21:54:03Z",
+          "topics": [
+            "agent",
+            "artificial-intelligence",
+            "chatgpt",
+            "claude-ai",
+            "cli",
+            "developer-tools",
+            "gpt",
+            "llm",
+            "openai"
+          ],
+          "html_url": "https://github.com/OpenHands/OpenHands",
+          "description": "🙌 OpenHands: AI-Driven Development",
+          "collected_at": "2026-07-15T01:36:02.075183+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 117,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "cline/cline",
+          "stars": 64665,
+          "forks": 6914,
+          "language": "TypeScript",
+          "updated_at": "2026-07-15T01:29:12Z",
+          "pushed_at": "2026-07-15T01:27:44Z",
+          "topics": [],
+          "html_url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+          "collected_at": "2026-07-15T01:36:02.404426+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 40,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "microsoft/autogen",
+          "stars": 59735,
+          "forks": 8991,
+          "language": "Python",
+          "updated_at": "2026-07-15T01:02:08Z",
+          "pushed_at": "2026-04-15T11:59:09Z",
+          "topics": [
+            "agentic",
+            "agentic-agi",
+            "agents",
+            "ai",
+            "autogen",
+            "autogen-ecosystem",
+            "chatgpt",
+            "framework",
+            "llm-agent",
+            "llm-framework"
+          ],
+          "html_url": "https://github.com/microsoft/autogen",
+          "description": "A programming framework for agentic AI",
+          "collected_at": "2026-07-15T01:36:02.774143+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 22,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "langchain-ai/langgraph",
+          "stars": 37307,
+          "forks": 6249,
+          "language": "Python",
+          "updated_at": "2026-07-15T01:34:08Z",
+          "pushed_at": "2026-07-14T15:22:35Z",
+          "topics": [
+            "agents",
+            "ai",
+            "ai-agents",
+            "chatgpt",
+            "deepagents",
+            "enterprise",
+            "framework",
+            "gemini",
+            "generative-ai",
+            "langchain",
+            "langgraph",
+            "llm",
+            "multiagent",
+            "open-source",
+            "openai",
+            "pydantic",
+            "python",
+            "rag"
+          ],
+          "html_url": "https://github.com/langchain-ai/langgraph",
+          "description": "Build resilient agents.",
+          "collected_at": "2026-07-15T01:36:03.088037+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 100,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "continuedev/continue",
+          "stars": 34876,
+          "forks": 5044,
+          "language": "TypeScript",
+          "updated_at": "2026-07-15T01:17:55Z",
+          "pushed_at": "2026-07-14T17:00:05Z",
+          "topics": [
+            "agent",
+            "ai",
+            "cli",
+            "developer-tools",
+            "open-source"
+          ],
+          "html_url": "https://github.com/continuedev/continue",
+          "description": "open-source coding agent",
+          "collected_at": "2026-07-15T01:36:03.397354+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 18,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "microsoft/semantic-kernel",
+          "stars": 28314,
+          "forks": 4680,
+          "language": "C#",
+          "updated_at": "2026-07-15T00:45:18Z",
+          "pushed_at": "2026-07-10T22:29:35Z",
+          "topics": [
+            "ai",
+            "artificial-intelligence",
+            "llm",
+            "openai",
+            "sdk"
+          ],
+          "html_url": "https://github.com/microsoft/semantic-kernel",
+          "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+          "collected_at": "2026-07-15T01:36:06.047074+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 5,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        }
+      ],
+      "growth_top10": [
+        {
+          "repo": "openai/codex",
+          "stars": 98073,
+          "forks": 14625,
+          "language": "Rust",
+          "updated_at": "2026-07-15T01:33:30Z",
+          "pushed_at": "2026-07-15T01:33:27Z",
+          "topics": [],
+          "html_url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "collected_at": "2026-07-15T01:36:01.085275+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 362,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "anthropics/claude-code",
+          "stars": 137885,
+          "forks": 22232,
+          "language": "Python",
+          "updated_at": "2026-07-15T01:34:47Z",
+          "pushed_at": "2026-07-14T23:45:25Z",
+          "topics": [],
+          "html_url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "collected_at": "2026-07-15T01:36:00.000939+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 152,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "OpenHands/OpenHands",
+          "stars": 80793,
+          "forks": 10310,
+          "language": "Python",
+          "updated_at": "2026-07-15T01:29:52Z",
+          "pushed_at": "2026-07-14T21:54:03Z",
+          "topics": [
+            "agent",
+            "artificial-intelligence",
+            "chatgpt",
+            "claude-ai",
+            "cli",
+            "developer-tools",
+            "gpt",
+            "llm",
+            "openai"
+          ],
+          "html_url": "https://github.com/OpenHands/OpenHands",
+          "description": "🙌 OpenHands: AI-Driven Development",
+          "collected_at": "2026-07-15T01:36:02.075183+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 117,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "langchain-ai/langgraph",
+          "stars": 37307,
+          "forks": 6249,
+          "language": "Python",
+          "updated_at": "2026-07-15T01:34:08Z",
+          "pushed_at": "2026-07-14T15:22:35Z",
+          "topics": [
+            "agents",
+            "ai",
+            "ai-agents",
+            "chatgpt",
+            "deepagents",
+            "enterprise",
+            "framework",
+            "gemini",
+            "generative-ai",
+            "langchain",
+            "langgraph",
+            "llm",
+            "multiagent",
+            "open-source",
+            "openai",
+            "pydantic",
+            "python",
+            "rag"
+          ],
+          "html_url": "https://github.com/langchain-ai/langgraph",
+          "description": "Build resilient agents.",
+          "collected_at": "2026-07-15T01:36:03.088037+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 100,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "modelcontextprotocol/servers",
+          "stars": 88480,
+          "forks": 11218,
+          "language": "TypeScript",
+          "updated_at": "2026-07-15T01:21:33Z",
+          "pushed_at": "2026-07-10T03:30:19Z",
+          "topics": [],
+          "html_url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "collected_at": "2026-07-15T01:36:01.406749+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 60,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "cline/cline",
+          "stars": 64665,
+          "forks": 6914,
+          "language": "TypeScript",
+          "updated_at": "2026-07-15T01:29:12Z",
+          "pushed_at": "2026-07-15T01:27:44Z",
+          "topics": [],
+          "html_url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+          "collected_at": "2026-07-15T01:36:02.404426+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 40,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "microsoft/autogen",
+          "stars": 59735,
+          "forks": 8991,
+          "language": "Python",
+          "updated_at": "2026-07-15T01:02:08Z",
+          "pushed_at": "2026-04-15T11:59:09Z",
+          "topics": [
+            "agentic",
+            "agentic-agi",
+            "agents",
+            "ai",
+            "autogen",
+            "autogen-ecosystem",
+            "chatgpt",
+            "framework",
+            "llm-agent",
+            "llm-framework"
+          ],
+          "html_url": "https://github.com/microsoft/autogen",
+          "description": "A programming framework for agentic AI",
+          "collected_at": "2026-07-15T01:36:02.774143+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 22,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "continuedev/continue",
+          "stars": 34876,
+          "forks": 5044,
+          "language": "TypeScript",
+          "updated_at": "2026-07-15T01:17:55Z",
+          "pushed_at": "2026-07-14T17:00:05Z",
+          "topics": [
+            "agent",
+            "ai",
+            "cli",
+            "developer-tools",
+            "open-source"
+          ],
+          "html_url": "https://github.com/continuedev/continue",
+          "description": "open-source coding agent",
+          "collected_at": "2026-07-15T01:36:03.397354+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 18,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "QwenLM/qwen-code",
+          "stars": 26023,
+          "forks": 2646,
+          "language": "TypeScript",
+          "updated_at": "2026-07-15T01:33:20Z",
+          "pushed_at": "2026-07-15T01:26:17Z",
+          "topics": [],
+          "html_url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "collected_at": "2026-07-15T01:36:03.747290+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 18,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        },
+        {
+          "repo": "google-gemini/gemini-cli",
+          "stars": 105987,
+          "forks": 14256,
+          "language": "TypeScript",
+          "updated_at": "2026-07-15T00:20:27Z",
+          "pushed_at": "2026-07-15T01:28:44Z",
+          "topics": [
+            "ai",
+            "ai-agents",
+            "cli",
+            "gemini",
+            "gemini-api",
+            "mcp-client",
+            "mcp-server"
+          ],
+          "html_url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "collected_at": "2026-07-15T01:36:00.346380+00:00",
+          "themes": [
+            "loop_engineer"
+          ],
+          "stars_delta": 17,
+          "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+        }
+      ]
+    }
+  },
+  "direct_fallback": true,
+  "direct_fallback_reason": "GitHub Search returned HTTP 403 from the first query; direct GET /repos works, so fixed tables use watched repo fallback with explicit labels.",
+  "direct_errors": [],
+  "loop_engineer_high_star_top10": [
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 137885,
+      "forks": 22232,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:34:47Z",
+      "pushed_at": "2026-07-14T23:45:25Z",
+      "topics": [],
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "collected_at": "2026-07-15T01:36:00.000939+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 152,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "stars": 105987,
+      "forks": 14256,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T00:20:27Z",
+      "pushed_at": "2026-07-15T01:28:44Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ],
+      "html_url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "collected_at": "2026-07-15T01:36:00.346380+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 17,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "openai/codex",
+      "stars": 98073,
+      "forks": 14625,
+      "language": "Rust",
+      "updated_at": "2026-07-15T01:33:30Z",
+      "pushed_at": "2026-07-15T01:33:27Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-07-15T01:36:01.085275+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 362,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "stars": 88480,
+      "forks": 11218,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:21:33Z",
+      "pushed_at": "2026-07-10T03:30:19Z",
+      "topics": [],
+      "html_url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "collected_at": "2026-07-15T01:36:01.406749+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 60,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "stars": 80793,
+      "forks": 10310,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:29:52Z",
+      "pushed_at": "2026-07-14T21:54:03Z",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "llm",
+        "openai"
+      ],
+      "html_url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "collected_at": "2026-07-15T01:36:02.075183+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 117,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 64665,
+      "forks": 6914,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:29:12Z",
+      "pushed_at": "2026-07-15T01:27:44Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-07-15T01:36:02.404426+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 40,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 59735,
+      "forks": 8991,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:02:08Z",
+      "pushed_at": "2026-04-15T11:59:09Z",
+      "topics": [
+        "agentic",
+        "agentic-agi",
+        "agents",
+        "ai",
+        "autogen",
+        "autogen-ecosystem",
+        "chatgpt",
+        "framework",
+        "llm-agent",
+        "llm-framework"
+      ],
+      "html_url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "collected_at": "2026-07-15T01:36:02.774143+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 22,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "langchain-ai/langgraph",
+      "stars": 37307,
+      "forks": 6249,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:34:08Z",
+      "pushed_at": "2026-07-14T15:22:35Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "collected_at": "2026-07-15T01:36:03.088037+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 100,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "continuedev/continue",
+      "stars": 34876,
+      "forks": 5044,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:17:55Z",
+      "pushed_at": "2026-07-14T17:00:05Z",
+      "topics": [
+        "agent",
+        "ai",
+        "cli",
+        "developer-tools",
+        "open-source"
+      ],
+      "html_url": "https://github.com/continuedev/continue",
+      "description": "open-source coding agent",
+      "collected_at": "2026-07-15T01:36:03.397354+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 18,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "microsoft/semantic-kernel",
+      "stars": 28314,
+      "forks": 4680,
+      "language": "C#",
+      "updated_at": "2026-07-15T00:45:18Z",
+      "pushed_at": "2026-07-10T22:29:35Z",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "llm",
+        "openai",
+        "sdk"
+      ],
+      "html_url": "https://github.com/microsoft/semantic-kernel",
+      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+      "collected_at": "2026-07-15T01:36:06.047074+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 5,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    }
+  ],
+  "loop_engineer_growth_top10": [
+    {
+      "repo": "openai/codex",
+      "stars": 98073,
+      "forks": 14625,
+      "language": "Rust",
+      "updated_at": "2026-07-15T01:33:30Z",
+      "pushed_at": "2026-07-15T01:33:27Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-07-15T01:36:01.085275+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 362,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 137885,
+      "forks": 22232,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:34:47Z",
+      "pushed_at": "2026-07-14T23:45:25Z",
+      "topics": [],
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "collected_at": "2026-07-15T01:36:00.000939+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 152,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "stars": 80793,
+      "forks": 10310,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:29:52Z",
+      "pushed_at": "2026-07-14T21:54:03Z",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "llm",
+        "openai"
+      ],
+      "html_url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "collected_at": "2026-07-15T01:36:02.075183+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 117,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "langchain-ai/langgraph",
+      "stars": 37307,
+      "forks": 6249,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:34:08Z",
+      "pushed_at": "2026-07-14T15:22:35Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "collected_at": "2026-07-15T01:36:03.088037+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 100,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "stars": 88480,
+      "forks": 11218,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:21:33Z",
+      "pushed_at": "2026-07-10T03:30:19Z",
+      "topics": [],
+      "html_url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "collected_at": "2026-07-15T01:36:01.406749+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 60,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 64665,
+      "forks": 6914,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:29:12Z",
+      "pushed_at": "2026-07-15T01:27:44Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-07-15T01:36:02.404426+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 40,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 59735,
+      "forks": 8991,
+      "language": "Python",
+      "updated_at": "2026-07-15T01:02:08Z",
+      "pushed_at": "2026-04-15T11:59:09Z",
+      "topics": [
+        "agentic",
+        "agentic-agi",
+        "agents",
+        "ai",
+        "autogen",
+        "autogen-ecosystem",
+        "chatgpt",
+        "framework",
+        "llm-agent",
+        "llm-framework"
+      ],
+      "html_url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "collected_at": "2026-07-15T01:36:02.774143+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 22,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "continuedev/continue",
+      "stars": 34876,
+      "forks": 5044,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:17:55Z",
+      "pushed_at": "2026-07-14T17:00:05Z",
+      "topics": [
+        "agent",
+        "ai",
+        "cli",
+        "developer-tools",
+        "open-source"
+      ],
+      "html_url": "https://github.com/continuedev/continue",
+      "description": "open-source coding agent",
+      "collected_at": "2026-07-15T01:36:03.397354+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 18,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "stars": 26023,
+      "forks": 2646,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T01:33:20Z",
+      "pushed_at": "2026-07-15T01:26:17Z",
+      "topics": [],
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "collected_at": "2026-07-15T01:36:03.747290+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 18,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "stars": 105987,
+      "forks": 14256,
+      "language": "TypeScript",
+      "updated_at": "2026-07-15T00:20:27Z",
+      "pushed_at": "2026-07-15T01:28:44Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ],
+      "html_url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "collected_at": "2026-07-15T01:36:00.346380+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": 17,
+      "growth_basis": "direct GET /repos fallback vs 2026-07-14 snapshot; 非完整全网日增"
+    }
+  ]
+}
