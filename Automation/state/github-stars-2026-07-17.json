@@ -1,0 +1,5094 @@
+{
+  "date": "2026-07-17",
+  "collected_at": "2026-07-17T01:01:36.055373+00:00",
+  "cold_start": false,
+  "baseline_available": true,
+  "queries": [
+    "point rummy",
+    "indian rummy",
+    "rummy ai",
+    "rummy reinforcement learning",
+    "gin rummy ai",
+    "loop engineering",
+    "loop engineer",
+    "harness engineering",
+    "coding agent loop",
+    "AGENTS.md harness",
+    "topic:artificial-intelligence stars:>1000",
+    "topic:llm stars:>500",
+    "topic:machine-learning stars:>1000",
+    "topic:reinforcement-learning stars:>100",
+    "topic:agents stars:>100",
+    "topic:inference stars:>100",
+    "topic:cuda stars:>100",
+    "topic:triton stars:>50",
+    "vllm OR sglang OR tensorrt-llm",
+    "grpo OR rlhf OR verl OR openrlhf",
+    "point rummy OR indian rummy OR rummy ai",
+    "rummy reinforcement learning OR rummy bot OR rummy simulation",
+    "loop engineering OR loop engineer OR harness engineering",
+    "coding agent loop OR agent loop design OR AGENTS.md harness"
+  ],
+  "theme_queries": {
+    "point_rummy": [
+      "point rummy",
+      "indian rummy",
+      "rummy ai",
+      "rummy reinforcement learning",
+      "gin rummy ai"
+    ],
+    "loop_engineer": [
+      "loop engineering",
+      "loop engineer",
+      "harness engineering",
+      "coding agent loop",
+      "AGENTS.md harness"
+    ]
+  },
+  "errors": [
+    {
+      "query": "rummy reinforcement learning",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "gin rummy ai",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "gin rummy ai",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineer",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineer",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "harness engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "harness engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "AGENTS.md harness",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "AGENTS.md harness",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:artificial-intelligence stars:>1000",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:artificial-intelligence stars:>1000",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:llm stars:>500",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:llm stars:>500",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:machine-learning stars:>1000",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:machine-learning stars:>1000",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:reinforcement-learning stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:reinforcement-learning stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:agents stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:agents stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:inference stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:inference stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:cuda stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:cuda stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:triton stars:>50",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:triton stars:>50",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "vllm OR sglang OR tensorrt-llm",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "vllm OR sglang OR tensorrt-llm",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "grpo OR rlhf OR verl OR openrlhf",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "grpo OR rlhf OR verl OR openrlhf",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "point rummy OR indian rummy OR rummy ai",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "point rummy OR indian rummy OR rummy ai",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning OR rummy bot OR rummy simulation",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning OR rummy bot OR rummy simulation",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering OR loop engineer OR harness engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering OR loop engineer OR harness engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop OR agent loop design OR AGENTS.md harness",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop OR agent loop design OR AGENTS.md harness",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    }
+  ],
+  "repos": [
+    {
+      "repo": "huggingface/transformers",
+      "stars": 162667,
+      "forks": 33901,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:59:34Z",
+      "pushed_at": "2026-07-17T00:43:58Z",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "html_url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "collected_at": "2026-07-17T01:08:35.515669+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 138000,
+      "forks": 22145,
+      "language": "Python",
+      "updated_at": "2026-07-17T01:06:05Z",
+      "pushed_at": "2026-07-17T00:26:27Z",
+      "topics": [],
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "collected_at": "2026-07-17T01:08:35.835745+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "stars": 106026,
+      "forks": 14268,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:03:20Z",
+      "pushed_at": "2026-07-16T22:42:36Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ],
+      "html_url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "collected_at": "2026-07-17T01:08:36.177079+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "stars": 101716,
+      "forks": 28418,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:47:57Z",
+      "pushed_at": "2026-07-17T01:06:51Z",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+      ],
+      "html_url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "collected_at": "2026-07-17T01:08:36.500852+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "openai/codex",
+      "stars": 98856,
+      "forks": 14772,
+      "language": "Rust",
+      "updated_at": "2026-07-17T01:03:45Z",
+      "pushed_at": "2026-07-16T23:50:35Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-07-17T01:08:36.817805+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "stars": 88554,
+      "forks": 11233,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:01:55Z",
+      "pushed_at": "2026-07-10T03:30:19Z",
+      "topics": [],
+      "html_url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "collected_at": "2026-07-17T01:08:37.150930+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "stars": 86447,
+      "forks": 19502,
+      "language": "Python",
+      "updated_at": "2026-07-17T01:03:26Z",
+      "pushed_at": "2026-07-17T00:00:48Z",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "html_url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "collected_at": "2026-07-17T01:08:37.454632+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 64728,
+      "forks": 6927,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:05:15Z",
+      "pushed_at": "2026-07-17T01:03:13Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-07-17T01:08:37.769287+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "microsoft/DeepSpeed",
+      "stars": 42730,
+      "forks": 4888,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:38:58Z",
+      "pushed_at": "2026-07-17T00:35:18Z",
+      "topics": [
+        "billion-parameters",
+        "compression",
+        "data-parallelism",
+        "deep-learning",
+        "gpu",
+        "inference",
+        "machine-learning",
+        "mixture-of-experts",
+        "model-parallelism",
+        "pipeline-parallelism",
+        "pytorch",
+        "trillion-parameters",
+        "zero"
+      ],
+      "html_url": "https://github.com/deepspeedai/DeepSpeed",
+      "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+      "collected_at": "2026-07-17T01:08:38.367290+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "langchain-ai/langgraph",
+      "stars": 37450,
+      "forks": 6280,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:48:47Z",
+      "pushed_at": "2026-07-16T16:29:30Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "collected_at": "2026-07-17T01:08:38.695313+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "continuedev/continue",
+      "stars": 34919,
+      "forks": 5057,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:03:38Z",
+      "pushed_at": "2026-07-16T01:50:10Z",
+      "topics": [
+        "agent",
+        "ai",
+        "cli",
+        "developer-tools",
+        "open-source"
+      ],
+      "html_url": "https://github.com/continuedev/continue",
+      "description": "open-source coding agent",
+      "collected_at": "2026-07-17T01:08:39.006422+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "stars": 26063,
+      "forks": 2657,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:05:33Z",
+      "pushed_at": "2026-07-17T00:59:20Z",
+      "topics": [],
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "collected_at": "2026-07-17T01:08:39.305422+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "RooCodeInc/Roo-Code",
+      "stars": 24349,
+      "forks": 3368,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T00:12:07Z",
+      "pushed_at": "2026-05-15T18:08:47Z",
+      "topics": [],
+      "html_url": "https://github.com/RooCodeInc/Roo-Code",
+      "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+      "collected_at": "2026-07-17T01:08:39.597926+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "sgl-project/sglang",
+      "stars": 30390,
+      "forks": 7211,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:38:05Z",
+      "pushed_at": "2026-07-17T00:55:25Z",
+      "topics": [
+        "attention",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "diffusion",
+        "glm",
+        "gpt-oss",
+        "inference",
+        "llama",
+        "llm",
+        "minimax",
+        "moe",
+        "qwen",
+        "qwen-image",
+        "reinforcement-learning",
+        "transformer",
+        "vlm",
+        "wan"
+      ],
+      "html_url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "collected_at": "2026-07-17T01:08:39.925996+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "volcengine/verl",
+      "stars": 22505,
+      "forks": 4230,
+      "language": "Python",
+      "updated_at": "2026-07-17T01:02:57Z",
+      "pushed_at": "2026-07-16T14:29:31Z",
+      "topics": [],
+      "html_url": "https://github.com/verl-project/verl",
+      "description": "verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework ",
+      "collected_at": "2026-07-17T01:08:40.520493+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "OpenRLHF/OpenRLHF",
+      "stars": 9807,
+      "forks": 988,
+      "language": "Python",
+      "updated_at": "2026-07-16T17:03:32Z",
+      "pushed_at": "2026-07-14T01:57:21Z",
+      "topics": [
+        "large-language-models",
+        "proximal-policy-optimization",
+        "raylib",
+        "reinforcement-learning",
+        "reinforcement-learning-from-human-feedback",
+        "transformers",
+        "visual-language-models",
+        "vllm"
+      ],
+      "html_url": "https://github.com/OpenRLHF/OpenRLHF",
+      "description": "An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL)",
+      "collected_at": "2026-07-17T01:08:40.825092+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "NVIDIA/TensorRT-LLM",
+      "stars": 14134,
+      "forks": 2572,
+      "language": "Python",
+      "updated_at": "2026-07-16T23:46:45Z",
+      "pushed_at": "2026-07-16T23:38:49Z",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ],
+      "html_url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "collected_at": "2026-07-17T01:08:41.162477+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "NVIDIA/Megatron-LM",
+      "stars": 17090,
+      "forks": 4243,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:59:01Z",
+      "pushed_at": "2026-07-17T00:52:51Z",
+      "topics": [
+        "large-language-models",
+        "model-para",
+        "transformers"
+      ],
+      "html_url": "https://github.com/NVIDIA/Megatron-LM",
+      "description": "Ongoing research training transformer models at scale",
+      "collected_at": "2026-07-17T01:08:41.467997+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "microsoft/semantic-kernel",
+      "stars": 28320,
+      "forks": 4679,
+      "language": "C#",
+      "updated_at": "2026-07-16T16:30:29Z",
+      "pushed_at": "2026-07-16T20:33:31Z",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "llm",
+        "openai",
+        "sdk"
+      ],
+      "html_url": "https://github.com/microsoft/semantic-kernel",
+      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+      "collected_at": "2026-07-17T01:08:41.779036+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "3rdLuigi/la_mano_conquian",
+      "stars": 0,
+      "forks": 0,
+      "language": "Dart",
+      "updated_at": "2025-10-30T00:04:01Z",
+      "pushed_at": "2025-10-30T00:03:57Z",
+      "topics": [],
+      "html_url": "https://github.com/3rdLuigi/la_mano_conquian",
+      "description": "La Mano: Conquian is a modern take on one of the oldest rummy-style card games. Play the classic Mexican game of strategy, memory, and luck. With either offline against AI opponents or online with friends and players around the world.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "aabr2612/Indian-Rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-05-23T11:59:45Z",
+      "pushed_at": "2026-05-23T11:59:01Z",
+      "topics": [],
+      "html_url": "https://github.com/aabr2612/Indian-Rummy",
+      "description": "About A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+      "stars": 2,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updated_at": "2023-04-01T05:48:51Z",
+      "pushed_at": "2020-01-05T05:06:30Z",
+      "topics": [],
+      "html_url": "https://github.com/Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+      "description": "Rummy Game Agent trained using Reinforcement Learning algorithm.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Abhishek230799/Rummy-301-points-counter",
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2025-05-27T09:53:06Z",
+      "pushed_at": "2025-05-27T09:53:03Z",
+      "topics": [],
+      "html_url": "https://github.com/Abhishek230799/Rummy-301-points-counter",
+      "description": "Rummy 301 Points Counter Tired of scribbling down scores every time we played Rummy 301, I decided to build a simple Java Swing app to keep track of points automatically. Just enter player names, add rounds, and watch the app handle the rest — eliminating players who hit 301 and crowning the last one standing. Easy, fun, and saves paper!",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "abkcode/rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Sass",
+      "updated_at": "2021-02-01T04:20:35Z",
+      "pushed_at": "2021-02-01T04:20:33Z",
+      "topics": [],
+      "html_url": "https://github.com/abkcode/rummy",
+      "description": "Indian Rummy Game",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "abubakarmunir712/dsa-final-project",
+      "stars": 2,
+      "forks": 1,
+      "language": "Python",
+      "updated_at": "2026-06-27T06:34:26Z",
+      "pushed_at": "2026-06-27T06:34:22Z",
+      "topics": [],
+      "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+      "description": "A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "adityasomvanshi70-sys/Rummycash",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2025-11-22T10:02:14Z",
+      "pushed_at": "2025-11-22T10:02:11Z",
+      "topics": [],
+      "html_url": "https://github.com/adityasomvanshi70-sys/Rummycash",
+      "description": "It is a prototype of my curiosity how ai can be so amazing ",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "aidanw33/cards-ai-bot",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-05-13T01:09:05Z",
+      "pushed_at": "2026-05-13T01:09:00Z",
+      "topics": [],
+      "html_url": "https://github.com/aidanw33/cards-ai-bot",
+      "description": "AI bot to play a specific version of gin rummy",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "ajaydasm/rummy-point-tracker",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "updated_at": "2025-08-29T11:50:21Z",
+      "pushed_at": "2025-08-29T11:53:32Z",
+      "topics": [],
+      "html_url": "https://github.com/ajaydasm/rummy-point-tracker",
+      "description": "",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "AjeyBharadwaj/Rummy",
+      "stars": 1,
+      "forks": 0,
+      "language": "C++",
+      "updated_at": "2023-03-04T10:28:46Z",
+      "pushed_at": "2022-08-17T07:26:05Z",
+      "topics": [],
+      "html_url": "https://github.com/AjeyBharadwaj/Rummy",
+      "description": "Rummy : Game, AI Player, UI",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Alan-seb/RummyVision",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2025-12-03T03:14:55Z",
+      "pushed_at": "2025-12-03T03:14:51Z",
+      "topics": [],
+      "html_url": "https://github.com/Alan-seb/RummyVision",
+      "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "amajeti/Reinforcement-learning-Rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updated_at": "2020-01-25T20:51:55Z",
+      "pushed_at": "2020-01-25T20:51:52Z",
+      "topics": [],
+      "html_url": "https://github.com/amajeti/Reinforcement-learning-Rummy",
+      "description": "",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Anjan123445/Indian-Rummy-MVP-Game",
+      "stars": 0,
+      "forks": 1,
+      "language": "TypeScript",
+      "updated_at": "2025-09-04T13:24:25Z",
+      "pushed_at": "2025-09-04T13:24:21Z",
+      "topics": [],
+      "html_url": "https://github.com/Anjan123445/Indian-Rummy-MVP-Game",
+      "description": "",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "atreyayelishetti/indian-rummy-game-rust",
+      "stars": 1,
+      "forks": 0,
+      "language": "Rust",
+      "updated_at": "2026-05-12T00:25:17Z",
+      "pushed_at": "2026-05-03T06:24:35Z",
+      "topics": [],
+      "html_url": "https://github.com/atreyayelishetti/indian-rummy-game-rust",
+      "description": "indian-rummy-rust",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "AvaGivone/Gin-Rummy-",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2021-12-01T15:40:50Z",
+      "pushed_at": "2021-12-01T15:40:48Z",
+      "topics": [],
+      "html_url": "https://github.com/AvaGivone/Gin-Rummy-",
+      "description": "Gin Rummy (College Freshman- Fall 2021)  with 2 Player and AI (rendition of hand-built strategy) modes. Carnegie Mellon University CS 15112 Term Project in Python. ",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "bencesibin/rummy-points-calculator",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "updated_at": "2022-02-16T17:37:32Z",
+      "pushed_at": "2022-02-16T19:33:37Z",
+      "topics": [],
+      "html_url": "https://github.com/bencesibin/rummy-points-calculator",
+      "description": "",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "ChavdarKostadinov98/Rummy",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2024-07-24T21:08:54Z",
+      "pushed_at": "2024-07-24T21:05:35Z",
+      "topics": [],
+      "html_url": "https://github.com/ChavdarKostadinov98/Rummy",
+      "description": "Interactive, digital version of the classic card game Rummy. The project aims to create a user-friendly application that replicates the traditional gameplay experience, allowing users to play against AI opponents or other players online.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "chiuta/Remi-fara-frontiere",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-07-08T20:36:13Z",
+      "pushed_at": "2026-07-08T20:36:08Z",
+      "topics": [],
+      "html_url": "https://github.com/chiuta/Remi-fara-frontiere",
+      "description": "Rummy with AI: meld detection, offline, Romanian UI.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "codingmickey/rummy-points-calculator",
+      "stars": 1,
+      "forks": 0,
+      "language": "C++",
+      "updated_at": "2024-07-10T15:40:45Z",
+      "pushed_at": "2021-07-29T17:18:07Z",
+      "topics": [],
+      "html_url": "https://github.com/codingmickey/rummy-points-calculator",
+      "description": "A cpp progarm to calculate Rummy points of all the players for each round.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "cyristal-gems/runesandrummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "updated_at": "2026-05-21T21:33:16Z",
+      "pushed_at": "2026-05-21T21:31:41Z",
+      "topics": [
+        "css",
+        "game-development",
+        "gin-rummy",
+        "html",
+        "javascript"
+      ],
+      "html_url": "https://github.com/cyristal-gems/runesandrummy",
+      "description": "Built with HTML5, CSS3, and JavaScript, Runes & Rummy is a fantasy-themed Gin Rummy game featuring AI gameplay, immersive visuals, and strategic card mechanics.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "debabrata-mandal/RummyPulse",
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2026-07-15T09:29:55Z",
+      "pushed_at": "2026-07-15T09:33:38Z",
+      "topics": [
+        "android"
+      ],
+      "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+      "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "diDi78-9/AI",
+      "stars": 0,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updated_at": "2025-05-03T12:09:53Z",
+      "pushed_at": "2025-05-03T12:09:50Z",
+      "topics": [],
+      "html_url": "https://github.com/diDi78-9/AI",
+      "description": "AI project assigment for playing a 2 person game of Rummy",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "drewmcgee/gin-rummy-rl-lab",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-04-30T00:13:25Z",
+      "pushed_at": "2026-04-30T00:13:20Z",
+      "topics": [],
+      "html_url": "https://github.com/drewmcgee/gin-rummy-rl-lab",
+      "description": "Gin Rummy reinforcement learning lab with a Java game server, Python agents, and C++ rollout infrastructure.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Ductapemaster/RummyAI",
+      "stars": 2,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2017-07-11T12:12:49Z",
+      "pushed_at": "2013-10-05T15:36:21Z",
+      "topics": [],
+      "html_url": "https://github.com/Ductapemaster/RummyAI",
+      "description": "Designing an AI to play Gin Rummy",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "dv-rastogi/Rummy",
+      "stars": 5,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2023-09-26T11:21:39Z",
+      "pushed_at": "2021-09-06T11:28:51Z",
+      "topics": [],
+      "html_url": "https://github.com/dv-rastogi/Rummy",
+      "description": "Variation of classical Indian Rummy made in Pygame",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "eanisutkin/IndianRummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "C++",
+      "updated_at": "2021-07-05T07:53:35Z",
+      "pushed_at": "2021-07-05T07:53:32Z",
+      "topics": [],
+      "html_url": "https://github.com/eanisutkin/IndianRummy",
+      "description": "",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "glenlubbert/kings-go-wild",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-06-12T19:34:01Z",
+      "pushed_at": "2026-06-12T19:33:57Z",
+      "topics": [],
+      "html_url": "https://github.com/glenlubbert/kings-go-wild",
+      "description": "Kings Go Wild — free five-suited rummy card game vs AI opponents",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Hari-sys786/rummy-scoreboard",
+      "stars": 0,
+      "forks": 0,
+      "language": "Dart",
+      "updated_at": "2026-06-29T13:14:32Z",
+      "pushed_at": "2026-06-29T13:13:54Z",
+      "topics": [],
+      "html_url": "https://github.com/Hari-sys786/rummy-scoreboard",
+      "description": "Premium Flutter Android scoreboard for Indian Rummy — local storage, dealer rotation, drops tracking, round editing",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "hasanjawad001/ML_ReinforcementLearning_Game_Rummy",
+      "stars": 1,
+      "forks": 1,
+      "language": "Jupyter Notebook",
+      "updated_at": "2024-08-23T03:57:19Z",
+      "pushed_at": "2024-08-23T03:56:07Z",
+      "topics": [],
+      "html_url": "https://github.com/hasanjawad001/ML_ReinforcementLearning_Game_Rummy",
+      "description": "",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "hdetroja/Reinforcement-Learning-Rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updated_at": "2020-11-05T21:40:34Z",
+      "pushed_at": "2020-11-05T21:40:32Z",
+      "topics": [],
+      "html_url": "https://github.com/hdetroja/Reinforcement-Learning-Rummy",
+      "description": "",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "heli3939/Gin-Rummy-Card-Game",
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2025-11-20T08:58:43Z",
+      "pushed_at": "2025-11-20T08:51:07Z",
+      "topics": [
+        "card-game",
+        "design-patterns",
+        "game-development",
+        "gamegrid",
+        "gradle",
+        "java",
+        "jgamegrid",
+        "oop"
+      ],
+      "html_url": "https://github.com/heli3939/Gin-Rummy-Card-Game",
+      "description": "A Java implementation of Classic and Gin Rummy featuring full meld/scoring logic and a rule-driven smart AI player. Built on JGameGrid with a clean OOP architecture, GoF design patterns, and configurable game modes. Includes AI card-evaluation logic, turn management, and Gradle-based automated testing for all gameplay scenarios.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "ichthys777/Gin-Rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-04-03T17:23:46Z",
+      "pushed_at": "2026-04-03T17:23:40Z",
+      "topics": [],
+      "html_url": "https://github.com/ichthys777/Gin-Rummy",
+      "description": "Gin Rummy vs AI",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "ilana16/rummy-tiles-game",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2025-09-29T08:03:20Z",
+      "pushed_at": "2025-09-29T08:03:16Z",
+      "topics": [],
+      "html_url": "https://github.com/ilana16/rummy-tiles-game",
+      "description": "A modern, web-based implementation of the classic Rummy tile game with real-time multiplayer functionality, AI opponents, and a beautiful tabletop-inspired interface.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "JiheHe/CPSC474-final-project",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2024-01-30T15:59:25Z",
+      "pushed_at": "2023-12-20T20:20:06Z",
+      "topics": [],
+      "html_url": "https://github.com/JiheHe/CPSC474-final-project",
+      "description": "Rummy Card Game from scratch + Heuristic & MCTS AI agents",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "jmhummel/Gin-Rummy-Java",
+      "stars": 8,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2023-08-16T16:12:58Z",
+      "pushed_at": "2017-04-23T03:09:31Z",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "card-game",
+        "card-games",
+        "cardgame",
+        "gin",
+        "gin-rummy",
+        "java",
+        "java-8",
+        "java8",
+        "rummy"
+      ],
+      "html_url": "https://github.com/jmhummel/Gin-Rummy-Java",
+      "description": "Java-based Gin Rummy console game, with an AI opponent",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "karthikeyankkn/rummy-points",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2020-07-05T19:19:11Z",
+      "pushed_at": "2020-07-05T19:19:09Z",
+      "topics": [],
+      "html_url": "https://github.com/karthikeyankkn/rummy-points",
+      "description": "Now easy to maintain rummy points... :D",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "kas1336/Kasi-Rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-06-01T10:38:08Z",
+      "pushed_at": "2026-06-01T10:38:04Z",
+      "topics": [],
+      "html_url": "https://github.com/kas1336/Kasi-Rummy",
+      "description": "Indian rummy",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "keerthanpg/gin-rummy-rl",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "2021-04-10T05:27:33Z",
+      "pushed_at": "2021-04-10T05:27:34Z",
+      "topics": [],
+      "html_url": "https://github.com/keerthanpg/gin-rummy-rl",
+      "description": "This is an app for playing gin rummy against a trained reinforcement learning agent.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "khyatimahajan/reinforcement-agent-playing-rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updated_at": "2020-07-26T04:09:15Z",
+      "pushed_at": "2020-07-26T04:09:13Z",
+      "topics": [],
+      "html_url": "https://github.com/khyatimahajan/reinforcement-agent-playing-rummy",
+      "description": "A reinforcement learning agent that plays a modified version of the card game Rummy.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "kikiongame/3-Plus-Games",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "2024-04-02T14:36:56Z",
+      "pushed_at": "2024-01-08T09:52:54Z",
+      "topics": [],
+      "html_url": "https://github.com/kikiongame/3-Plus-Games",
+      "description": "3 plus games is the best online gaming platform in india which offers you unlimited fun with real money, here you can play rummy (point, pool, deal), poker, carrom, ludo, snakes and ladders, 8 ball pool, call break and many more games play and win real money rewards",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Kurukshetran/WordRummy",
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2023-07-19T09:33:14Z",
+      "pushed_at": "2014-01-21T12:40:45Z",
+      "topics": [],
+      "html_url": "https://github.com/Kurukshetran/WordRummy",
+      "description": "A creative android based multiplayer game which combines game play of Indian rummy and Word game for learning android sdk.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "lukebhan/RummyGym",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2021-12-08T06:58:01Z",
+      "pushed_at": "2021-12-08T20:27:18Z",
+      "topics": [],
+      "html_url": "https://github.com/lukebhan/RummyGym",
+      "description": "An open ai gym for playing rummy",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "manimsr18/rummy-",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "2020-08-17T16:26:28Z",
+      "pushed_at": "2020-08-17T16:26:25Z",
+      "topics": [],
+      "html_url": "https://github.com/manimsr18/rummy-",
+      "description": "Indian Rummy",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "market-lab-cmd/indian-card-games-hub",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-04-24T14:14:54Z",
+      "pushed_at": "2026-04-24T14:14:51Z",
+      "topics": [],
+      "html_url": "https://github.com/market-lab-cmd/indian-card-games-hub",
+      "description": "Educational resources and gameplay guides for popular Indian card games such as Teen Patti, Rummy, and Andar Bahar.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "mcartmell/gin-rummy-bot",
+      "stars": 4,
+      "forks": 2,
+      "language": "Perl",
+      "updated_at": "2024-10-30T20:06:17Z",
+      "pushed_at": "2021-09-03T16:14:19Z",
+      "topics": [],
+      "html_url": "https://github.com/mcartmell/gin-rummy-bot",
+      "description": "A web-based Gin Rummy game and AI",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Mohitkumar-559/RummyServer",
+      "stars": 2,
+      "forks": 1,
+      "language": "JavaScript",
+      "updated_at": "2024-03-17T03:48:34Z",
+      "pushed_at": "2023-03-03T06:49:23Z",
+      "topics": [],
+      "html_url": "https://github.com/Mohitkumar-559/RummyServer",
+      "description": "Rummy game server for game that contain deal rummy and point rummy",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "mootoh/rummyjs",
+      "stars": 1,
+      "forks": 0,
+      "language": "JavaScript",
+      "updated_at": "2022-12-08T15:15:05Z",
+      "pushed_at": "2012-12-27T09:25:24Z",
+      "topics": [],
+      "html_url": "https://github.com/mootoh/rummyjs",
+      "description": "Indian Rummy in Javascript",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "mrgollapudi/rummy-scoreboard",
+      "stars": 1,
+      "forks": 0,
+      "language": "JavaScript",
+      "updated_at": "2025-07-08T12:46:51Z",
+      "pushed_at": "2025-07-08T12:46:48Z",
+      "topics": [],
+      "html_url": "https://github.com/mrgollapudi/rummy-scoreboard",
+      "description": "Scoreboard for Indian Rummy Card Game",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "mudont/indian-rummy",
+      "stars": 5,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2025-08-08T21:05:04Z",
+      "pushed_at": "2025-08-08T21:05:00Z",
+      "topics": [],
+      "html_url": "https://github.com/mudont/indian-rummy",
+      "description": "Typescript library for Indian Rummy card game",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "musukur/rummy-points",
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2023-09-13T12:29:40Z",
+      "pushed_at": "2023-02-26T06:26:14Z",
+      "topics": [],
+      "html_url": "https://github.com/musukur/rummy-points",
+      "description": "",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "nakkekakke/rummy-ai",
+      "stars": 11,
+      "forks": 5,
+      "language": "Java",
+      "updated_at": "2026-04-17T10:02:59Z",
+      "pushed_at": "2019-09-07T14:49:42Z",
+      "topics": [
+        "ai",
+        "card",
+        "card-game",
+        "game",
+        "ismcts",
+        "mcts",
+        "monte-carlo-tree-search",
+        "rummy"
+      ],
+      "html_url": "https://github.com/nakkekakke/rummy-ai",
+      "description": "Text based classic Rummy game with an AI that uses ISMCTS. Data Structures and Algorithms course project, University of Helsinki",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "navinkumarng/Final-PyGame-Coursework",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-07-07T19:04:20Z",
+      "pushed_at": "2026-07-07T19:03:56Z",
+      "topics": [],
+      "html_url": "https://github.com/navinkumarng/Final-PyGame-Coursework",
+      "description": "A Rummy-style card game built from scratch in Python & Pygame, with a custom rule engine, two CPU AI strategies, and CI-tested game logic.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Navomi1/RummyPointCounter",
+      "stars": 0,
+      "forks": 0,
+      "language": "Swift",
+      "updated_at": "2026-01-13T23:49:39Z",
+      "pushed_at": "2026-01-13T23:49:35Z",
+      "topics": [],
+      "html_url": "https://github.com/Navomi1/RummyPointCounter",
+      "description": "Count points while playing Rummy",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Nethaji003/rummy2",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-06-18T07:31:53Z",
+      "pushed_at": "2026-06-18T07:31:49Z",
+      "topics": [],
+      "html_url": "https://github.com/Nethaji003/rummy2",
+      "description": "point",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "okcvs/rummy-ai-php",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "2021-07-13T02:50:05Z",
+      "pushed_at": "2021-07-13T02:50:05Z",
+      "topics": [],
+      "html_url": "https://github.com/okcvs/rummy-ai-php",
+      "description": "rummy ai php",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "pawanjanakiram/rss",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-07-13T06:49:34Z",
+      "pushed_at": "2026-07-13T06:47:34Z",
+      "topics": [],
+      "html_url": "https://github.com/pawanjanakiram/rss",
+      "description": "Indian Rummy Scoring and Settlement",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "ppravin88/Shanko",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2025-11-17T10:18:51Z",
+      "pushed_at": "2025-11-17T10:18:47Z",
+      "topics": [],
+      "html_url": "https://github.com/ppravin88/Shanko",
+      "description": "Shanko is a strategic family card game that combines classic Rummy mechanics with innovative buying and Joker-swapping features. Play through 7 progressively challenging rounds, form triplets and sequences, and compete against friends or AI opponents. Perfect for families and card game enthusiasts who love strategic depth!",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "rafana73/rummy_points",
+      "stars": 0,
+      "forks": 0,
+      "language": "PHP",
+      "updated_at": "2022-01-12T16:29:15Z",
+      "pushed_at": "2022-01-12T16:50:27Z",
+      "topics": [],
+      "html_url": "https://github.com/rafana73/rummy_points",
+      "description": "",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Rajgowthaman/rummy-or-cards-points-calculator",
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2024-05-14T10:19:48Z",
+      "pushed_at": "2024-05-14T10:19:45Z",
+      "topics": [],
+      "html_url": "https://github.com/Rajgowthaman/rummy-or-cards-points-calculator",
+      "description": "",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "RamSundarRadhakrishnan/IndianRummyRLCard",
+      "stars": 0,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updated_at": "2025-09-26T13:19:13Z",
+      "pushed_at": "2025-09-26T13:18:11Z",
+      "topics": [],
+      "html_url": "https://github.com/RamSundarRadhakrishnan/IndianRummyRLCard",
+      "description": "A custom environment and trained DQN agent for playing Indian Rummy using RLCard.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "rawbeen248/Gin-Rummy-AI-vs-Human",
+      "stars": 2,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2024-11-16T17:18:48Z",
+      "pushed_at": "2023-07-13T09:44:11Z",
+      "topics": [],
+      "html_url": "https://github.com/rawbeen248/Gin-Rummy-AI-vs-Human",
+      "description": "Gin-Rummy-AI-vs-Human is a python-based project the simulates the classic card game Gin Rummy. This game allows user to play against an AI opponent that takes into consideration intricate rules and strategies of the game. The AI opponent employs different tactics based on the gameplay to make the game more challenging and engaging. ",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "realharry/ai-jin-rummy-2",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2025-09-21T17:28:26Z",
+      "pushed_at": "2025-09-21T17:28:23Z",
+      "topics": [],
+      "html_url": "https://github.com/realharry/ai-jin-rummy-2",
+      "description": "Play Jin Rummy with AI",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "rickgorman/gin-rummy-ai",
+      "stars": 13,
+      "forks": 5,
+      "language": "Python",
+      "updated_at": "2025-03-25T13:47:09Z",
+      "pushed_at": "2017-12-24T22:22:19Z",
+      "topics": [],
+      "html_url": "https://github.com/rickgorman/gin-rummy-ai",
+      "description": "A hand-rolled neuroevolution AI for gin rummy.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "ridz1208/Rummy",
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2018-04-09T14:46:00Z",
+      "pushed_at": "2015-11-18T02:07:02Z",
+      "topics": [],
+      "html_url": "https://github.com/ridz1208/Rummy",
+      "description": "First attempt to a Rummy card game with save/load feature and variable difficulty AI robots",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "rishg2/Rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2021-02-17T10:17:33Z",
+      "pushed_at": "2021-02-12T11:03:28Z",
+      "topics": [],
+      "html_url": "https://github.com/rishg2/Rummy",
+      "description": "Indian Rummy, Implemented in Pygame",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "RNSsanjay/RummySphere",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "2026-06-01T08:22:15Z",
+      "pushed_at": "2026-06-01T08:22:11Z",
+      "topics": [],
+      "html_url": "https://github.com/RNSsanjay/RummySphere",
+      "description": "RummySphere is an AI-powered multiplayer Rummy platform where players can create rooms, invite friends via QR codes, compete in real-time matches, and challenge intelligent AI opponents.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "rrajasekpro/Indian_Rummy",
+      "stars": 1,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2025-10-24T20:51:01Z",
+      "pushed_at": "2025-10-24T20:50:57Z",
+      "topics": [],
+      "html_url": "https://github.com/rrajasekpro/Indian_Rummy",
+      "description": "",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "rsus4/The-Indian-Rummy",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2021-02-04T17:43:41Z",
+      "pushed_at": "2020-11-29T12:08:39Z",
+      "topics": [],
+      "html_url": "https://github.com/rsus4/The-Indian-Rummy",
+      "description": "",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "s-gup/IndianRummyGame",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2020-10-04T08:10:22Z",
+      "pushed_at": "2019-12-12T05:00:50Z",
+      "topics": [],
+      "html_url": "https://github.com/s-gup/IndianRummyGame",
+      "description": "using pygame ",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "sajith231/INDIAN_RUMMY",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2025-11-22T07:42:13Z",
+      "pushed_at": "2025-11-22T07:42:10Z",
+      "topics": [],
+      "html_url": "https://github.com/sajith231/INDIAN_RUMMY",
+      "description": "",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "samikshamodi/PointsRummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2021-06-01T21:14:14Z",
+      "pushed_at": "2021-05-31T21:09:13Z",
+      "topics": [],
+      "html_url": "https://github.com/samikshamodi/PointsRummy",
+      "description": "A GUI version of Points Rummy using pygame where you play against an intelligent computer opponent",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "SCFlanagan/Rummy",
+      "stars": 4,
+      "forks": 6,
+      "language": "JavaScript",
+      "updated_at": "2025-07-25T21:17:08Z",
+      "pushed_at": "2017-06-14T20:36:51Z",
+      "topics": [],
+      "html_url": "https://github.com/SCFlanagan/Rummy",
+      "description": "This project is a recreation of the classic card game Rummy. It features an AI player to play against, a hand of cards that can be dragged and sorted, and a scoreboard that keeps track of multiple rounds.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "selenakajal/Rummy-Nation",
+      "stars": 1,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "2020-07-26T04:01:09Z",
+      "pushed_at": "2020-07-07T13:24:12Z",
+      "topics": [],
+      "html_url": "https://github.com/selenakajal/Rummy-Nation",
+      "description": "Rummy, especially Indian rummy, is enjoyed by everyone in India above the age of eighteen. And now with technology reaching new heights, you can play rummy, win cash and sharpen your rummy-playing skills online. You can test your skills against players from around the country and beat them to win money!  Playing in Rummy nation is as simple as downloading the app. If you are new to the card game? Don’t worry! It has got you covered with practice games and free coins to feel more confident to earn money from it. It has also provided with rules to get started with.  Play Rummy and experience fun and excitement with the Rummy Nation App! Or you can simply visit www.rummynation.com on your mobile. Download the Rummy Nation Rummy mobile app on your Android Smartphones/Tablets and enjoy the game anywhere you like.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "sgummadala/RummyTracker",
+      "stars": 0,
+      "forks": 0,
+      "language": "Swift",
+      "updated_at": "2026-06-04T03:16:54Z",
+      "pushed_at": "2026-06-04T03:16:51Z",
+      "topics": [],
+      "html_url": "https://github.com/sgummadala/RummyTracker",
+      "description": "Indian Rummy score tracker — SwiftUI iOS app",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Shadowdog2002/Rummy-Online",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2026-03-28T04:25:00Z",
+      "pushed_at": "2026-03-28T04:24:56Z",
+      "topics": [],
+      "html_url": "https://github.com/Shadowdog2002/Rummy-Online",
+      "description": "Online Indian Rummy Game",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "shivayya-ln-21303/indian-rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2026-06-30T05:22:44Z",
+      "pushed_at": "2026-06-30T05:22:40Z",
+      "topics": [],
+      "html_url": "https://github.com/shivayya-ln-21303/indian-rummy",
+      "description": "Multiplayer Indian Rummy — Spring Boot 3 + React + WebSocket",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "siddhidegaonkar/Reinforcement-Learning",
+      "stars": 0,
+      "forks": 0,
+      "language": "Jupyter Notebook",
+      "updated_at": "2019-12-25T19:14:20Z",
+      "pushed_at": "2019-12-25T19:14:18Z",
+      "topics": [],
+      "html_url": "https://github.com/siddhidegaonkar/Reinforcement-Learning",
+      "description": "Rummy Agent : Reinforcement Learning",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "smunuganti/AiRummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2025-12-31T15:25:39Z",
+      "pushed_at": "2025-12-31T15:25:35Z",
+      "topics": [],
+      "html_url": "https://github.com/smunuganti/AiRummy",
+      "description": "Ai Rummy futuristic rummy game",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Soumyadeep-Kar2006/RummyPointCalculator",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-06-05T19:06:53Z",
+      "pushed_at": "2026-06-05T19:06:49Z",
+      "topics": [],
+      "html_url": "https://github.com/Soumyadeep-Kar2006/RummyPointCalculator",
+      "description": "",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "sowmyar1914/RUMMY013",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "2026-03-24T18:26:58Z",
+      "pushed_at": "2026-03-24T18:26:54Z",
+      "topics": [],
+      "html_url": "https://github.com/sowmyar1914/RUMMY013",
+      "description": "Indian Rummy game ",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "SRathinaGiri/IndianRummy",
+      "stars": 1,
+      "forks": 1,
+      "language": "JavaScript",
+      "updated_at": "2026-06-17T11:46:14Z",
+      "pushed_at": "2026-06-17T11:46:10Z",
+      "topics": [],
+      "html_url": "https://github.com/SRathinaGiri/IndianRummy",
+      "description": "Browser-based Indian Rummy game with AI play and offline Progressive Web App support.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Sruthiksha-source/Indian-Rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Visual Basic .NET",
+      "updated_at": "2026-04-03T15:25:51Z",
+      "pushed_at": "2026-04-03T15:25:46Z",
+      "topics": [],
+      "html_url": "https://github.com/Sruthiksha-source/Indian-Rummy",
+      "description": "Online card game ",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "tushar2407/rummy",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2020-06-03T12:45:26Z",
+      "pushed_at": "2019-12-16T10:22:16Z",
+      "topics": [],
+      "html_url": "https://github.com/tushar2407/rummy",
+      "description": "A python coded Indian Rummy with interactive UI. ",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "vahsek300501/Indian-Rummy-",
+      "stars": 4,
+      "forks": 3,
+      "language": "Python",
+      "updated_at": "2023-09-26T11:21:46Z",
+      "pushed_at": "2019-12-15T20:03:51Z",
+      "topics": [],
+      "html_url": "https://github.com/vahsek300501/Indian-Rummy-",
+      "description": "Indian Rummy made in Python using PyGame",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "vdesmond/IRumAI",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-05-23T17:04:28Z",
+      "pushed_at": "2026-05-23T17:03:20Z",
+      "topics": [
+        "indian-rummy",
+        "reinforcement-learning",
+        "rummy",
+        "rummy-card-game"
+      ],
+      "html_url": "https://github.com/vdesmond/IRumAI",
+      "description": "Reinforcement learning agent for Indian Rummy.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "VishalNarayan/lirummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2026-05-24T20:32:31Z",
+      "pushed_at": "2026-05-24T20:32:28Z",
+      "topics": [],
+      "html_url": "https://github.com/VishalNarayan/lirummy",
+      "description": "13-Card Indian Rummy multiplayer web game",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "VyanketeshNagpure/RummyApplication",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "2026-02-07T14:09:25Z",
+      "pushed_at": "2026-02-07T14:09:21Z",
+      "topics": [],
+      "html_url": "https://github.com/VyanketeshNagpure/RummyApplication",
+      "description": "2 to 4 player indian rummy with some twists",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "zacbaum/four-crowns",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "updated_at": "2026-07-15T18:32:55Z",
+      "pushed_at": "2026-07-15T18:32:42Z",
+      "topics": [],
+      "html_url": "https://github.com/zacbaum/four-crowns",
+      "description": "Four Crowns — a two-player Five Crowns rummy variant. Installable PWA: play vs AI, online on two phones, or as a scorekeeper, with full analytics.",
+      "collected_at": "2026-07-17T01:01:36.055373+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    }
+  ],
+  "high_star_top10": [
+    {
+      "repo": "huggingface/transformers",
+      "stars": 162667,
+      "forks": 33901,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:59:34Z",
+      "pushed_at": "2026-07-17T00:43:58Z",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "html_url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "collected_at": "2026-07-17T01:08:35.515669+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 138000,
+      "forks": 22145,
+      "language": "Python",
+      "updated_at": "2026-07-17T01:06:05Z",
+      "pushed_at": "2026-07-17T00:26:27Z",
+      "topics": [],
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "collected_at": "2026-07-17T01:08:35.835745+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "stars": 106026,
+      "forks": 14268,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:03:20Z",
+      "pushed_at": "2026-07-16T22:42:36Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ],
+      "html_url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "collected_at": "2026-07-17T01:08:36.177079+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "stars": 101716,
+      "forks": 28418,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:47:57Z",
+      "pushed_at": "2026-07-17T01:06:51Z",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+      ],
+      "html_url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "collected_at": "2026-07-17T01:08:36.500852+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "openai/codex",
+      "stars": 98856,
+      "forks": 14772,
+      "language": "Rust",
+      "updated_at": "2026-07-17T01:03:45Z",
+      "pushed_at": "2026-07-16T23:50:35Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-07-17T01:08:36.817805+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "stars": 88554,
+      "forks": 11233,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:01:55Z",
+      "pushed_at": "2026-07-10T03:30:19Z",
+      "topics": [],
+      "html_url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "collected_at": "2026-07-17T01:08:37.150930+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "stars": 86447,
+      "forks": 19502,
+      "language": "Python",
+      "updated_at": "2026-07-17T01:03:26Z",
+      "pushed_at": "2026-07-17T00:00:48Z",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "html_url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "collected_at": "2026-07-17T01:08:37.454632+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 64728,
+      "forks": 6927,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:05:15Z",
+      "pushed_at": "2026-07-17T01:03:13Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-07-17T01:08:37.769287+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "microsoft/DeepSpeed",
+      "stars": 42730,
+      "forks": 4888,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:38:58Z",
+      "pushed_at": "2026-07-17T00:35:18Z",
+      "topics": [
+        "billion-parameters",
+        "compression",
+        "data-parallelism",
+        "deep-learning",
+        "gpu",
+        "inference",
+        "machine-learning",
+        "mixture-of-experts",
+        "model-parallelism",
+        "pipeline-parallelism",
+        "pytorch",
+        "trillion-parameters",
+        "zero"
+      ],
+      "html_url": "https://github.com/deepspeedai/DeepSpeed",
+      "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+      "collected_at": "2026-07-17T01:08:38.367290+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "langchain-ai/langgraph",
+      "stars": 37450,
+      "forks": 6280,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:48:47Z",
+      "pushed_at": "2026-07-16T16:29:30Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "collected_at": "2026-07-17T01:08:38.695313+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    }
+  ],
+  "growth_top10": [
+    {
+      "repo": "huggingface/transformers",
+      "stars": 162667,
+      "forks": 33901,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:59:34Z",
+      "pushed_at": "2026-07-17T00:43:58Z",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "html_url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "collected_at": "2026-07-17T01:08:35.515669+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 138000,
+      "forks": 22145,
+      "language": "Python",
+      "updated_at": "2026-07-17T01:06:05Z",
+      "pushed_at": "2026-07-17T00:26:27Z",
+      "topics": [],
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "collected_at": "2026-07-17T01:08:35.835745+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "stars": 106026,
+      "forks": 14268,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:03:20Z",
+      "pushed_at": "2026-07-16T22:42:36Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ],
+      "html_url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "collected_at": "2026-07-17T01:08:36.177079+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "stars": 101716,
+      "forks": 28418,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:47:57Z",
+      "pushed_at": "2026-07-17T01:06:51Z",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+      ],
+      "html_url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "collected_at": "2026-07-17T01:08:36.500852+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "openai/codex",
+      "stars": 98856,
+      "forks": 14772,
+      "language": "Rust",
+      "updated_at": "2026-07-17T01:03:45Z",
+      "pushed_at": "2026-07-16T23:50:35Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-07-17T01:08:36.817805+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "stars": 88554,
+      "forks": 11233,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:01:55Z",
+      "pushed_at": "2026-07-10T03:30:19Z",
+      "topics": [],
+      "html_url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "collected_at": "2026-07-17T01:08:37.150930+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "stars": 86447,
+      "forks": 19502,
+      "language": "Python",
+      "updated_at": "2026-07-17T01:03:26Z",
+      "pushed_at": "2026-07-17T00:00:48Z",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "html_url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "collected_at": "2026-07-17T01:08:37.454632+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 64728,
+      "forks": 6927,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:05:15Z",
+      "pushed_at": "2026-07-17T01:03:13Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-07-17T01:08:37.769287+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "microsoft/DeepSpeed",
+      "stars": 42730,
+      "forks": 4888,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:38:58Z",
+      "pushed_at": "2026-07-17T00:35:18Z",
+      "topics": [
+        "billion-parameters",
+        "compression",
+        "data-parallelism",
+        "deep-learning",
+        "gpu",
+        "inference",
+        "machine-learning",
+        "mixture-of-experts",
+        "model-parallelism",
+        "pipeline-parallelism",
+        "pytorch",
+        "trillion-parameters",
+        "zero"
+      ],
+      "html_url": "https://github.com/deepspeedai/DeepSpeed",
+      "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+      "collected_at": "2026-07-17T01:08:38.367290+00:00",
+      "themes": [],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "langchain-ai/langgraph",
+      "stars": 37450,
+      "forks": 6280,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:48:47Z",
+      "pushed_at": "2026-07-16T16:29:30Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "collected_at": "2026-07-17T01:08:38.695313+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    }
+  ],
+  "theme_sections": {
+    "point_rummy": {
+      "repos": [
+        {
+          "repo": "Mohitkumar-559/RummyServer",
+          "stars": 2,
+          "forks": 1,
+          "language": "JavaScript",
+          "updated_at": "2024-03-17T03:48:34Z",
+          "pushed_at": "2023-03-03T06:49:23Z",
+          "topics": [],
+          "html_url": "https://github.com/Mohitkumar-559/RummyServer",
+          "description": "Rummy game server for game that contain deal rummy and point rummy",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "codingmickey/rummy-points-calculator",
+          "stars": 1,
+          "forks": 0,
+          "language": "C++",
+          "updated_at": "2024-07-10T15:40:45Z",
+          "pushed_at": "2021-07-29T17:18:07Z",
+          "topics": [],
+          "html_url": "https://github.com/codingmickey/rummy-points-calculator",
+          "description": "A cpp progarm to calculate Rummy points of all the players for each round.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "debabrata-mandal/RummyPulse",
+          "stars": 1,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2026-07-15T09:29:55Z",
+          "pushed_at": "2026-07-15T09:33:38Z",
+          "topics": [
+            "android"
+          ],
+          "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+          "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Alan-seb/RummyVision",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2025-12-03T03:14:55Z",
+          "pushed_at": "2025-12-03T03:14:51Z",
+          "topics": [],
+          "html_url": "https://github.com/Alan-seb/RummyVision",
+          "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Nethaji003/rummy2",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-06-18T07:31:53Z",
+          "pushed_at": "2026-06-18T07:31:49Z",
+          "topics": [],
+          "html_url": "https://github.com/Nethaji003/rummy2",
+          "description": "point",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "samikshamodi/PointsRummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2021-06-01T21:14:14Z",
+          "pushed_at": "2021-05-31T21:09:13Z",
+          "topics": [],
+          "html_url": "https://github.com/samikshamodi/PointsRummy",
+          "description": "A GUI version of Points Rummy using pygame where you play against an intelligent computer opponent",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Navomi1/RummyPointCounter",
+          "stars": 0,
+          "forks": 0,
+          "language": "Swift",
+          "updated_at": "2026-01-13T23:49:39Z",
+          "pushed_at": "2026-01-13T23:49:35Z",
+          "topics": [],
+          "html_url": "https://github.com/Navomi1/RummyPointCounter",
+          "description": "Count points while playing Rummy",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Soumyadeep-Kar2006/RummyPointCalculator",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-06-05T19:06:53Z",
+          "pushed_at": "2026-06-05T19:06:49Z",
+          "topics": [],
+          "html_url": "https://github.com/Soumyadeep-Kar2006/RummyPointCalculator",
+          "description": "",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "karthikeyankkn/rummy-points",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2020-07-05T19:19:11Z",
+          "pushed_at": "2020-07-05T19:19:09Z",
+          "topics": [],
+          "html_url": "https://github.com/karthikeyankkn/rummy-points",
+          "description": "Now easy to maintain rummy points... :D",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "rafana73/rummy_points",
+          "stars": 0,
+          "forks": 0,
+          "language": "PHP",
+          "updated_at": "2022-01-12T16:29:15Z",
+          "pushed_at": "2022-01-12T16:50:27Z",
+          "topics": [],
+          "html_url": "https://github.com/rafana73/rummy_points",
+          "description": "",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "musukur/rummy-points",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2023-09-13T12:29:40Z",
+          "pushed_at": "2023-02-26T06:26:14Z",
+          "topics": [],
+          "html_url": "https://github.com/musukur/rummy-points",
+          "description": "",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "bencesibin/rummy-points-calculator",
+          "stars": 0,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2022-02-16T17:37:32Z",
+          "pushed_at": "2022-02-16T19:33:37Z",
+          "topics": [],
+          "html_url": "https://github.com/bencesibin/rummy-points-calculator",
+          "description": "",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "ajaydasm/rummy-point-tracker",
+          "stars": 0,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2025-08-29T11:50:21Z",
+          "pushed_at": "2025-08-29T11:53:32Z",
+          "topics": [],
+          "html_url": "https://github.com/ajaydasm/rummy-point-tracker",
+          "description": "",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Abhishek230799/Rummy-301-points-counter",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2025-05-27T09:53:06Z",
+          "pushed_at": "2025-05-27T09:53:03Z",
+          "topics": [],
+          "html_url": "https://github.com/Abhishek230799/Rummy-301-points-counter",
+          "description": "Rummy 301 Points Counter Tired of scribbling down scores every time we played Rummy 301, I decided to build a simple Java Swing app to keep track of points automatically. Just enter player names, add rounds, and watch the app handle the rest — eliminating players who hit 301 and crowning the last one standing. Easy, fun, and saves paper!",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Rajgowthaman/rummy-or-cards-points-calculator",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2024-05-14T10:19:48Z",
+          "pushed_at": "2024-05-14T10:19:45Z",
+          "topics": [],
+          "html_url": "https://github.com/Rajgowthaman/rummy-or-cards-points-calculator",
+          "description": "",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "kikiongame/3-Plus-Games",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "2024-04-02T14:36:56Z",
+          "pushed_at": "2024-01-08T09:52:54Z",
+          "topics": [],
+          "html_url": "https://github.com/kikiongame/3-Plus-Games",
+          "description": "3 plus games is the best online gaming platform in india which offers you unlimited fun with real money, here you can play rummy (point, pool, deal), poker, carrom, ludo, snakes and ladders, 8 ball pool, call break and many more games play and win real money rewards",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "mudont/indian-rummy",
+          "stars": 5,
+          "forks": 0,
+          "language": "TypeScript",
+          "updated_at": "2025-08-08T21:05:04Z",
+          "pushed_at": "2025-08-08T21:05:00Z",
+          "topics": [],
+          "html_url": "https://github.com/mudont/indian-rummy",
+          "description": "Typescript library for Indian Rummy card game",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "dv-rastogi/Rummy",
+          "stars": 5,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2023-09-26T11:21:39Z",
+          "pushed_at": "2021-09-06T11:28:51Z",
+          "topics": [],
+          "html_url": "https://github.com/dv-rastogi/Rummy",
+          "description": "Variation of classical Indian Rummy made in Pygame",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "vahsek300501/Indian-Rummy-",
+          "stars": 4,
+          "forks": 3,
+          "language": "Python",
+          "updated_at": "2023-09-26T11:21:46Z",
+          "pushed_at": "2019-12-15T20:03:51Z",
+          "topics": [],
+          "html_url": "https://github.com/vahsek300501/Indian-Rummy-",
+          "description": "Indian Rummy made in Python using PyGame",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "abubakarmunir712/dsa-final-project",
+          "stars": 2,
+          "forks": 1,
+          "language": "Python",
+          "updated_at": "2026-06-27T06:34:26Z",
+          "pushed_at": "2026-06-27T06:34:22Z",
+          "topics": [],
+          "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+          "description": "A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "atreyayelishetti/indian-rummy-game-rust",
+          "stars": 1,
+          "forks": 0,
+          "language": "Rust",
+          "updated_at": "2026-05-12T00:25:17Z",
+          "pushed_at": "2026-05-03T06:24:35Z",
+          "topics": [],
+          "html_url": "https://github.com/atreyayelishetti/indian-rummy-game-rust",
+          "description": "indian-rummy-rust",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "SRathinaGiri/IndianRummy",
+          "stars": 1,
+          "forks": 1,
+          "language": "JavaScript",
+          "updated_at": "2026-06-17T11:46:14Z",
+          "pushed_at": "2026-06-17T11:46:10Z",
+          "topics": [],
+          "html_url": "https://github.com/SRathinaGiri/IndianRummy",
+          "description": "Browser-based Indian Rummy game with AI play and offline Progressive Web App support.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "mootoh/rummyjs",
+          "stars": 1,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2022-12-08T15:15:05Z",
+          "pushed_at": "2012-12-27T09:25:24Z",
+          "topics": [],
+          "html_url": "https://github.com/mootoh/rummyjs",
+          "description": "Indian Rummy in Javascript",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "rrajasekpro/Indian_Rummy",
+          "stars": 1,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2025-10-24T20:51:01Z",
+          "pushed_at": "2025-10-24T20:50:57Z",
+          "topics": [],
+          "html_url": "https://github.com/rrajasekpro/Indian_Rummy",
+          "description": "",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "tushar2407/rummy",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2020-06-03T12:45:26Z",
+          "pushed_at": "2019-12-16T10:22:16Z",
+          "topics": [],
+          "html_url": "https://github.com/tushar2407/rummy",
+          "description": "A python coded Indian Rummy with interactive UI. ",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "rsus4/The-Indian-Rummy",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2021-02-04T17:43:41Z",
+          "pushed_at": "2020-11-29T12:08:39Z",
+          "topics": [],
+          "html_url": "https://github.com/rsus4/The-Indian-Rummy",
+          "description": "",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "mrgollapudi/rummy-scoreboard",
+          "stars": 1,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2025-07-08T12:46:51Z",
+          "pushed_at": "2025-07-08T12:46:48Z",
+          "topics": [],
+          "html_url": "https://github.com/mrgollapudi/rummy-scoreboard",
+          "description": "Scoreboard for Indian Rummy Card Game",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Kurukshetran/WordRummy",
+          "stars": 1,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2023-07-19T09:33:14Z",
+          "pushed_at": "2014-01-21T12:40:45Z",
+          "topics": [],
+          "html_url": "https://github.com/Kurukshetran/WordRummy",
+          "description": "A creative android based multiplayer game which combines game play of Indian rummy and Word game for learning android sdk.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "selenakajal/Rummy-Nation",
+          "stars": 1,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "2020-07-26T04:01:09Z",
+          "pushed_at": "2020-07-07T13:24:12Z",
+          "topics": [],
+          "html_url": "https://github.com/selenakajal/Rummy-Nation",
+          "description": "Rummy, especially Indian rummy, is enjoyed by everyone in India above the age of eighteen. And now with technology reaching new heights, you can play rummy, win cash and sharpen your rummy-playing skills online. You can test your skills against players from around the country and beat them to win money!  Playing in Rummy nation is as simple as downloading the app. If you are new to the card game? Don’t worry! It has got you covered with practice games and free coins to feel more confident to earn money from it. It has also provided with rules to get started with.  Play Rummy and experience fun and excitement with the Rummy Nation App! Or you can simply visit www.rummynation.com on your mobile. Download the Rummy Nation Rummy mobile app on your Android Smartphones/Tablets and enjoy the game anywhere you like.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "kas1336/Kasi-Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-06-01T10:38:08Z",
+          "pushed_at": "2026-06-01T10:38:04Z",
+          "topics": [],
+          "html_url": "https://github.com/kas1336/Kasi-Rummy",
+          "description": "Indian rummy",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "manimsr18/rummy-",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "2020-08-17T16:26:28Z",
+          "pushed_at": "2020-08-17T16:26:25Z",
+          "topics": [],
+          "html_url": "https://github.com/manimsr18/rummy-",
+          "description": "Indian Rummy",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "sowmyar1914/RUMMY013",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "2026-03-24T18:26:58Z",
+          "pushed_at": "2026-03-24T18:26:54Z",
+          "topics": [],
+          "html_url": "https://github.com/sowmyar1914/RUMMY013",
+          "description": "Indian Rummy game ",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "abkcode/rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Sass",
+          "updated_at": "2021-02-01T04:20:35Z",
+          "pushed_at": "2021-02-01T04:20:33Z",
+          "topics": [],
+          "html_url": "https://github.com/abkcode/rummy",
+          "description": "Indian Rummy Game",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "eanisutkin/IndianRummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "C++",
+          "updated_at": "2021-07-05T07:53:35Z",
+          "pushed_at": "2021-07-05T07:53:32Z",
+          "topics": [],
+          "html_url": "https://github.com/eanisutkin/IndianRummy",
+          "description": "",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "s-gup/IndianRummyGame",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2020-10-04T08:10:22Z",
+          "pushed_at": "2019-12-12T05:00:50Z",
+          "topics": [],
+          "html_url": "https://github.com/s-gup/IndianRummyGame",
+          "description": "using pygame ",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "rishg2/Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2021-02-17T10:17:33Z",
+          "pushed_at": "2021-02-12T11:03:28Z",
+          "topics": [],
+          "html_url": "https://github.com/rishg2/Rummy",
+          "description": "Indian Rummy, Implemented in Pygame",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "pawanjanakiram/rss",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-07-13T06:49:34Z",
+          "pushed_at": "2026-07-13T06:47:34Z",
+          "topics": [],
+          "html_url": "https://github.com/pawanjanakiram/rss",
+          "description": "Indian Rummy Scoring and Settlement",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "shivayya-ln-21303/indian-rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2026-06-30T05:22:44Z",
+          "pushed_at": "2026-06-30T05:22:40Z",
+          "topics": [],
+          "html_url": "https://github.com/shivayya-ln-21303/indian-rummy",
+          "description": "Multiplayer Indian Rummy — Spring Boot 3 + React + WebSocket",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Hari-sys786/rummy-scoreboard",
+          "stars": 0,
+          "forks": 0,
+          "language": "Dart",
+          "updated_at": "2026-06-29T13:14:32Z",
+          "pushed_at": "2026-06-29T13:13:54Z",
+          "topics": [],
+          "html_url": "https://github.com/Hari-sys786/rummy-scoreboard",
+          "description": "Premium Flutter Android scoreboard for Indian Rummy — local storage, dealer rotation, drops tracking, round editing",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "sgummadala/RummyTracker",
+          "stars": 0,
+          "forks": 0,
+          "language": "Swift",
+          "updated_at": "2026-06-04T03:16:54Z",
+          "pushed_at": "2026-06-04T03:16:51Z",
+          "topics": [],
+          "html_url": "https://github.com/sgummadala/RummyTracker",
+          "description": "Indian Rummy score tracker — SwiftUI iOS app",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "VishalNarayan/lirummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "TypeScript",
+          "updated_at": "2026-05-24T20:32:31Z",
+          "pushed_at": "2026-05-24T20:32:28Z",
+          "topics": [],
+          "html_url": "https://github.com/VishalNarayan/lirummy",
+          "description": "13-Card Indian Rummy multiplayer web game",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "vdesmond/IRumAI",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2026-05-23T17:04:28Z",
+          "pushed_at": "2026-05-23T17:03:20Z",
+          "topics": [
+            "indian-rummy",
+            "reinforcement-learning",
+            "rummy",
+            "rummy-card-game"
+          ],
+          "html_url": "https://github.com/vdesmond/IRumAI",
+          "description": "Reinforcement learning agent for Indian Rummy.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "aabr2612/Indian-Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2026-05-23T11:59:45Z",
+          "pushed_at": "2026-05-23T11:59:01Z",
+          "topics": [],
+          "html_url": "https://github.com/aabr2612/Indian-Rummy",
+          "description": "About A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "market-lab-cmd/indian-card-games-hub",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-04-24T14:14:54Z",
+          "pushed_at": "2026-04-24T14:14:51Z",
+          "topics": [],
+          "html_url": "https://github.com/market-lab-cmd/indian-card-games-hub",
+          "description": "Educational resources and gameplay guides for popular Indian card games such as Teen Patti, Rummy, and Andar Bahar.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Sruthiksha-source/Indian-Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Visual Basic .NET",
+          "updated_at": "2026-04-03T15:25:51Z",
+          "pushed_at": "2026-04-03T15:25:46Z",
+          "topics": [],
+          "html_url": "https://github.com/Sruthiksha-source/Indian-Rummy",
+          "description": "Online card game ",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Shadowdog2002/Rummy-Online",
+          "stars": 0,
+          "forks": 0,
+          "language": "TypeScript",
+          "updated_at": "2026-03-28T04:25:00Z",
+          "pushed_at": "2026-03-28T04:24:56Z",
+          "topics": [],
+          "html_url": "https://github.com/Shadowdog2002/Rummy-Online",
+          "description": "Online Indian Rummy Game",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "VyanketeshNagpure/RummyApplication",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "2026-02-07T14:09:25Z",
+          "pushed_at": "2026-02-07T14:09:21Z",
+          "topics": [],
+          "html_url": "https://github.com/VyanketeshNagpure/RummyApplication",
+          "description": "2 to 4 player indian rummy with some twists",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "sajith231/INDIAN_RUMMY",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2025-11-22T07:42:13Z",
+          "pushed_at": "2025-11-22T07:42:10Z",
+          "topics": [],
+          "html_url": "https://github.com/sajith231/INDIAN_RUMMY",
+          "description": "",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "RamSundarRadhakrishnan/IndianRummyRLCard",
+          "stars": 0,
+          "forks": 0,
+          "language": "Jupyter Notebook",
+          "updated_at": "2025-09-26T13:19:13Z",
+          "pushed_at": "2025-09-26T13:18:11Z",
+          "topics": [],
+          "html_url": "https://github.com/RamSundarRadhakrishnan/IndianRummyRLCard",
+          "description": "A custom environment and trained DQN agent for playing Indian Rummy using RLCard.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Anjan123445/Indian-Rummy-MVP-Game",
+          "stars": 0,
+          "forks": 1,
+          "language": "TypeScript",
+          "updated_at": "2025-09-04T13:24:25Z",
+          "pushed_at": "2025-09-04T13:24:21Z",
+          "topics": [],
+          "html_url": "https://github.com/Anjan123445/Indian-Rummy-MVP-Game",
+          "description": "",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "rickgorman/gin-rummy-ai",
+          "stars": 13,
+          "forks": 5,
+          "language": "Python",
+          "updated_at": "2025-03-25T13:47:09Z",
+          "pushed_at": "2017-12-24T22:22:19Z",
+          "topics": [],
+          "html_url": "https://github.com/rickgorman/gin-rummy-ai",
+          "description": "A hand-rolled neuroevolution AI for gin rummy.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "nakkekakke/rummy-ai",
+          "stars": 11,
+          "forks": 5,
+          "language": "Java",
+          "updated_at": "2026-04-17T10:02:59Z",
+          "pushed_at": "2019-09-07T14:49:42Z",
+          "topics": [
+            "ai",
+            "card",
+            "card-game",
+            "game",
+            "ismcts",
+            "mcts",
+            "monte-carlo-tree-search",
+            "rummy"
+          ],
+          "html_url": "https://github.com/nakkekakke/rummy-ai",
+          "description": "Text based classic Rummy game with an AI that uses ISMCTS. Data Structures and Algorithms course project, University of Helsinki",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "jmhummel/Gin-Rummy-Java",
+          "stars": 8,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2023-08-16T16:12:58Z",
+          "pushed_at": "2017-04-23T03:09:31Z",
+          "topics": [
+            "ai",
+            "artificial-intelligence",
+            "card-game",
+            "card-games",
+            "cardgame",
+            "gin",
+            "gin-rummy",
+            "java",
+            "java-8",
+            "java8",
+            "rummy"
+          ],
+          "html_url": "https://github.com/jmhummel/Gin-Rummy-Java",
+          "description": "Java-based Gin Rummy console game, with an AI opponent",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "SCFlanagan/Rummy",
+          "stars": 4,
+          "forks": 6,
+          "language": "JavaScript",
+          "updated_at": "2025-07-25T21:17:08Z",
+          "pushed_at": "2017-06-14T20:36:51Z",
+          "topics": [],
+          "html_url": "https://github.com/SCFlanagan/Rummy",
+          "description": "This project is a recreation of the classic card game Rummy. It features an AI player to play against, a hand of cards that can be dragged and sorted, and a scoreboard that keeps track of multiple rounds.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "mcartmell/gin-rummy-bot",
+          "stars": 4,
+          "forks": 2,
+          "language": "Perl",
+          "updated_at": "2024-10-30T20:06:17Z",
+          "pushed_at": "2021-09-03T16:14:19Z",
+          "topics": [],
+          "html_url": "https://github.com/mcartmell/gin-rummy-bot",
+          "description": "A web-based Gin Rummy game and AI",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Ductapemaster/RummyAI",
+          "stars": 2,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2017-07-11T12:12:49Z",
+          "pushed_at": "2013-10-05T15:36:21Z",
+          "topics": [],
+          "html_url": "https://github.com/Ductapemaster/RummyAI",
+          "description": "Designing an AI to play Gin Rummy",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "rawbeen248/Gin-Rummy-AI-vs-Human",
+          "stars": 2,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2024-11-16T17:18:48Z",
+          "pushed_at": "2023-07-13T09:44:11Z",
+          "topics": [],
+          "html_url": "https://github.com/rawbeen248/Gin-Rummy-AI-vs-Human",
+          "description": "Gin-Rummy-AI-vs-Human is a python-based project the simulates the classic card game Gin Rummy. This game allows user to play against an AI opponent that takes into consideration intricate rules and strategies of the game. The AI opponent employs different tactics based on the gameplay to make the game more challenging and engaging. ",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "AjeyBharadwaj/Rummy",
+          "stars": 1,
+          "forks": 0,
+          "language": "C++",
+          "updated_at": "2023-03-04T10:28:46Z",
+          "pushed_at": "2022-08-17T07:26:05Z",
+          "topics": [],
+          "html_url": "https://github.com/AjeyBharadwaj/Rummy",
+          "description": "Rummy : Game, AI Player, UI",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "lukebhan/RummyGym",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2021-12-08T06:58:01Z",
+          "pushed_at": "2021-12-08T20:27:18Z",
+          "topics": [],
+          "html_url": "https://github.com/lukebhan/RummyGym",
+          "description": "An open ai gym for playing rummy",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "ridz1208/Rummy",
+          "stars": 1,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2018-04-09T14:46:00Z",
+          "pushed_at": "2015-11-18T02:07:02Z",
+          "topics": [],
+          "html_url": "https://github.com/ridz1208/Rummy",
+          "description": "First attempt to a Rummy card game with save/load feature and variable difficulty AI robots",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "ChavdarKostadinov98/Rummy",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2024-07-24T21:08:54Z",
+          "pushed_at": "2024-07-24T21:05:35Z",
+          "topics": [],
+          "html_url": "https://github.com/ChavdarKostadinov98/Rummy",
+          "description": "Interactive, digital version of the classic card game Rummy. The project aims to create a user-friendly application that replicates the traditional gameplay experience, allowing users to play against AI opponents or other players online.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "JiheHe/CPSC474-final-project",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2024-01-30T15:59:25Z",
+          "pushed_at": "2023-12-20T20:20:06Z",
+          "topics": [],
+          "html_url": "https://github.com/JiheHe/CPSC474-final-project",
+          "description": "Rummy Card Game from scratch + Heuristic & MCTS AI agents",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "AvaGivone/Gin-Rummy-",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2021-12-01T15:40:50Z",
+          "pushed_at": "2021-12-01T15:40:48Z",
+          "topics": [],
+          "html_url": "https://github.com/AvaGivone/Gin-Rummy-",
+          "description": "Gin Rummy (College Freshman- Fall 2021)  with 2 Player and AI (rendition of hand-built strategy) modes. Carnegie Mellon University CS 15112 Term Project in Python. ",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "smunuganti/AiRummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2025-12-31T15:25:39Z",
+          "pushed_at": "2025-12-31T15:25:35Z",
+          "topics": [],
+          "html_url": "https://github.com/smunuganti/AiRummy",
+          "description": "Ai Rummy futuristic rummy game",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "diDi78-9/AI",
+          "stars": 0,
+          "forks": 0,
+          "language": "Jupyter Notebook",
+          "updated_at": "2025-05-03T12:09:53Z",
+          "pushed_at": "2025-05-03T12:09:50Z",
+          "topics": [],
+          "html_url": "https://github.com/diDi78-9/AI",
+          "description": "AI project assigment for playing a 2 person game of Rummy",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "okcvs/rummy-ai-php",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "2021-07-13T02:50:05Z",
+          "pushed_at": "2021-07-13T02:50:05Z",
+          "topics": [],
+          "html_url": "https://github.com/okcvs/rummy-ai-php",
+          "description": "rummy ai php",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "zacbaum/four-crowns",
+          "stars": 0,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2026-07-15T18:32:55Z",
+          "pushed_at": "2026-07-15T18:32:42Z",
+          "topics": [],
+          "html_url": "https://github.com/zacbaum/four-crowns",
+          "description": "Four Crowns — a two-player Five Crowns rummy variant. Installable PWA: play vs AI, online on two phones, or as a scorekeeper, with full analytics.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "chiuta/Remi-fara-frontiere",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-07-08T20:36:13Z",
+          "pushed_at": "2026-07-08T20:36:08Z",
+          "topics": [],
+          "html_url": "https://github.com/chiuta/Remi-fara-frontiere",
+          "description": "Rummy with AI: meld detection, offline, Romanian UI.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "navinkumarng/Final-PyGame-Coursework",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2026-07-07T19:04:20Z",
+          "pushed_at": "2026-07-07T19:03:56Z",
+          "topics": [],
+          "html_url": "https://github.com/navinkumarng/Final-PyGame-Coursework",
+          "description": "A Rummy-style card game built from scratch in Python & Pygame, with a custom rule engine, two CPU AI strategies, and CI-tested game logic.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "glenlubbert/kings-go-wild",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-06-12T19:34:01Z",
+          "pushed_at": "2026-06-12T19:33:57Z",
+          "topics": [],
+          "html_url": "https://github.com/glenlubbert/kings-go-wild",
+          "description": "Kings Go Wild — free five-suited rummy card game vs AI opponents",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "RNSsanjay/RummySphere",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "2026-06-01T08:22:15Z",
+          "pushed_at": "2026-06-01T08:22:11Z",
+          "topics": [],
+          "html_url": "https://github.com/RNSsanjay/RummySphere",
+          "description": "RummySphere is an AI-powered multiplayer Rummy platform where players can create rooms, invite friends via QR codes, compete in real-time matches, and challenge intelligent AI opponents.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "cyristal-gems/runesandrummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2026-05-21T21:33:16Z",
+          "pushed_at": "2026-05-21T21:31:41Z",
+          "topics": [
+            "css",
+            "game-development",
+            "gin-rummy",
+            "html",
+            "javascript"
+          ],
+          "html_url": "https://github.com/cyristal-gems/runesandrummy",
+          "description": "Built with HTML5, CSS3, and JavaScript, Runes & Rummy is a fantasy-themed Gin Rummy game featuring AI gameplay, immersive visuals, and strategic card mechanics.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "aidanw33/cards-ai-bot",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2026-05-13T01:09:05Z",
+          "pushed_at": "2026-05-13T01:09:00Z",
+          "topics": [],
+          "html_url": "https://github.com/aidanw33/cards-ai-bot",
+          "description": "AI bot to play a specific version of gin rummy",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "ichthys777/Gin-Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-04-03T17:23:46Z",
+          "pushed_at": "2026-04-03T17:23:40Z",
+          "topics": [],
+          "html_url": "https://github.com/ichthys777/Gin-Rummy",
+          "description": "Gin Rummy vs AI",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "adityasomvanshi70-sys/Rummycash",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2025-11-22T10:02:14Z",
+          "pushed_at": "2025-11-22T10:02:11Z",
+          "topics": [],
+          "html_url": "https://github.com/adityasomvanshi70-sys/Rummycash",
+          "description": "It is a prototype of my curiosity how ai can be so amazing ",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "heli3939/Gin-Rummy-Card-Game",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2025-11-20T08:58:43Z",
+          "pushed_at": "2025-11-20T08:51:07Z",
+          "topics": [
+            "card-game",
+            "design-patterns",
+            "game-development",
+            "gamegrid",
+            "gradle",
+            "java",
+            "jgamegrid",
+            "oop"
+          ],
+          "html_url": "https://github.com/heli3939/Gin-Rummy-Card-Game",
+          "description": "A Java implementation of Classic and Gin Rummy featuring full meld/scoring logic and a rule-driven smart AI player. Built on JGameGrid with a clean OOP architecture, GoF design patterns, and configurable game modes. Includes AI card-evaluation logic, turn management, and Gradle-based automated testing for all gameplay scenarios.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "ppravin88/Shanko",
+          "stars": 0,
+          "forks": 0,
+          "language": "TypeScript",
+          "updated_at": "2025-11-17T10:18:51Z",
+          "pushed_at": "2025-11-17T10:18:47Z",
+          "topics": [],
+          "html_url": "https://github.com/ppravin88/Shanko",
+          "description": "Shanko is a strategic family card game that combines classic Rummy mechanics with innovative buying and Joker-swapping features. Play through 7 progressively challenging rounds, form triplets and sequences, and compete against friends or AI opponents. Perfect for families and card game enthusiasts who love strategic depth!",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "3rdLuigi/la_mano_conquian",
+          "stars": 0,
+          "forks": 0,
+          "language": "Dart",
+          "updated_at": "2025-10-30T00:04:01Z",
+          "pushed_at": "2025-10-30T00:03:57Z",
+          "topics": [],
+          "html_url": "https://github.com/3rdLuigi/la_mano_conquian",
+          "description": "La Mano: Conquian is a modern take on one of the oldest rummy-style card games. Play the classic Mexican game of strategy, memory, and luck. With either offline against AI opponents or online with friends and players around the world.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "ilana16/rummy-tiles-game",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2025-09-29T08:03:20Z",
+          "pushed_at": "2025-09-29T08:03:16Z",
+          "topics": [],
+          "html_url": "https://github.com/ilana16/rummy-tiles-game",
+          "description": "A modern, web-based implementation of the classic Rummy tile game with real-time multiplayer functionality, AI opponents, and a beautiful tabletop-inspired interface.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "realharry/ai-jin-rummy-2",
+          "stars": 0,
+          "forks": 0,
+          "language": "TypeScript",
+          "updated_at": "2025-09-21T17:28:26Z",
+          "pushed_at": "2025-09-21T17:28:23Z",
+          "topics": [],
+          "html_url": "https://github.com/realharry/ai-jin-rummy-2",
+          "description": "Play Jin Rummy with AI",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+          "stars": 2,
+          "forks": 0,
+          "language": "Jupyter Notebook",
+          "updated_at": "2023-04-01T05:48:51Z",
+          "pushed_at": "2020-01-05T05:06:30Z",
+          "topics": [],
+          "html_url": "https://github.com/Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+          "description": "Rummy Game Agent trained using Reinforcement Learning algorithm.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "hasanjawad001/ML_ReinforcementLearning_Game_Rummy",
+          "stars": 1,
+          "forks": 1,
+          "language": "Jupyter Notebook",
+          "updated_at": "2024-08-23T03:57:19Z",
+          "pushed_at": "2024-08-23T03:56:07Z",
+          "topics": [],
+          "html_url": "https://github.com/hasanjawad001/ML_ReinforcementLearning_Game_Rummy",
+          "description": "",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "siddhidegaonkar/Reinforcement-Learning",
+          "stars": 0,
+          "forks": 0,
+          "language": "Jupyter Notebook",
+          "updated_at": "2019-12-25T19:14:20Z",
+          "pushed_at": "2019-12-25T19:14:18Z",
+          "topics": [],
+          "html_url": "https://github.com/siddhidegaonkar/Reinforcement-Learning",
+          "description": "Rummy Agent : Reinforcement Learning",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "amajeti/Reinforcement-learning-Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Jupyter Notebook",
+          "updated_at": "2020-01-25T20:51:55Z",
+          "pushed_at": "2020-01-25T20:51:52Z",
+          "topics": [],
+          "html_url": "https://github.com/amajeti/Reinforcement-learning-Rummy",
+          "description": "",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "hdetroja/Reinforcement-Learning-Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Jupyter Notebook",
+          "updated_at": "2020-11-05T21:40:34Z",
+          "pushed_at": "2020-11-05T21:40:32Z",
+          "topics": [],
+          "html_url": "https://github.com/hdetroja/Reinforcement-Learning-Rummy",
+          "description": "",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "khyatimahajan/reinforcement-agent-playing-rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Jupyter Notebook",
+          "updated_at": "2020-07-26T04:09:15Z",
+          "pushed_at": "2020-07-26T04:09:13Z",
+          "topics": [],
+          "html_url": "https://github.com/khyatimahajan/reinforcement-agent-playing-rummy",
+          "description": "A reinforcement learning agent that plays a modified version of the card game Rummy.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "keerthanpg/gin-rummy-rl",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "2021-04-10T05:27:33Z",
+          "pushed_at": "2021-04-10T05:27:34Z",
+          "topics": [],
+          "html_url": "https://github.com/keerthanpg/gin-rummy-rl",
+          "description": "This is an app for playing gin rummy against a trained reinforcement learning agent.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "drewmcgee/gin-rummy-rl-lab",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2026-04-30T00:13:25Z",
+          "pushed_at": "2026-04-30T00:13:20Z",
+          "topics": [],
+          "html_url": "https://github.com/drewmcgee/gin-rummy-rl-lab",
+          "description": "Gin Rummy reinforcement learning lab with a Java game server, Python agents, and C++ rollout infrastructure.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        }
+      ],
+      "high_star_top10": [
+        {
+          "repo": "rickgorman/gin-rummy-ai",
+          "stars": 13,
+          "forks": 5,
+          "language": "Python",
+          "updated_at": "2025-03-25T13:47:09Z",
+          "pushed_at": "2017-12-24T22:22:19Z",
+          "topics": [],
+          "html_url": "https://github.com/rickgorman/gin-rummy-ai",
+          "description": "A hand-rolled neuroevolution AI for gin rummy.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "nakkekakke/rummy-ai",
+          "stars": 11,
+          "forks": 5,
+          "language": "Java",
+          "updated_at": "2026-04-17T10:02:59Z",
+          "pushed_at": "2019-09-07T14:49:42Z",
+          "topics": [
+            "ai",
+            "card",
+            "card-game",
+            "game",
+            "ismcts",
+            "mcts",
+            "monte-carlo-tree-search",
+            "rummy"
+          ],
+          "html_url": "https://github.com/nakkekakke/rummy-ai",
+          "description": "Text based classic Rummy game with an AI that uses ISMCTS. Data Structures and Algorithms course project, University of Helsinki",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "jmhummel/Gin-Rummy-Java",
+          "stars": 8,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2023-08-16T16:12:58Z",
+          "pushed_at": "2017-04-23T03:09:31Z",
+          "topics": [
+            "ai",
+            "artificial-intelligence",
+            "card-game",
+            "card-games",
+            "cardgame",
+            "gin",
+            "gin-rummy",
+            "java",
+            "java-8",
+            "java8",
+            "rummy"
+          ],
+          "html_url": "https://github.com/jmhummel/Gin-Rummy-Java",
+          "description": "Java-based Gin Rummy console game, with an AI opponent",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "mudont/indian-rummy",
+          "stars": 5,
+          "forks": 0,
+          "language": "TypeScript",
+          "updated_at": "2025-08-08T21:05:04Z",
+          "pushed_at": "2025-08-08T21:05:00Z",
+          "topics": [],
+          "html_url": "https://github.com/mudont/indian-rummy",
+          "description": "Typescript library for Indian Rummy card game",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "dv-rastogi/Rummy",
+          "stars": 5,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2023-09-26T11:21:39Z",
+          "pushed_at": "2021-09-06T11:28:51Z",
+          "topics": [],
+          "html_url": "https://github.com/dv-rastogi/Rummy",
+          "description": "Variation of classical Indian Rummy made in Pygame",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "vahsek300501/Indian-Rummy-",
+          "stars": 4,
+          "forks": 3,
+          "language": "Python",
+          "updated_at": "2023-09-26T11:21:46Z",
+          "pushed_at": "2019-12-15T20:03:51Z",
+          "topics": [],
+          "html_url": "https://github.com/vahsek300501/Indian-Rummy-",
+          "description": "Indian Rummy made in Python using PyGame",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "SCFlanagan/Rummy",
+          "stars": 4,
+          "forks": 6,
+          "language": "JavaScript",
+          "updated_at": "2025-07-25T21:17:08Z",
+          "pushed_at": "2017-06-14T20:36:51Z",
+          "topics": [],
+          "html_url": "https://github.com/SCFlanagan/Rummy",
+          "description": "This project is a recreation of the classic card game Rummy. It features an AI player to play against, a hand of cards that can be dragged and sorted, and a scoreboard that keeps track of multiple rounds.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "mcartmell/gin-rummy-bot",
+          "stars": 4,
+          "forks": 2,
+          "language": "Perl",
+          "updated_at": "2024-10-30T20:06:17Z",
+          "pushed_at": "2021-09-03T16:14:19Z",
+          "topics": [],
+          "html_url": "https://github.com/mcartmell/gin-rummy-bot",
+          "description": "A web-based Gin Rummy game and AI",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Mohitkumar-559/RummyServer",
+          "stars": 2,
+          "forks": 1,
+          "language": "JavaScript",
+          "updated_at": "2024-03-17T03:48:34Z",
+          "pushed_at": "2023-03-03T06:49:23Z",
+          "topics": [],
+          "html_url": "https://github.com/Mohitkumar-559/RummyServer",
+          "description": "Rummy game server for game that contain deal rummy and point rummy",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "abubakarmunir712/dsa-final-project",
+          "stars": 2,
+          "forks": 1,
+          "language": "Python",
+          "updated_at": "2026-06-27T06:34:26Z",
+          "pushed_at": "2026-06-27T06:34:22Z",
+          "topics": [],
+          "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+          "description": "A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        }
+      ],
+      "growth_top10": [
+        {
+          "repo": "zacbaum/four-crowns",
+          "stars": 0,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2026-07-15T18:32:55Z",
+          "pushed_at": "2026-07-15T18:32:42Z",
+          "topics": [],
+          "html_url": "https://github.com/zacbaum/four-crowns",
+          "description": "Four Crowns — a two-player Five Crowns rummy variant. Installable PWA: play vs AI, online on two phones, or as a scorekeeper, with full analytics.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "debabrata-mandal/RummyPulse",
+          "stars": 1,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2026-07-15T09:29:55Z",
+          "pushed_at": "2026-07-15T09:33:38Z",
+          "topics": [
+            "android"
+          ],
+          "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+          "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "pawanjanakiram/rss",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-07-13T06:49:34Z",
+          "pushed_at": "2026-07-13T06:47:34Z",
+          "topics": [],
+          "html_url": "https://github.com/pawanjanakiram/rss",
+          "description": "Indian Rummy Scoring and Settlement",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "chiuta/Remi-fara-frontiere",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-07-08T20:36:13Z",
+          "pushed_at": "2026-07-08T20:36:08Z",
+          "topics": [],
+          "html_url": "https://github.com/chiuta/Remi-fara-frontiere",
+          "description": "Rummy with AI: meld detection, offline, Romanian UI.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "navinkumarng/Final-PyGame-Coursework",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2026-07-07T19:04:20Z",
+          "pushed_at": "2026-07-07T19:03:56Z",
+          "topics": [],
+          "html_url": "https://github.com/navinkumarng/Final-PyGame-Coursework",
+          "description": "A Rummy-style card game built from scratch in Python & Pygame, with a custom rule engine, two CPU AI strategies, and CI-tested game logic.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "shivayya-ln-21303/indian-rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2026-06-30T05:22:44Z",
+          "pushed_at": "2026-06-30T05:22:40Z",
+          "topics": [],
+          "html_url": "https://github.com/shivayya-ln-21303/indian-rummy",
+          "description": "Multiplayer Indian Rummy — Spring Boot 3 + React + WebSocket",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Hari-sys786/rummy-scoreboard",
+          "stars": 0,
+          "forks": 0,
+          "language": "Dart",
+          "updated_at": "2026-06-29T13:14:32Z",
+          "pushed_at": "2026-06-29T13:13:54Z",
+          "topics": [],
+          "html_url": "https://github.com/Hari-sys786/rummy-scoreboard",
+          "description": "Premium Flutter Android scoreboard for Indian Rummy — local storage, dealer rotation, drops tracking, round editing",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "abubakarmunir712/dsa-final-project",
+          "stars": 2,
+          "forks": 1,
+          "language": "Python",
+          "updated_at": "2026-06-27T06:34:26Z",
+          "pushed_at": "2026-06-27T06:34:22Z",
+          "topics": [],
+          "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+          "description": "A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Nethaji003/rummy2",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-06-18T07:31:53Z",
+          "pushed_at": "2026-06-18T07:31:49Z",
+          "topics": [],
+          "html_url": "https://github.com/Nethaji003/rummy2",
+          "description": "point",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "SRathinaGiri/IndianRummy",
+          "stars": 1,
+          "forks": 1,
+          "language": "JavaScript",
+          "updated_at": "2026-06-17T11:46:14Z",
+          "pushed_at": "2026-06-17T11:46:10Z",
+          "topics": [],
+          "html_url": "https://github.com/SRathinaGiri/IndianRummy",
+          "description": "Browser-based Indian Rummy game with AI play and offline Progressive Web App support.",
+          "collected_at": "2026-07-17T01:01:36.055373+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        }
+      ]
+    },
+    "loop_engineer": {
+      "repos": [],
+      "high_star_top10": [],
+      "growth_top10": []
+    }
+  },
+  "loop_engineer_high_star_top10": [
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 138000,
+      "forks": 22145,
+      "language": "Python",
+      "updated_at": "2026-07-17T01:06:05Z",
+      "pushed_at": "2026-07-17T00:26:27Z",
+      "topics": [],
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "collected_at": "2026-07-17T01:08:35.835745+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "stars": 106026,
+      "forks": 14268,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:03:20Z",
+      "pushed_at": "2026-07-16T22:42:36Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ],
+      "html_url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "collected_at": "2026-07-17T01:08:36.177079+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "openai/codex",
+      "stars": 98856,
+      "forks": 14772,
+      "language": "Rust",
+      "updated_at": "2026-07-17T01:03:45Z",
+      "pushed_at": "2026-07-16T23:50:35Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-07-17T01:08:36.817805+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "stars": 88554,
+      "forks": 11233,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:01:55Z",
+      "pushed_at": "2026-07-10T03:30:19Z",
+      "topics": [],
+      "html_url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "collected_at": "2026-07-17T01:08:37.150930+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 64728,
+      "forks": 6927,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:05:15Z",
+      "pushed_at": "2026-07-17T01:03:13Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-07-17T01:08:37.769287+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "langchain-ai/langgraph",
+      "stars": 37450,
+      "forks": 6280,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:48:47Z",
+      "pushed_at": "2026-07-16T16:29:30Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "collected_at": "2026-07-17T01:08:38.695313+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "continuedev/continue",
+      "stars": 34919,
+      "forks": 5057,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:03:38Z",
+      "pushed_at": "2026-07-16T01:50:10Z",
+      "topics": [
+        "agent",
+        "ai",
+        "cli",
+        "developer-tools",
+        "open-source"
+      ],
+      "html_url": "https://github.com/continuedev/continue",
+      "description": "open-source coding agent",
+      "collected_at": "2026-07-17T01:08:39.006422+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "microsoft/semantic-kernel",
+      "stars": 28320,
+      "forks": 4679,
+      "language": "C#",
+      "updated_at": "2026-07-16T16:30:29Z",
+      "pushed_at": "2026-07-16T20:33:31Z",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "llm",
+        "openai",
+        "sdk"
+      ],
+      "html_url": "https://github.com/microsoft/semantic-kernel",
+      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+      "collected_at": "2026-07-17T01:08:41.779036+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "stars": 26063,
+      "forks": 2657,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:05:33Z",
+      "pushed_at": "2026-07-17T00:59:20Z",
+      "topics": [],
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "collected_at": "2026-07-17T01:08:39.305422+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "RooCodeInc/Roo-Code",
+      "stars": 24349,
+      "forks": 3368,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T00:12:07Z",
+      "pushed_at": "2026-05-15T18:08:47Z",
+      "topics": [],
+      "html_url": "https://github.com/RooCodeInc/Roo-Code",
+      "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+      "collected_at": "2026-07-17T01:08:39.597926+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    }
+  ],
+  "loop_engineer_growth_top10": [
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 138000,
+      "forks": 22145,
+      "language": "Python",
+      "updated_at": "2026-07-17T01:06:05Z",
+      "pushed_at": "2026-07-17T00:26:27Z",
+      "topics": [],
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "collected_at": "2026-07-17T01:08:35.835745+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "stars": 106026,
+      "forks": 14268,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:03:20Z",
+      "pushed_at": "2026-07-16T22:42:36Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ],
+      "html_url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "collected_at": "2026-07-17T01:08:36.177079+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "openai/codex",
+      "stars": 98856,
+      "forks": 14772,
+      "language": "Rust",
+      "updated_at": "2026-07-17T01:03:45Z",
+      "pushed_at": "2026-07-16T23:50:35Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-07-17T01:08:36.817805+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "stars": 88554,
+      "forks": 11233,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:01:55Z",
+      "pushed_at": "2026-07-10T03:30:19Z",
+      "topics": [],
+      "html_url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "collected_at": "2026-07-17T01:08:37.150930+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 64728,
+      "forks": 6927,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:05:15Z",
+      "pushed_at": "2026-07-17T01:03:13Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-07-17T01:08:37.769287+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "langchain-ai/langgraph",
+      "stars": 37450,
+      "forks": 6280,
+      "language": "Python",
+      "updated_at": "2026-07-17T00:48:47Z",
+      "pushed_at": "2026-07-16T16:29:30Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "collected_at": "2026-07-17T01:08:38.695313+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "continuedev/continue",
+      "stars": 34919,
+      "forks": 5057,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:03:38Z",
+      "pushed_at": "2026-07-16T01:50:10Z",
+      "topics": [
+        "agent",
+        "ai",
+        "cli",
+        "developer-tools",
+        "open-source"
+      ],
+      "html_url": "https://github.com/continuedev/continue",
+      "description": "open-source coding agent",
+      "collected_at": "2026-07-17T01:08:39.006422+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "stars": 26063,
+      "forks": 2657,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T01:05:33Z",
+      "pushed_at": "2026-07-17T00:59:20Z",
+      "topics": [],
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "collected_at": "2026-07-17T01:08:39.305422+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "RooCodeInc/Roo-Code",
+      "stars": 24349,
+      "forks": 3368,
+      "language": "TypeScript",
+      "updated_at": "2026-07-17T00:12:07Z",
+      "pushed_at": "2026-05-15T18:08:47Z",
+      "topics": [],
+      "html_url": "https://github.com/RooCodeInc/Roo-Code",
+      "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+      "collected_at": "2026-07-17T01:08:39.597926+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    },
+    {
+      "repo": "microsoft/semantic-kernel",
+      "stars": 28320,
+      "forks": 4679,
+      "language": "C#",
+      "updated_at": "2026-07-16T16:30:29Z",
+      "pushed_at": "2026-07-16T20:33:31Z",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "llm",
+        "openai",
+        "sdk"
+      ],
+      "html_url": "https://github.com/microsoft/semantic-kernel",
+      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+      "collected_at": "2026-07-17T01:08:41.779036+00:00",
+      "themes": [
+        "loop_engineer"
+      ],
+      "stars_delta": null,
+      "growth_basis": "direct watched repo fallback; no baseline for this repo"
+    }
+  ],
+  "fallback_note": "GitHub Search partially rate-limited after Point Rummy results; broad AI/Loop tables use direct watched repo fallback, not complete all-GitHub ranking.",
+  "direct_fallback": true,
+  "direct_fallback_errors": []
+}
