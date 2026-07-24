@@ -1,0 +1,19 @@
+{
+  "date": "2026-07-24",
+  "generated_files": [
+    "GitHub/AIInfra/2026-07-24/openai-codex.md",
+    "GitHub/AIInfra/2026-07-24/browser-use-browser-use.md",
+    "GitHub/AIInfra/2026-07-24/vllm-and-sglang-serving-watchlist.md",
+    "Industry/Tools/2026-07-24/coding-agent-terminal-growth.md",
+    "Industry/Company/2026-07-24/company-source-scan-matrix.md",
+    "Business/PointRummy/2026-07-24/rummy-simulation-watchlist.md",
+    "Papers/2026-07-24/arxiv-low-confidence-watchlist.md",
+    "Daily/2026-07-24.md"
+  ],
+  "high_star_count": 10,
+  "growth_count": 10,
+  "rummy_count": 10,
+  "loop_high_count": 10,
+  "loop_growth_count": 10,
+  "snapshot": "/home/vscode-server/obsidian-ai-radar/Automation/state/github-stars-2026-07-24.json"
+}
