@@ -1,0 +1,23 @@
+{
+  "date": "2026-08-07",
+  "files": [
+    "Daily/2026-08-07.md",
+    "GitHub/AIInfra/2026-08-07/huggingface-transformers.md",
+    "GitHub/AIInfra/2026-08-07/anthropics-claude-code.md",
+    "GitHub/AIInfra/2026-08-07/google-gemini-gemini-cli.md",
+    "GitHub/AIInfra/2026-08-07/anthropics-claude-code.md",
+    "GitHub/AIInfra/2026-08-07/google-gemini-gemini-cli.md",
+    "Industry/Tools/2026-08-07/Claude-Code-v2-1-223.md",
+    "Industry/Tools/2026-08-07/OpenAI-Codex-rust-v0-146-1.md",
+    "Industry/Tools/2026-08-07/Qwen-Code-v0-21-7.md",
+    "Industry/Tools/2026-08-07/Roo-Code-v3-54-0.md",
+    "Papers/2026-08-07/arXiv-query-failed-HTTP-Error-429-Too-Many-Requests.md",
+    "Papers/2026-08-07/arXiv-query-failed-HTTP-Error-429-Too-Many-Requests.md",
+    "Industry/Companies/2026-08-07/OpenAI-scan.md",
+    "Industry/Companies/2026-08-07/Anthropic-scan.md",
+    "Industry/Companies/2026-08-07/Google-DeepMind-scan.md",
+    "Automation/state/github-stars-2026-08-07.json"
+  ],
+  "snapshot_repos": 122,
+  "github_search_errors": 38
+}
