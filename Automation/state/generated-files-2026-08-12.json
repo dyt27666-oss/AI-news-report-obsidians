@@ -1,0 +1,33 @@
+{
+  "date": "2026-08-12",
+  "generated_files": [
+    "Daily/2026-08-12.md",
+    "GitHub/AIInfra/2026-08-12/huggingface__transformers.md",
+    "GitHub/AIInfra/2026-08-12/pytorch__pytorch.md",
+    "GitHub/AIInfra/2026-08-12/sgl-project__sglang.md",
+    "GitHub/AIInfra/2026-08-12/vllm-project__vllm.md",
+    "GitHub/LoopEngineer/2026-08-12/OpenHands__OpenHands.md",
+    "GitHub/LoopEngineer/2026-08-12/QwenLM__qwen-code.md",
+    "GitHub/LoopEngineer/2026-08-12/anthropics__claude-code.md",
+    "GitHub/LoopEngineer/2026-08-12/cline__cline.md",
+    "GitHub/LoopEngineer/2026-08-12/google-gemini__gemini-cli.md",
+    "GitHub/LoopEngineer/2026-08-12/langchain-ai__langgraph.md",
+    "GitHub/LoopEngineer/2026-08-12/microsoft__autogen.md",
+    "GitHub/LoopEngineer/2026-08-12/modelcontextprotocol__servers.md",
+    "GitHub/LoopEngineer/2026-08-12/openai__codex.md",
+    "GitHub/PointRummy/2026-08-12/Mohitkumar-559__RummyServer.md",
+    "GitHub/PointRummy/2026-08-12/SCFlanagan__Rummy.md",
+    "GitHub/PointRummy/2026-08-12/abubakarmunir712__dsa-final-project.md",
+    "GitHub/PointRummy/2026-08-12/dv-rastogi__Rummy.md",
+    "GitHub/PointRummy/2026-08-12/jmhummel__Gin-Rummy-Java.md",
+    "GitHub/PointRummy/2026-08-12/mcartmell__gin-rummy-bot.md",
+    "GitHub/PointRummy/2026-08-12/mudont__indian-rummy.md",
+    "GitHub/PointRummy/2026-08-12/nakkekakke__rummy-ai.md",
+    "GitHub/PointRummy/2026-08-12/rickgorman__gin-rummy-ai.md",
+    "GitHub/PointRummy/2026-08-12/vahsek300501__Indian-Rummy-.md",
+    "GitHub/Tools/2026-08-12/claude-code.md",
+    "GitHub/Tools/2026-08-12/gemini-cli.md",
+    "GitHub/Tools/2026-08-12/openai-codex.md",
+    "Papers/Watchlist/2026-08-12/llm-serving-rlhf-rummy-watchlist.md"
+  ]
+}
