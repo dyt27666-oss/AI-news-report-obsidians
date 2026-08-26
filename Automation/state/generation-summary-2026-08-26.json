@@ -1,0 +1,10 @@
+{
+  "date": "2026-08-26",
+  "created_files": 19,
+  "validation_errors": [
+    "missing wikilinks GitHub/AIInfra/2026-08-26/vllm-project-vllm,Industry/Tools/2026-08-26/OpenAI-Codex-rust-v0.149.1,GitHub/AIInfra/2026-08-26/vllm-project-vllm,GitHub/AIInfra/2026-08-26/NVIDIA-TensorRT-LLM,Industry/Tools/2026-08-26/OpenAI-Codex-rust-v0.149.1,Industry/Tools/2026-08-26/Claude-Code-None,Industry/Tools/2026-08-26/OpenAI-Codex-rust-v0.149.1,GitHub/AIInfra/2026-08-26/NVIDIA-TensorRT-LLM,GitHub/LoopEngineer/2026-08-26/google-gemini-gemini-cli,GitHub/AIInfra/2026-08-26/pytorch-pytorch,GitHub/AIInfra/2026-08-26/vllm-project-vllm,GitHub/AIInfra/2026-08-26/modelcontextprotocol-servers,GitHub/LoopEngineer/2026-08-26/cline-cline,GitHub/LoopEngineer/2026-08-26/microsoft-autogen,GitHub/AIInfra/2026-08-26/crewAIInc-crewAI,GitHub/AIInfra/2026-08-26/vllm-project-vllm,GitHub/LoopEngineer/2026-08-26/langchain-ai-langgraph,GitHub/LoopEngineer/2026-08-26/microsoft-autogen,GitHub/AIInfra/2026-08-26/sgl-project-sglang,GitHub/LoopEngineer/2026-08-26/cline-cline"
+  ],
+  "snapshot": "/home/vscode-server/obsidian-ai-radar/Automation/state/github-stars-2026-08-26.json",
+  "snapshot_repos": 76,
+  "github_search_errors": 44
+}

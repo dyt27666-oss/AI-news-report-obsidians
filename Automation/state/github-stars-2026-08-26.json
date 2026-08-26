@@ -1,0 +1,4276 @@
+{
+  "date": "2026-08-26",
+  "collected_at": "2026-08-26T01:01:21.130918+00:00",
+  "cold_start": false,
+  "baseline_available": true,
+  "queries": [
+    "point rummy",
+    "indian rummy",
+    "rummy ai",
+    "rummy reinforcement learning",
+    "gin rummy ai",
+    "loop engineering",
+    "loop engineer",
+    "harness engineering",
+    "coding agent loop",
+    "AGENTS.md harness",
+    "topic:artificial-intelligence stars:>1000",
+    "topic:llm stars:>500",
+    "topic:machine-learning stars:>1000",
+    "topic:reinforcement-learning stars:>100",
+    "topic:agents stars:>100",
+    "topic:inference stars:>100",
+    "topic:cuda stars:>100",
+    "topic:triton stars:>50",
+    "vllm OR sglang OR tensorrt-llm",
+    "grpo OR rlhf OR verl OR openrlhf",
+    "point rummy OR indian rummy OR rummy ai",
+    "rummy reinforcement learning OR rummy bot OR rummy simulation",
+    "loop engineering OR loop engineer OR harness engineering",
+    "coding agent loop OR agent loop design OR AGENTS.md harness"
+  ],
+  "theme_queries": {
+    "point_rummy": [
+      "point rummy",
+      "indian rummy",
+      "rummy ai",
+      "rummy reinforcement learning",
+      "gin rummy ai"
+    ],
+    "loop_engineer": [
+      "loop engineering",
+      "loop engineer",
+      "harness engineering",
+      "coding agent loop",
+      "AGENTS.md harness"
+    ]
+  },
+  "errors": [
+    {
+      "query": "rummy ai",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy ai",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "gin rummy ai",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "gin rummy ai",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineer",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineer",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "harness engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "harness engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "AGENTS.md harness",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "AGENTS.md harness",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:artificial-intelligence stars:>1000",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:artificial-intelligence stars:>1000",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:llm stars:>500",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:llm stars:>500",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:machine-learning stars:>1000",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:machine-learning stars:>1000",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:reinforcement-learning stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:reinforcement-learning stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:agents stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:agents stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:inference stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:inference stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:cuda stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:cuda stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:triton stars:>50",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:triton stars:>50",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "vllm OR sglang OR tensorrt-llm",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "vllm OR sglang OR tensorrt-llm",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "grpo OR rlhf OR verl OR openrlhf",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "grpo OR rlhf OR verl OR openrlhf",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "point rummy OR indian rummy OR rummy ai",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "point rummy OR indian rummy OR rummy ai",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning OR rummy bot OR rummy simulation",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning OR rummy bot OR rummy simulation",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering OR loop engineer OR harness engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering OR loop engineer OR harness engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop OR agent loop design OR AGENTS.md harness",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop OR agent loop design OR AGENTS.md harness",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    }
+  ],
+  "repos": [
+    {
+      "repo": "aabr2612/Indian-Rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-05-23T11:59:45Z",
+      "pushed_at": "2026-05-23T11:59:01Z",
+      "topics": [],
+      "html_url": "https://github.com/aabr2612/Indian-Rummy",
+      "description": "About A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Abhishek230799/Rummy-301-points-counter",
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2025-05-27T09:53:06Z",
+      "pushed_at": "2025-05-27T09:53:03Z",
+      "topics": [],
+      "html_url": "https://github.com/Abhishek230799/Rummy-301-points-counter",
+      "description": "Rummy 301 Points Counter Tired of scribbling down scores every time we played Rummy 301, I decided to build a simple Java Swing app to keep track of points automatically. Just enter player names, add rounds, and watch the app handle the rest — eliminating players who hit 301 and crowning the last one standing. Easy, fun, and saves paper!",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "abkcode/rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Sass",
+      "updated_at": "2021-02-01T04:20:35Z",
+      "pushed_at": "2021-02-01T04:20:33Z",
+      "topics": [],
+      "html_url": "https://github.com/abkcode/rummy",
+      "description": "Indian Rummy Game",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "abubakarmunir712/dsa-final-project",
+      "stars": 2,
+      "forks": 1,
+      "language": "Python",
+      "updated_at": "2026-06-27T06:34:26Z",
+      "pushed_at": "2026-06-27T06:34:22Z",
+      "topics": [],
+      "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+      "description": "A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "ajaydasm/rummy-point-tracker",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "updated_at": "2025-08-29T11:50:21Z",
+      "pushed_at": "2025-08-29T11:53:32Z",
+      "topics": [],
+      "html_url": "https://github.com/ajaydasm/rummy-point-tracker",
+      "description": "",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Alan-seb/RummyVision",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2025-12-03T03:14:55Z",
+      "pushed_at": "2025-12-03T03:14:51Z",
+      "topics": [],
+      "html_url": "https://github.com/Alan-seb/RummyVision",
+      "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 143005,
+      "forks": 22881,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:55:44Z",
+      "pushed_at": "2026-08-25T22:31:52Z",
+      "topics": [],
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "collected_at": "2026-08-26T01:06:21.370554+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 122
+    },
+    {
+      "repo": "Aravind00Kumar/Indian-rummy-game",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "updated_at": "2026-08-18T19:40:04Z",
+      "pushed_at": "2026-08-18T19:30:15Z",
+      "topics": [],
+      "html_url": "https://github.com/Aravind00Kumar/Indian-rummy-game",
+      "description": "",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "atamang1/Point-Keeping-App",
+      "stars": 0,
+      "forks": 0,
+      "language": "Swift",
+      "updated_at": "2026-07-30T15:07:23Z",
+      "pushed_at": "2026-07-30T15:00:54Z",
+      "topics": [],
+      "html_url": "https://github.com/atamang1/Point-Keeping-App",
+      "description": "Card Game Point tracker, such as rummy ",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "atreyayelishetti/indian-rummy-game-rust",
+      "stars": 1,
+      "forks": 0,
+      "language": "Rust",
+      "updated_at": "2026-05-12T00:25:17Z",
+      "pushed_at": "2026-05-03T06:24:35Z",
+      "topics": [],
+      "html_url": "https://github.com/atreyayelishetti/indian-rummy-game-rust",
+      "description": "indian-rummy-rust",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "bencesibin/rummy-points-calculator",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "updated_at": "2022-02-16T17:37:32Z",
+      "pushed_at": "2022-02-16T19:33:37Z",
+      "topics": [],
+      "html_url": "https://github.com/bencesibin/rummy-points-calculator",
+      "description": "",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "stars": 110517,
+      "forks": 12162,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:46:24Z",
+      "pushed_at": "2026-08-26T00:16:01Z",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm",
+        "playwright",
+        "python"
+      ],
+      "html_url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "collected_at": "2026-08-26T01:06:20.982989+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 146
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 66842,
+      "forks": 7217,
+      "language": "TypeScript",
+      "updated_at": "2026-08-26T00:02:42Z",
+      "pushed_at": "2026-08-26T00:23:37Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-08-26T01:06:22.365643+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 51
+    },
+    {
+      "repo": "codingmickey/rummy-points-calculator",
+      "stars": 1,
+      "forks": 0,
+      "language": "C++",
+      "updated_at": "2024-07-10T15:40:45Z",
+      "pushed_at": "2021-07-29T17:18:07Z",
+      "topics": [],
+      "html_url": "https://github.com/codingmickey/rummy-points-calculator",
+      "description": "A cpp progarm to calculate Rummy points of all the players for each round.",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "continuedev/continue",
+      "stars": 35636,
+      "forks": 5288,
+      "language": "TypeScript",
+      "updated_at": "2026-08-25T23:29:56Z",
+      "pushed_at": "2026-08-25T12:21:44Z",
+      "topics": [
+        "agent",
+        "ai",
+        "cli",
+        "developer-tools",
+        "open-source"
+      ],
+      "html_url": "https://github.com/continuedev/continue",
+      "description": "open-source coding agent",
+      "collected_at": "2026-08-26T01:06:22.998348+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 22
+    },
+    {
+      "repo": "crewAIInc/crewAI",
+      "stars": 57611,
+      "forks": 8246,
+      "language": "Python",
+      "updated_at": "2026-08-26T01:01:47Z",
+      "pushed_at": "2026-08-26T00:43:56Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "aiagentframework",
+        "llms"
+      ],
+      "html_url": "https://github.com/crewAIInc/crewAI",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "collected_at": "2026-08-26T01:06:24.287100+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 854
+    },
+    {
+      "repo": "debabrata-mandal/RummyPulse",
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2026-08-19T04:34:20Z",
+      "pushed_at": "2026-08-19T04:40:44Z",
+      "topics": [
+        "android"
+      ],
+      "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+      "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "deepspeedai/DeepSpeed",
+      "stars": 42998,
+      "forks": 4939,
+      "language": "Python",
+      "updated_at": "2026-08-26T01:04:24Z",
+      "pushed_at": "2026-08-25T18:01:44Z",
+      "topics": [
+        "billion-parameters",
+        "compression",
+        "data-parallelism",
+        "deep-learning",
+        "gpu",
+        "inference",
+        "machine-learning",
+        "mixture-of-experts",
+        "model-parallelism",
+        "pipeline-parallelism",
+        "pytorch",
+        "trillion-parameters",
+        "zero"
+      ],
+      "html_url": "https://github.com/deepspeedai/DeepSpeed",
+      "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+      "collected_at": "2026-08-26T01:06:18.252693+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 9
+    },
+    {
+      "repo": "dv-rastogi/Rummy",
+      "stars": 5,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2023-09-26T11:21:39Z",
+      "pushed_at": "2021-09-06T11:28:51Z",
+      "topics": [],
+      "html_url": "https://github.com/dv-rastogi/Rummy",
+      "description": "Variation of classical Indian Rummy made in Pygame",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "eanisutkin/IndianRummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "C++",
+      "updated_at": "2021-07-05T07:53:35Z",
+      "pushed_at": "2021-07-05T07:53:32Z",
+      "topics": [],
+      "html_url": "https://github.com/eanisutkin/IndianRummy",
+      "description": "",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "stars": 106685,
+      "forks": 14484,
+      "language": "TypeScript",
+      "updated_at": "2026-08-26T00:45:58Z",
+      "pushed_at": "2026-08-26T01:01:06Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ],
+      "html_url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "collected_at": "2026-08-26T01:06:23.322805+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 23
+    },
+    {
+      "repo": "guna-varathan/rummy-points",
+      "stars": 0,
+      "forks": 0,
+      "language": "JavaScript",
+      "updated_at": "2026-08-20T07:13:05Z",
+      "pushed_at": "2026-08-20T07:12:40Z",
+      "topics": [],
+      "html_url": "https://github.com/guna-varathan/rummy-points",
+      "description": "",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Hari-sys786/rummy-scoreboard",
+      "stars": 0,
+      "forks": 0,
+      "language": "Dart",
+      "updated_at": "2026-06-29T13:14:32Z",
+      "pushed_at": "2026-06-29T13:13:54Z",
+      "topics": [],
+      "html_url": "https://github.com/Hari-sys786/rummy-scoreboard",
+      "description": "Premium Flutter Android scoreboard for Indian Rummy — local storage, dealer rotation, drops tracking, round editing",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "huggingface/transformers",
+      "stars": 164441,
+      "forks": 34363,
+      "language": "Python",
+      "updated_at": "2026-08-26T01:02:36Z",
+      "pushed_at": "2026-08-25T22:28:18Z",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "html_url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "collected_at": "2026-08-26T01:06:17.002737+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 38
+    },
+    {
+      "repo": "imsaba16/IndianRummy-cli",
+      "stars": 0,
+      "forks": 0,
+      "language": "Swift",
+      "updated_at": "2026-08-07T11:45:28Z",
+      "pushed_at": "2026-08-07T11:43:24Z",
+      "topics": [],
+      "html_url": "https://github.com/imsaba16/IndianRummy-cli",
+      "description": "",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "karthikeyankkn/rummy-points",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2020-07-05T19:19:11Z",
+      "pushed_at": "2020-07-05T19:19:09Z",
+      "topics": [],
+      "html_url": "https://github.com/karthikeyankkn/rummy-points",
+      "description": "Now easy to maintain rummy points... :D",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "kas1336/Kasi-Rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-06-01T10:38:08Z",
+      "pushed_at": "2026-06-01T10:38:04Z",
+      "topics": [],
+      "html_url": "https://github.com/kas1336/Kasi-Rummy",
+      "description": "Indian rummy",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "kikiongame/3-Plus-Games",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "2024-04-02T14:36:56Z",
+      "pushed_at": "2024-01-08T09:52:54Z",
+      "topics": [],
+      "html_url": "https://github.com/kikiongame/3-Plus-Games",
+      "description": "3 plus games is the best online gaming platform in india which offers you unlimited fun with real money, here you can play rummy (point, pool, deal), poker, carrom, ludo, snakes and ladders, 8 ball pool, call break and many more games play and win real money rewards",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Kurukshetran/WordRummy",
+      "stars": 1,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2023-07-19T09:33:14Z",
+      "pushed_at": "2014-01-21T12:40:45Z",
+      "topics": [],
+      "html_url": "https://github.com/Kurukshetran/WordRummy",
+      "description": "A creative android based multiplayer game which combines game play of Indian rummy and Word game for learning android sdk.",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "langchain-ai/langgraph",
+      "stars": 40441,
+      "forks": 6824,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:59:15Z",
+      "pushed_at": "2026-08-25T22:15:17Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "collected_at": "2026-08-26T01:06:17.655290+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 67
+    },
+    {
+      "repo": "manimsr18/rummy-",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "2020-08-17T16:26:28Z",
+      "pushed_at": "2020-08-17T16:26:25Z",
+      "topics": [],
+      "html_url": "https://github.com/manimsr18/rummy-",
+      "description": "Indian Rummy",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "market-lab-cmd/indian-card-games-hub",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-04-24T14:14:54Z",
+      "pushed_at": "2026-04-24T14:14:51Z",
+      "topics": [],
+      "html_url": "https://github.com/market-lab-cmd/indian-card-games-hub",
+      "description": "Educational resources and gameplay guides for popular Indian card games such as Teen Patti, Rummy, and Andar Bahar.",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 60629,
+      "forks": 9150,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:21:14Z",
+      "pushed_at": "2026-04-15T11:59:09Z",
+      "topics": [
+        "agentic",
+        "agentic-agi",
+        "agents",
+        "ai",
+        "autogen",
+        "autogen-ecosystem",
+        "chatgpt",
+        "framework",
+        "llm-agent",
+        "llm-framework"
+      ],
+      "html_url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "collected_at": "2026-08-26T01:06:23.662944+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 64
+    },
+    {
+      "repo": "microsoft/semantic-kernel",
+      "stars": 28500,
+      "forks": 4741,
+      "language": "C#",
+      "updated_at": "2026-08-26T00:02:54Z",
+      "pushed_at": "2026-08-25T10:44:29Z",
+      "topics": [
+        "ai",
+        "artificial-intelligence",
+        "llm",
+        "openai",
+        "sdk"
+      ],
+      "html_url": "https://github.com/microsoft/semantic-kernel",
+      "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+      "collected_at": "2026-08-26T01:06:23.975706+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 30
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "stars": 89863,
+      "forks": 11510,
+      "language": "TypeScript",
+      "updated_at": "2026-08-26T00:59:18Z",
+      "pushed_at": "2026-08-20T01:12:36Z",
+      "topics": [],
+      "html_url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "collected_at": "2026-08-26T01:06:20.659218+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 31
+    },
+    {
+      "repo": "Mohitkumar-559/RummyServer",
+      "stars": 2,
+      "forks": 1,
+      "language": "JavaScript",
+      "updated_at": "2024-03-17T03:48:34Z",
+      "pushed_at": "2023-03-03T06:49:23Z",
+      "topics": [],
+      "html_url": "https://github.com/Mohitkumar-559/RummyServer",
+      "description": "Rummy game server for game that contain deal rummy and point rummy",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "mootoh/rummyjs",
+      "stars": 1,
+      "forks": 0,
+      "language": "JavaScript",
+      "updated_at": "2022-12-08T15:15:05Z",
+      "pushed_at": "2012-12-27T09:25:24Z",
+      "topics": [],
+      "html_url": "https://github.com/mootoh/rummyjs",
+      "description": "Indian Rummy in Javascript",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "mrgollapudi/rummy-scoreboard",
+      "stars": 1,
+      "forks": 0,
+      "language": "JavaScript",
+      "updated_at": "2025-07-08T12:46:51Z",
+      "pushed_at": "2025-07-08T12:46:48Z",
+      "topics": [],
+      "html_url": "https://github.com/mrgollapudi/rummy-scoreboard",
+      "description": "Scoreboard for Indian Rummy Card Game",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "mudont/indian-rummy",
+      "stars": 5,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2025-08-08T21:05:04Z",
+      "pushed_at": "2025-08-08T21:05:00Z",
+      "topics": [],
+      "html_url": "https://github.com/mudont/indian-rummy",
+      "description": "Typescript library for Indian Rummy card game",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "musukur/rummy-points",
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2023-09-13T12:29:40Z",
+      "pushed_at": "2023-02-26T06:26:14Z",
+      "topics": [],
+      "html_url": "https://github.com/musukur/rummy-points",
+      "description": "",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Navomi1/RummyPointCounter",
+      "stars": 0,
+      "forks": 0,
+      "language": "Swift",
+      "updated_at": "2026-01-13T23:49:39Z",
+      "pushed_at": "2026-01-13T23:49:35Z",
+      "topics": [],
+      "html_url": "https://github.com/Navomi1/RummyPointCounter",
+      "description": "Count points while playing Rummy",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Nethaji003/rummy2",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-06-18T07:31:53Z",
+      "pushed_at": "2026-06-18T07:31:49Z",
+      "topics": [],
+      "html_url": "https://github.com/Nethaji003/rummy2",
+      "description": "point",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "NVIDIA/Megatron-LM",
+      "stars": 17590,
+      "forks": 4406,
+      "language": "Python",
+      "updated_at": "2026-08-25T21:50:43Z",
+      "pushed_at": "2026-08-26T01:04:18Z",
+      "topics": [
+        "large-language-models",
+        "model-para",
+        "transformers"
+      ],
+      "html_url": "https://github.com/NVIDIA/Megatron-LM",
+      "description": "Ongoing research training transformer models at scale",
+      "collected_at": "2026-08-26T01:06:19.433033+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 24
+    },
+    {
+      "repo": "NVIDIA/TensorRT-LLM",
+      "stars": 14474,
+      "forks": 2692,
+      "language": "Python",
+      "updated_at": "2026-08-26T01:01:14Z",
+      "pushed_at": "2026-08-26T00:59:31Z",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ],
+      "html_url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "collected_at": "2026-08-26T01:06:18.582595+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 10
+    },
+    {
+      "repo": "openai/codex",
+      "stars": 118119,
+      "forks": 18000,
+      "language": "Rust",
+      "updated_at": "2026-08-26T01:06:08Z",
+      "pushed_at": "2026-08-26T01:04:44Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-08-26T01:06:21.694244+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 1064
+    },
+    {
+      "repo": "openai/openai-agents-python",
+      "stars": 28961,
+      "forks": 4592,
+      "language": "Python",
+      "updated_at": "2026-08-26T01:02:51Z",
+      "pushed_at": "2026-08-25T07:11:27Z",
+      "topics": [
+        "agents",
+        "ai",
+        "framework",
+        "harness",
+        "llm",
+        "openai",
+        "python"
+      ],
+      "html_url": "https://github.com/openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows",
+      "collected_at": "2026-08-26T01:06:24.594468+00:00",
+      "growth_basis": "direct watched repo fallback / 非完整全网日增",
+      "stars_delta": null
+    },
+    {
+      "repo": "OpenRLHF/OpenRLHF",
+      "stars": 9954,
+      "forks": 1005,
+      "language": "Python",
+      "updated_at": "2026-08-25T22:02:38Z",
+      "pushed_at": "2026-08-13T11:26:24Z",
+      "topics": [
+        "large-language-models",
+        "proximal-policy-optimization",
+        "raylib",
+        "reinforcement-learning",
+        "reinforcement-learning-from-human-feedback",
+        "transformers",
+        "visual-language-models",
+        "vllm"
+      ],
+      "html_url": "https://github.com/OpenRLHF/OpenRLHF",
+      "description": "An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL)",
+      "collected_at": "2026-08-26T01:06:20.328853+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 4
+    },
+    {
+      "repo": "pawanjanakiram/rss",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-08-09T21:39:48Z",
+      "pushed_at": "2026-08-09T21:39:20Z",
+      "topics": [],
+      "html_url": "https://github.com/pawanjanakiram/rss",
+      "description": "Indian Rummy Scoring and Settlement",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "stars": 102595,
+      "forks": 28983,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:56:18Z",
+      "pushed_at": "2026-08-26T01:04:57Z",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+      ],
+      "html_url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "collected_at": "2026-08-26T01:06:16.682473+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 17
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "stars": 27373,
+      "forks": 2935,
+      "language": "TypeScript",
+      "updated_at": "2026-08-26T00:48:51Z",
+      "pushed_at": "2026-08-26T00:53:10Z",
+      "topics": [
+        "agentic",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "cli",
+        "coding-agent",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "qwen",
+        "terminal",
+        "typescript"
+      ],
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "collected_at": "2026-08-26T01:06:22.021894+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 35
+    },
+    {
+      "repo": "rafana73/rummy_points",
+      "stars": 0,
+      "forks": 0,
+      "language": "PHP",
+      "updated_at": "2022-01-12T16:29:15Z",
+      "pushed_at": "2022-01-12T16:50:27Z",
+      "topics": [],
+      "html_url": "https://github.com/rafana73/rummy_points",
+      "description": "",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Rajgowthaman/rummy-or-cards-points-calculator",
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2024-05-14T10:19:48Z",
+      "pushed_at": "2024-05-14T10:19:45Z",
+      "topics": [],
+      "html_url": "https://github.com/Rajgowthaman/rummy-or-cards-points-calculator",
+      "description": "",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "ray-project/ray",
+      "stars": 43611,
+      "forks": 7964,
+      "language": "Python",
+      "updated_at": "2026-08-25T22:44:53Z",
+      "pushed_at": "2026-08-26T00:26:48Z",
+      "topics": [
+        "data-science",
+        "deep-learning",
+        "deployment",
+        "distributed",
+        "hyperparameter-optimization",
+        "hyperparameter-search",
+        "large-language-models",
+        "llm",
+        "llm-inference",
+        "llm-serving",
+        "machine-learning",
+        "optimization",
+        "parallel",
+        "python",
+        "pytorch",
+        "ray",
+        "reinforcement-learning",
+        "rllib",
+        "serving",
+        "tensorflow"
+      ],
+      "html_url": "https://github.com/ray-project/ray",
+      "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+      "collected_at": "2026-08-26T01:06:24.917199+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 34
+    },
+    {
+      "repo": "RooCodeInc/Roo-Code",
+      "stars": 24325,
+      "forks": 3415,
+      "language": "TypeScript",
+      "updated_at": "2026-08-25T14:23:32Z",
+      "pushed_at": "2026-05-15T18:08:47Z",
+      "topics": [],
+      "html_url": "https://github.com/RooCodeInc/Roo-Code",
+      "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+      "collected_at": "2026-08-26T01:06:22.685402+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": -3
+    },
+    {
+      "repo": "rrajasekpro/Indian_Rummy",
+      "stars": 1,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2025-10-24T20:51:01Z",
+      "pushed_at": "2025-10-24T20:50:57Z",
+      "topics": [],
+      "html_url": "https://github.com/rrajasekpro/Indian_Rummy",
+      "description": "",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "rsus4/The-Indian-Rummy",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2021-02-04T17:43:41Z",
+      "pushed_at": "2020-11-29T12:08:39Z",
+      "topics": [],
+      "html_url": "https://github.com/rsus4/The-Indian-Rummy",
+      "description": "",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "s-gup/IndianRummyGame",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2020-10-04T08:10:22Z",
+      "pushed_at": "2019-12-12T05:00:50Z",
+      "topics": [],
+      "html_url": "https://github.com/s-gup/IndianRummyGame",
+      "description": "using pygame ",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "sajith231/INDIAN_RUMMY",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2025-11-22T07:42:13Z",
+      "pushed_at": "2025-11-22T07:42:10Z",
+      "topics": [],
+      "html_url": "https://github.com/sajith231/INDIAN_RUMMY",
+      "description": "",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "samikshamodi/PointsRummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2021-06-01T21:14:14Z",
+      "pushed_at": "2021-05-31T21:09:13Z",
+      "topics": [],
+      "html_url": "https://github.com/samikshamodi/PointsRummy",
+      "description": "A GUI version of Points Rummy using pygame where you play against an intelligent computer opponent",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "selenakajal/Rummy-Nation",
+      "stars": 1,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "2020-07-26T04:01:09Z",
+      "pushed_at": "2020-07-07T13:24:12Z",
+      "topics": [],
+      "html_url": "https://github.com/selenakajal/Rummy-Nation",
+      "description": "Rummy, especially Indian rummy, is enjoyed by everyone in India above the age of eighteen. And now with technology reaching new heights, you can play rummy, win cash and sharpen your rummy-playing skills online. You can test your skills against players from around the country and beat them to win money!  Playing in Rummy nation is as simple as downloading the app. If you are new to the card game? Don’t worry! It has got you covered with practice games and free coins to feel more confident to earn money from it. It has also provided with rules to get started with.  Play Rummy and experience fun and excitement with the Rummy Nation App! Or you can simply visit www.rummynation.com on your mobile. Download the Rummy Nation Rummy mobile app on your Android Smartphones/Tablets and enjoy the game anywhere you like.",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "sgl-project/sglang",
+      "stars": 32442,
+      "forks": 8203,
+      "language": "Python",
+      "updated_at": "2026-08-26T01:02:45Z",
+      "pushed_at": "2026-08-26T01:02:11Z",
+      "topics": [
+        "attention",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "diffusion",
+        "glm",
+        "gpt-oss",
+        "inference",
+        "llama",
+        "llm",
+        "minimax",
+        "moe",
+        "qwen",
+        "qwen-image",
+        "reinforcement-learning",
+        "transformer",
+        "vlm",
+        "wan"
+      ],
+      "html_url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "collected_at": "2026-08-26T01:06:19.115169+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 60
+    },
+    {
+      "repo": "sgummadala/RummyTracker",
+      "stars": 0,
+      "forks": 0,
+      "language": "Swift",
+      "updated_at": "2026-06-04T03:16:54Z",
+      "pushed_at": "2026-06-04T03:16:51Z",
+      "topics": [],
+      "html_url": "https://github.com/sgummadala/RummyTracker",
+      "description": "Indian Rummy score tracker — SwiftUI iOS app",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Shadowdog2002/Rummy-Online",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2026-03-28T04:25:00Z",
+      "pushed_at": "2026-03-28T04:24:56Z",
+      "topics": [],
+      "html_url": "https://github.com/Shadowdog2002/Rummy-Online",
+      "description": "Online Indian Rummy Game",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "shivayya-ln-21303/indian-rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Java",
+      "updated_at": "2026-06-30T05:22:44Z",
+      "pushed_at": "2026-06-30T05:22:40Z",
+      "topics": [],
+      "html_url": "https://github.com/shivayya-ln-21303/indian-rummy",
+      "description": "Multiplayer Indian Rummy — Spring Boot 3 + React + WebSocket",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Soumyadeep-Kar2006/RummyPointCalculator",
+      "stars": 0,
+      "forks": 0,
+      "language": "HTML",
+      "updated_at": "2026-06-05T19:06:53Z",
+      "pushed_at": "2026-06-05T19:06:49Z",
+      "topics": [],
+      "html_url": "https://github.com/Soumyadeep-Kar2006/RummyPointCalculator",
+      "description": "",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "sowmyar1914/RUMMY013",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "2026-03-24T18:26:58Z",
+      "pushed_at": "2026-03-24T18:26:54Z",
+      "topics": [],
+      "html_url": "https://github.com/sowmyar1914/RUMMY013",
+      "description": "Indian Rummy game ",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "SRathinaGiri/IndianRummy",
+      "stars": 1,
+      "forks": 1,
+      "language": "JavaScript",
+      "updated_at": "2026-06-17T11:46:14Z",
+      "pushed_at": "2026-06-17T11:46:10Z",
+      "topics": [],
+      "html_url": "https://github.com/SRathinaGiri/IndianRummy",
+      "description": "Browser-based Indian Rummy game with AI play and offline Progressive Web App support.",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Sruthiksha-source/Indian-Rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Visual Basic .NET",
+      "updated_at": "2026-04-03T15:25:51Z",
+      "pushed_at": "2026-04-03T15:25:46Z",
+      "topics": [],
+      "html_url": "https://github.com/Sruthiksha-source/Indian-Rummy",
+      "description": "Online card game ",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "triton-lang/triton",
+      "stars": 20005,
+      "forks": 3139,
+      "language": "MLIR",
+      "updated_at": "2026-08-26T01:03:55Z",
+      "pushed_at": "2026-08-26T00:20:45Z",
+      "topics": [],
+      "html_url": "https://github.com/triton-lang/triton",
+      "description": "Development repository for the Triton language and compiler",
+      "collected_at": "2026-08-26T01:06:25.256657+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 9
+    },
+    {
+      "repo": "tushar2407/rummy",
+      "stars": 1,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2020-06-03T12:45:26Z",
+      "pushed_at": "2019-12-16T10:22:16Z",
+      "topics": [],
+      "html_url": "https://github.com/tushar2407/rummy",
+      "description": "A python coded Indian Rummy with interactive UI. ",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "vahsek300501/Indian-Rummy-",
+      "stars": 4,
+      "forks": 3,
+      "language": "Python",
+      "updated_at": "2023-09-26T11:21:46Z",
+      "pushed_at": "2019-12-15T20:03:51Z",
+      "topics": [],
+      "html_url": "https://github.com/vahsek300501/Indian-Rummy-",
+      "description": "Indian Rummy made in Python using PyGame",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": 0,
+      "growth_basis": "historical_snapshot",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "vdesmond/IRumAI",
+      "stars": 0,
+      "forks": 0,
+      "language": "Python",
+      "updated_at": "2026-05-23T17:04:28Z",
+      "pushed_at": "2026-05-23T17:03:20Z",
+      "topics": [
+        "indian-rummy",
+        "reinforcement-learning",
+        "rummy",
+        "rummy-card-game"
+      ],
+      "html_url": "https://github.com/vdesmond/IRumAI",
+      "description": "Reinforcement learning agent for Indian Rummy.",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "verl-project/verl",
+      "stars": 23130,
+      "forks": 4448,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:43:01Z",
+      "pushed_at": "2026-08-25T11:12:37Z",
+      "topics": [],
+      "html_url": "https://github.com/verl-project/verl",
+      "description": "verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework ",
+      "collected_at": "2026-08-26T01:06:20.014185+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 22
+    },
+    {
+      "repo": "VishalNarayan/lirummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "TypeScript",
+      "updated_at": "2026-05-24T20:32:31Z",
+      "pushed_at": "2026-05-24T20:32:28Z",
+      "topics": [],
+      "html_url": "https://github.com/VishalNarayan/lirummy",
+      "description": "13-Card Indian Rummy multiplayer web game",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "stars": 90032,
+      "forks": 21202,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:38:56Z",
+      "pushed_at": "2026-08-26T00:38:50Z",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "html_url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "collected_at": "2026-08-26T01:06:17.339186+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 129
+    },
+    {
+      "repo": "VyanketeshNagpure/RummyApplication",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "2026-02-07T14:09:25Z",
+      "pushed_at": "2026-02-07T14:09:21Z",
+      "topics": [],
+      "html_url": "https://github.com/VyanketeshNagpure/RummyApplication",
+      "description": "2 to 4 player indian rummy with some twists",
+      "collected_at": "2026-08-26T01:01:21.130918+00:00",
+      "stars_delta": null,
+      "growth_basis": "cold_start_proxy_updated_or_stars",
+      "themes": [
+        "point_rummy"
+      ]
+    }
+  ],
+  "high_star_top10": [
+    {
+      "repo": "huggingface/transformers",
+      "stars": 164441,
+      "forks": 34363,
+      "language": "Python",
+      "updated_at": "2026-08-26T01:02:36Z",
+      "pushed_at": "2026-08-25T22:28:18Z",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "html_url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "collected_at": "2026-08-26T01:06:17.002737+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 38
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 143005,
+      "forks": 22881,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:55:44Z",
+      "pushed_at": "2026-08-25T22:31:52Z",
+      "topics": [],
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "collected_at": "2026-08-26T01:06:21.370554+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 122
+    },
+    {
+      "repo": "openai/codex",
+      "stars": 118119,
+      "forks": 18000,
+      "language": "Rust",
+      "updated_at": "2026-08-26T01:06:08Z",
+      "pushed_at": "2026-08-26T01:04:44Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-08-26T01:06:21.694244+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 1064
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "stars": 110517,
+      "forks": 12162,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:46:24Z",
+      "pushed_at": "2026-08-26T00:16:01Z",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm",
+        "playwright",
+        "python"
+      ],
+      "html_url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "collected_at": "2026-08-26T01:06:20.982989+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 146
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "stars": 106685,
+      "forks": 14484,
+      "language": "TypeScript",
+      "updated_at": "2026-08-26T00:45:58Z",
+      "pushed_at": "2026-08-26T01:01:06Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ],
+      "html_url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "collected_at": "2026-08-26T01:06:23.322805+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 23
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "stars": 102595,
+      "forks": 28983,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:56:18Z",
+      "pushed_at": "2026-08-26T01:04:57Z",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+      ],
+      "html_url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "collected_at": "2026-08-26T01:06:16.682473+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 17
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "stars": 90032,
+      "forks": 21202,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:38:56Z",
+      "pushed_at": "2026-08-26T00:38:50Z",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "html_url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "collected_at": "2026-08-26T01:06:17.339186+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 129
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "stars": 89863,
+      "forks": 11510,
+      "language": "TypeScript",
+      "updated_at": "2026-08-26T00:59:18Z",
+      "pushed_at": "2026-08-20T01:12:36Z",
+      "topics": [],
+      "html_url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "collected_at": "2026-08-26T01:06:20.659218+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 31
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 66842,
+      "forks": 7217,
+      "language": "TypeScript",
+      "updated_at": "2026-08-26T00:02:42Z",
+      "pushed_at": "2026-08-26T00:23:37Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-08-26T01:06:22.365643+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 51
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 60629,
+      "forks": 9150,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:21:14Z",
+      "pushed_at": "2026-04-15T11:59:09Z",
+      "topics": [
+        "agentic",
+        "agentic-agi",
+        "agents",
+        "ai",
+        "autogen",
+        "autogen-ecosystem",
+        "chatgpt",
+        "framework",
+        "llm-agent",
+        "llm-framework"
+      ],
+      "html_url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "collected_at": "2026-08-26T01:06:23.662944+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 64
+    }
+  ],
+  "growth_top10": [
+    {
+      "repo": "openai/codex",
+      "stars": 118119,
+      "forks": 18000,
+      "language": "Rust",
+      "updated_at": "2026-08-26T01:06:08Z",
+      "pushed_at": "2026-08-26T01:04:44Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-08-26T01:06:21.694244+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 1064
+    },
+    {
+      "repo": "crewAIInc/crewAI",
+      "stars": 57611,
+      "forks": 8246,
+      "language": "Python",
+      "updated_at": "2026-08-26T01:01:47Z",
+      "pushed_at": "2026-08-26T00:43:56Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "aiagentframework",
+        "llms"
+      ],
+      "html_url": "https://github.com/crewAIInc/crewAI",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "collected_at": "2026-08-26T01:06:24.287100+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 854
+    },
+    {
+      "repo": "browser-use/browser-use",
+      "stars": 110517,
+      "forks": 12162,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:46:24Z",
+      "pushed_at": "2026-08-26T00:16:01Z",
+      "topics": [
+        "ai-agents",
+        "ai-tools",
+        "browser-automation",
+        "browser-use",
+        "llm",
+        "playwright",
+        "python"
+      ],
+      "html_url": "https://github.com/browser-use/browser-use",
+      "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+      "collected_at": "2026-08-26T01:06:20.982989+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 146
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "stars": 90032,
+      "forks": 21202,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:38:56Z",
+      "pushed_at": "2026-08-26T00:38:50Z",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "html_url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "collected_at": "2026-08-26T01:06:17.339186+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 129
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 143005,
+      "forks": 22881,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:55:44Z",
+      "pushed_at": "2026-08-25T22:31:52Z",
+      "topics": [],
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "collected_at": "2026-08-26T01:06:21.370554+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 122
+    },
+    {
+      "repo": "langchain-ai/langgraph",
+      "stars": 40441,
+      "forks": 6824,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:59:15Z",
+      "pushed_at": "2026-08-25T22:15:17Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "collected_at": "2026-08-26T01:06:17.655290+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 67
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 60629,
+      "forks": 9150,
+      "language": "Python",
+      "updated_at": "2026-08-26T00:21:14Z",
+      "pushed_at": "2026-04-15T11:59:09Z",
+      "topics": [
+        "agentic",
+        "agentic-agi",
+        "agents",
+        "ai",
+        "autogen",
+        "autogen-ecosystem",
+        "chatgpt",
+        "framework",
+        "llm-agent",
+        "llm-framework"
+      ],
+      "html_url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "collected_at": "2026-08-26T01:06:23.662944+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 64
+    },
+    {
+      "repo": "sgl-project/sglang",
+      "stars": 32442,
+      "forks": 8203,
+      "language": "Python",
+      "updated_at": "2026-08-26T01:02:45Z",
+      "pushed_at": "2026-08-26T01:02:11Z",
+      "topics": [
+        "attention",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "diffusion",
+        "glm",
+        "gpt-oss",
+        "inference",
+        "llama",
+        "llm",
+        "minimax",
+        "moe",
+        "qwen",
+        "qwen-image",
+        "reinforcement-learning",
+        "transformer",
+        "vlm",
+        "wan"
+      ],
+      "html_url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "collected_at": "2026-08-26T01:06:19.115169+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 60
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 66842,
+      "forks": 7217,
+      "language": "TypeScript",
+      "updated_at": "2026-08-26T00:02:42Z",
+      "pushed_at": "2026-08-26T00:23:37Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-08-26T01:06:22.365643+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 51
+    },
+    {
+      "repo": "huggingface/transformers",
+      "stars": 164441,
+      "forks": 34363,
+      "language": "Python",
+      "updated_at": "2026-08-26T01:02:36Z",
+      "pushed_at": "2026-08-25T22:28:18Z",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "html_url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "collected_at": "2026-08-26T01:06:17.002737+00:00",
+      "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+      "stars_delta": 38
+    }
+  ],
+  "theme_sections": {
+    "point_rummy": {
+      "repos": [
+        {
+          "repo": "aabr2612/Indian-Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2026-05-23T11:59:45Z",
+          "pushed_at": "2026-05-23T11:59:01Z",
+          "topics": [],
+          "html_url": "https://github.com/aabr2612/Indian-Rummy",
+          "description": "About A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Abhishek230799/Rummy-301-points-counter",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2025-05-27T09:53:06Z",
+          "pushed_at": "2025-05-27T09:53:03Z",
+          "topics": [],
+          "html_url": "https://github.com/Abhishek230799/Rummy-301-points-counter",
+          "description": "Rummy 301 Points Counter Tired of scribbling down scores every time we played Rummy 301, I decided to build a simple Java Swing app to keep track of points automatically. Just enter player names, add rounds, and watch the app handle the rest — eliminating players who hit 301 and crowning the last one standing. Easy, fun, and saves paper!",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "abkcode/rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Sass",
+          "updated_at": "2021-02-01T04:20:35Z",
+          "pushed_at": "2021-02-01T04:20:33Z",
+          "topics": [],
+          "html_url": "https://github.com/abkcode/rummy",
+          "description": "Indian Rummy Game",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "abubakarmunir712/dsa-final-project",
+          "stars": 2,
+          "forks": 1,
+          "language": "Python",
+          "updated_at": "2026-06-27T06:34:26Z",
+          "pushed_at": "2026-06-27T06:34:22Z",
+          "topics": [],
+          "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+          "description": "A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "ajaydasm/rummy-point-tracker",
+          "stars": 0,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2025-08-29T11:50:21Z",
+          "pushed_at": "2025-08-29T11:53:32Z",
+          "topics": [],
+          "html_url": "https://github.com/ajaydasm/rummy-point-tracker",
+          "description": "",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Alan-seb/RummyVision",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2025-12-03T03:14:55Z",
+          "pushed_at": "2025-12-03T03:14:51Z",
+          "topics": [],
+          "html_url": "https://github.com/Alan-seb/RummyVision",
+          "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Aravind00Kumar/Indian-rummy-game",
+          "stars": 0,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2026-08-18T19:40:04Z",
+          "pushed_at": "2026-08-18T19:30:15Z",
+          "topics": [],
+          "html_url": "https://github.com/Aravind00Kumar/Indian-rummy-game",
+          "description": "",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "atamang1/Point-Keeping-App",
+          "stars": 0,
+          "forks": 0,
+          "language": "Swift",
+          "updated_at": "2026-07-30T15:07:23Z",
+          "pushed_at": "2026-07-30T15:00:54Z",
+          "topics": [],
+          "html_url": "https://github.com/atamang1/Point-Keeping-App",
+          "description": "Card Game Point tracker, such as rummy ",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "atreyayelishetti/indian-rummy-game-rust",
+          "stars": 1,
+          "forks": 0,
+          "language": "Rust",
+          "updated_at": "2026-05-12T00:25:17Z",
+          "pushed_at": "2026-05-03T06:24:35Z",
+          "topics": [],
+          "html_url": "https://github.com/atreyayelishetti/indian-rummy-game-rust",
+          "description": "indian-rummy-rust",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "bencesibin/rummy-points-calculator",
+          "stars": 0,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2022-02-16T17:37:32Z",
+          "pushed_at": "2022-02-16T19:33:37Z",
+          "topics": [],
+          "html_url": "https://github.com/bencesibin/rummy-points-calculator",
+          "description": "",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "codingmickey/rummy-points-calculator",
+          "stars": 1,
+          "forks": 0,
+          "language": "C++",
+          "updated_at": "2024-07-10T15:40:45Z",
+          "pushed_at": "2021-07-29T17:18:07Z",
+          "topics": [],
+          "html_url": "https://github.com/codingmickey/rummy-points-calculator",
+          "description": "A cpp progarm to calculate Rummy points of all the players for each round.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "debabrata-mandal/RummyPulse",
+          "stars": 1,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2026-08-19T04:34:20Z",
+          "pushed_at": "2026-08-19T04:40:44Z",
+          "topics": [
+            "android"
+          ],
+          "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+          "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "dv-rastogi/Rummy",
+          "stars": 5,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2023-09-26T11:21:39Z",
+          "pushed_at": "2021-09-06T11:28:51Z",
+          "topics": [],
+          "html_url": "https://github.com/dv-rastogi/Rummy",
+          "description": "Variation of classical Indian Rummy made in Pygame",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "eanisutkin/IndianRummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "C++",
+          "updated_at": "2021-07-05T07:53:35Z",
+          "pushed_at": "2021-07-05T07:53:32Z",
+          "topics": [],
+          "html_url": "https://github.com/eanisutkin/IndianRummy",
+          "description": "",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "guna-varathan/rummy-points",
+          "stars": 0,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2026-08-20T07:13:05Z",
+          "pushed_at": "2026-08-20T07:12:40Z",
+          "topics": [],
+          "html_url": "https://github.com/guna-varathan/rummy-points",
+          "description": "",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Hari-sys786/rummy-scoreboard",
+          "stars": 0,
+          "forks": 0,
+          "language": "Dart",
+          "updated_at": "2026-06-29T13:14:32Z",
+          "pushed_at": "2026-06-29T13:13:54Z",
+          "topics": [],
+          "html_url": "https://github.com/Hari-sys786/rummy-scoreboard",
+          "description": "Premium Flutter Android scoreboard for Indian Rummy — local storage, dealer rotation, drops tracking, round editing",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "imsaba16/IndianRummy-cli",
+          "stars": 0,
+          "forks": 0,
+          "language": "Swift",
+          "updated_at": "2026-08-07T11:45:28Z",
+          "pushed_at": "2026-08-07T11:43:24Z",
+          "topics": [],
+          "html_url": "https://github.com/imsaba16/IndianRummy-cli",
+          "description": "",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "karthikeyankkn/rummy-points",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2020-07-05T19:19:11Z",
+          "pushed_at": "2020-07-05T19:19:09Z",
+          "topics": [],
+          "html_url": "https://github.com/karthikeyankkn/rummy-points",
+          "description": "Now easy to maintain rummy points... :D",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "kas1336/Kasi-Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-06-01T10:38:08Z",
+          "pushed_at": "2026-06-01T10:38:04Z",
+          "topics": [],
+          "html_url": "https://github.com/kas1336/Kasi-Rummy",
+          "description": "Indian rummy",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "kikiongame/3-Plus-Games",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "2024-04-02T14:36:56Z",
+          "pushed_at": "2024-01-08T09:52:54Z",
+          "topics": [],
+          "html_url": "https://github.com/kikiongame/3-Plus-Games",
+          "description": "3 plus games is the best online gaming platform in india which offers you unlimited fun with real money, here you can play rummy (point, pool, deal), poker, carrom, ludo, snakes and ladders, 8 ball pool, call break and many more games play and win real money rewards",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Kurukshetran/WordRummy",
+          "stars": 1,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2023-07-19T09:33:14Z",
+          "pushed_at": "2014-01-21T12:40:45Z",
+          "topics": [],
+          "html_url": "https://github.com/Kurukshetran/WordRummy",
+          "description": "A creative android based multiplayer game which combines game play of Indian rummy and Word game for learning android sdk.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "manimsr18/rummy-",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "2020-08-17T16:26:28Z",
+          "pushed_at": "2020-08-17T16:26:25Z",
+          "topics": [],
+          "html_url": "https://github.com/manimsr18/rummy-",
+          "description": "Indian Rummy",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "market-lab-cmd/indian-card-games-hub",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-04-24T14:14:54Z",
+          "pushed_at": "2026-04-24T14:14:51Z",
+          "topics": [],
+          "html_url": "https://github.com/market-lab-cmd/indian-card-games-hub",
+          "description": "Educational resources and gameplay guides for popular Indian card games such as Teen Patti, Rummy, and Andar Bahar.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Mohitkumar-559/RummyServer",
+          "stars": 2,
+          "forks": 1,
+          "language": "JavaScript",
+          "updated_at": "2024-03-17T03:48:34Z",
+          "pushed_at": "2023-03-03T06:49:23Z",
+          "topics": [],
+          "html_url": "https://github.com/Mohitkumar-559/RummyServer",
+          "description": "Rummy game server for game that contain deal rummy and point rummy",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "mootoh/rummyjs",
+          "stars": 1,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2022-12-08T15:15:05Z",
+          "pushed_at": "2012-12-27T09:25:24Z",
+          "topics": [],
+          "html_url": "https://github.com/mootoh/rummyjs",
+          "description": "Indian Rummy in Javascript",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "mrgollapudi/rummy-scoreboard",
+          "stars": 1,
+          "forks": 0,
+          "language": "JavaScript",
+          "updated_at": "2025-07-08T12:46:51Z",
+          "pushed_at": "2025-07-08T12:46:48Z",
+          "topics": [],
+          "html_url": "https://github.com/mrgollapudi/rummy-scoreboard",
+          "description": "Scoreboard for Indian Rummy Card Game",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "mudont/indian-rummy",
+          "stars": 5,
+          "forks": 0,
+          "language": "TypeScript",
+          "updated_at": "2025-08-08T21:05:04Z",
+          "pushed_at": "2025-08-08T21:05:00Z",
+          "topics": [],
+          "html_url": "https://github.com/mudont/indian-rummy",
+          "description": "Typescript library for Indian Rummy card game",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "musukur/rummy-points",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2023-09-13T12:29:40Z",
+          "pushed_at": "2023-02-26T06:26:14Z",
+          "topics": [],
+          "html_url": "https://github.com/musukur/rummy-points",
+          "description": "",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Navomi1/RummyPointCounter",
+          "stars": 0,
+          "forks": 0,
+          "language": "Swift",
+          "updated_at": "2026-01-13T23:49:39Z",
+          "pushed_at": "2026-01-13T23:49:35Z",
+          "topics": [],
+          "html_url": "https://github.com/Navomi1/RummyPointCounter",
+          "description": "Count points while playing Rummy",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Nethaji003/rummy2",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-06-18T07:31:53Z",
+          "pushed_at": "2026-06-18T07:31:49Z",
+          "topics": [],
+          "html_url": "https://github.com/Nethaji003/rummy2",
+          "description": "point",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "pawanjanakiram/rss",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-08-09T21:39:48Z",
+          "pushed_at": "2026-08-09T21:39:20Z",
+          "topics": [],
+          "html_url": "https://github.com/pawanjanakiram/rss",
+          "description": "Indian Rummy Scoring and Settlement",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "rafana73/rummy_points",
+          "stars": 0,
+          "forks": 0,
+          "language": "PHP",
+          "updated_at": "2022-01-12T16:29:15Z",
+          "pushed_at": "2022-01-12T16:50:27Z",
+          "topics": [],
+          "html_url": "https://github.com/rafana73/rummy_points",
+          "description": "",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Rajgowthaman/rummy-or-cards-points-calculator",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2024-05-14T10:19:48Z",
+          "pushed_at": "2024-05-14T10:19:45Z",
+          "topics": [],
+          "html_url": "https://github.com/Rajgowthaman/rummy-or-cards-points-calculator",
+          "description": "",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "rrajasekpro/Indian_Rummy",
+          "stars": 1,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2025-10-24T20:51:01Z",
+          "pushed_at": "2025-10-24T20:50:57Z",
+          "topics": [],
+          "html_url": "https://github.com/rrajasekpro/Indian_Rummy",
+          "description": "",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "rsus4/The-Indian-Rummy",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2021-02-04T17:43:41Z",
+          "pushed_at": "2020-11-29T12:08:39Z",
+          "topics": [],
+          "html_url": "https://github.com/rsus4/The-Indian-Rummy",
+          "description": "",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "s-gup/IndianRummyGame",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2020-10-04T08:10:22Z",
+          "pushed_at": "2019-12-12T05:00:50Z",
+          "topics": [],
+          "html_url": "https://github.com/s-gup/IndianRummyGame",
+          "description": "using pygame ",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "sajith231/INDIAN_RUMMY",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2025-11-22T07:42:13Z",
+          "pushed_at": "2025-11-22T07:42:10Z",
+          "topics": [],
+          "html_url": "https://github.com/sajith231/INDIAN_RUMMY",
+          "description": "",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "samikshamodi/PointsRummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2021-06-01T21:14:14Z",
+          "pushed_at": "2021-05-31T21:09:13Z",
+          "topics": [],
+          "html_url": "https://github.com/samikshamodi/PointsRummy",
+          "description": "A GUI version of Points Rummy using pygame where you play against an intelligent computer opponent",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "selenakajal/Rummy-Nation",
+          "stars": 1,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "2020-07-26T04:01:09Z",
+          "pushed_at": "2020-07-07T13:24:12Z",
+          "topics": [],
+          "html_url": "https://github.com/selenakajal/Rummy-Nation",
+          "description": "Rummy, especially Indian rummy, is enjoyed by everyone in India above the age of eighteen. And now with technology reaching new heights, you can play rummy, win cash and sharpen your rummy-playing skills online. You can test your skills against players from around the country and beat them to win money!  Playing in Rummy nation is as simple as downloading the app. If you are new to the card game? Don’t worry! It has got you covered with practice games and free coins to feel more confident to earn money from it. It has also provided with rules to get started with.  Play Rummy and experience fun and excitement with the Rummy Nation App! Or you can simply visit www.rummynation.com on your mobile. Download the Rummy Nation Rummy mobile app on your Android Smartphones/Tablets and enjoy the game anywhere you like.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "sgummadala/RummyTracker",
+          "stars": 0,
+          "forks": 0,
+          "language": "Swift",
+          "updated_at": "2026-06-04T03:16:54Z",
+          "pushed_at": "2026-06-04T03:16:51Z",
+          "topics": [],
+          "html_url": "https://github.com/sgummadala/RummyTracker",
+          "description": "Indian Rummy score tracker — SwiftUI iOS app",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Shadowdog2002/Rummy-Online",
+          "stars": 0,
+          "forks": 0,
+          "language": "TypeScript",
+          "updated_at": "2026-03-28T04:25:00Z",
+          "pushed_at": "2026-03-28T04:24:56Z",
+          "topics": [],
+          "html_url": "https://github.com/Shadowdog2002/Rummy-Online",
+          "description": "Online Indian Rummy Game",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "shivayya-ln-21303/indian-rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2026-06-30T05:22:44Z",
+          "pushed_at": "2026-06-30T05:22:40Z",
+          "topics": [],
+          "html_url": "https://github.com/shivayya-ln-21303/indian-rummy",
+          "description": "Multiplayer Indian Rummy — Spring Boot 3 + React + WebSocket",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Soumyadeep-Kar2006/RummyPointCalculator",
+          "stars": 0,
+          "forks": 0,
+          "language": "HTML",
+          "updated_at": "2026-06-05T19:06:53Z",
+          "pushed_at": "2026-06-05T19:06:49Z",
+          "topics": [],
+          "html_url": "https://github.com/Soumyadeep-Kar2006/RummyPointCalculator",
+          "description": "",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "sowmyar1914/RUMMY013",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "2026-03-24T18:26:58Z",
+          "pushed_at": "2026-03-24T18:26:54Z",
+          "topics": [],
+          "html_url": "https://github.com/sowmyar1914/RUMMY013",
+          "description": "Indian Rummy game ",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "SRathinaGiri/IndianRummy",
+          "stars": 1,
+          "forks": 1,
+          "language": "JavaScript",
+          "updated_at": "2026-06-17T11:46:14Z",
+          "pushed_at": "2026-06-17T11:46:10Z",
+          "topics": [],
+          "html_url": "https://github.com/SRathinaGiri/IndianRummy",
+          "description": "Browser-based Indian Rummy game with AI play and offline Progressive Web App support.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Sruthiksha-source/Indian-Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Visual Basic .NET",
+          "updated_at": "2026-04-03T15:25:51Z",
+          "pushed_at": "2026-04-03T15:25:46Z",
+          "topics": [],
+          "html_url": "https://github.com/Sruthiksha-source/Indian-Rummy",
+          "description": "Online card game ",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "tushar2407/rummy",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2020-06-03T12:45:26Z",
+          "pushed_at": "2019-12-16T10:22:16Z",
+          "topics": [],
+          "html_url": "https://github.com/tushar2407/rummy",
+          "description": "A python coded Indian Rummy with interactive UI. ",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "vahsek300501/Indian-Rummy-",
+          "stars": 4,
+          "forks": 3,
+          "language": "Python",
+          "updated_at": "2023-09-26T11:21:46Z",
+          "pushed_at": "2019-12-15T20:03:51Z",
+          "topics": [],
+          "html_url": "https://github.com/vahsek300501/Indian-Rummy-",
+          "description": "Indian Rummy made in Python using PyGame",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "vdesmond/IRumAI",
+          "stars": 0,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2026-05-23T17:04:28Z",
+          "pushed_at": "2026-05-23T17:03:20Z",
+          "topics": [
+            "indian-rummy",
+            "reinforcement-learning",
+            "rummy",
+            "rummy-card-game"
+          ],
+          "html_url": "https://github.com/vdesmond/IRumAI",
+          "description": "Reinforcement learning agent for Indian Rummy.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "VishalNarayan/lirummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "TypeScript",
+          "updated_at": "2026-05-24T20:32:31Z",
+          "pushed_at": "2026-05-24T20:32:28Z",
+          "topics": [],
+          "html_url": "https://github.com/VishalNarayan/lirummy",
+          "description": "13-Card Indian Rummy multiplayer web game",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "VyanketeshNagpure/RummyApplication",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "2026-02-07T14:09:25Z",
+          "pushed_at": "2026-02-07T14:09:21Z",
+          "topics": [],
+          "html_url": "https://github.com/VyanketeshNagpure/RummyApplication",
+          "description": "2 to 4 player indian rummy with some twists",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        }
+      ],
+      "high_star_top10": [
+        {
+          "repo": "dv-rastogi/Rummy",
+          "stars": 5,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2023-09-26T11:21:39Z",
+          "pushed_at": "2021-09-06T11:28:51Z",
+          "topics": [],
+          "html_url": "https://github.com/dv-rastogi/Rummy",
+          "description": "Variation of classical Indian Rummy made in Pygame",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "mudont/indian-rummy",
+          "stars": 5,
+          "forks": 0,
+          "language": "TypeScript",
+          "updated_at": "2025-08-08T21:05:04Z",
+          "pushed_at": "2025-08-08T21:05:00Z",
+          "topics": [],
+          "html_url": "https://github.com/mudont/indian-rummy",
+          "description": "Typescript library for Indian Rummy card game",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "vahsek300501/Indian-Rummy-",
+          "stars": 4,
+          "forks": 3,
+          "language": "Python",
+          "updated_at": "2023-09-26T11:21:46Z",
+          "pushed_at": "2019-12-15T20:03:51Z",
+          "topics": [],
+          "html_url": "https://github.com/vahsek300501/Indian-Rummy-",
+          "description": "Indian Rummy made in Python using PyGame",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "abubakarmunir712/dsa-final-project",
+          "stars": 2,
+          "forks": 1,
+          "language": "Python",
+          "updated_at": "2026-06-27T06:34:26Z",
+          "pushed_at": "2026-06-27T06:34:22Z",
+          "topics": [],
+          "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+          "description": "A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Mohitkumar-559/RummyServer",
+          "stars": 2,
+          "forks": 1,
+          "language": "JavaScript",
+          "updated_at": "2024-03-17T03:48:34Z",
+          "pushed_at": "2023-03-03T06:49:23Z",
+          "topics": [],
+          "html_url": "https://github.com/Mohitkumar-559/RummyServer",
+          "description": "Rummy game server for game that contain deal rummy and point rummy",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Alan-seb/RummyVision",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2025-12-03T03:14:55Z",
+          "pushed_at": "2025-12-03T03:14:51Z",
+          "topics": [],
+          "html_url": "https://github.com/Alan-seb/RummyVision",
+          "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "atreyayelishetti/indian-rummy-game-rust",
+          "stars": 1,
+          "forks": 0,
+          "language": "Rust",
+          "updated_at": "2026-05-12T00:25:17Z",
+          "pushed_at": "2026-05-03T06:24:35Z",
+          "topics": [],
+          "html_url": "https://github.com/atreyayelishetti/indian-rummy-game-rust",
+          "description": "indian-rummy-rust",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "codingmickey/rummy-points-calculator",
+          "stars": 1,
+          "forks": 0,
+          "language": "C++",
+          "updated_at": "2024-07-10T15:40:45Z",
+          "pushed_at": "2021-07-29T17:18:07Z",
+          "topics": [],
+          "html_url": "https://github.com/codingmickey/rummy-points-calculator",
+          "description": "A cpp progarm to calculate Rummy points of all the players for each round.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "debabrata-mandal/RummyPulse",
+          "stars": 1,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2026-08-19T04:34:20Z",
+          "pushed_at": "2026-08-19T04:40:44Z",
+          "topics": [
+            "android"
+          ],
+          "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+          "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Kurukshetran/WordRummy",
+          "stars": 1,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2023-07-19T09:33:14Z",
+          "pushed_at": "2014-01-21T12:40:45Z",
+          "topics": [],
+          "html_url": "https://github.com/Kurukshetran/WordRummy",
+          "description": "A creative android based multiplayer game which combines game play of Indian rummy and Word game for learning android sdk.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": null,
+          "growth_basis": "cold_start_proxy_updated_or_stars",
+          "themes": [
+            "point_rummy"
+          ]
+        }
+      ],
+      "growth_top10": [
+        {
+          "repo": "dv-rastogi/Rummy",
+          "stars": 5,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2023-09-26T11:21:39Z",
+          "pushed_at": "2021-09-06T11:28:51Z",
+          "topics": [],
+          "html_url": "https://github.com/dv-rastogi/Rummy",
+          "description": "Variation of classical Indian Rummy made in Pygame",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "mudont/indian-rummy",
+          "stars": 5,
+          "forks": 0,
+          "language": "TypeScript",
+          "updated_at": "2025-08-08T21:05:04Z",
+          "pushed_at": "2025-08-08T21:05:00Z",
+          "topics": [],
+          "html_url": "https://github.com/mudont/indian-rummy",
+          "description": "Typescript library for Indian Rummy card game",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "vahsek300501/Indian-Rummy-",
+          "stars": 4,
+          "forks": 3,
+          "language": "Python",
+          "updated_at": "2023-09-26T11:21:46Z",
+          "pushed_at": "2019-12-15T20:03:51Z",
+          "topics": [],
+          "html_url": "https://github.com/vahsek300501/Indian-Rummy-",
+          "description": "Indian Rummy made in Python using PyGame",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "abubakarmunir712/dsa-final-project",
+          "stars": 2,
+          "forks": 1,
+          "language": "Python",
+          "updated_at": "2026-06-27T06:34:26Z",
+          "pushed_at": "2026-06-27T06:34:22Z",
+          "topics": [],
+          "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+          "description": "A Python-based multiplayer Indian Rummy game with support for AI opponents and LAN play. Implements data structures like linked lists, stacks, queues, hashmaps, and graphs to ensure efficient gameplay and intelligent AI decisions.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Mohitkumar-559/RummyServer",
+          "stars": 2,
+          "forks": 1,
+          "language": "JavaScript",
+          "updated_at": "2024-03-17T03:48:34Z",
+          "pushed_at": "2023-03-03T06:49:23Z",
+          "topics": [],
+          "html_url": "https://github.com/Mohitkumar-559/RummyServer",
+          "description": "Rummy game server for game that contain deal rummy and point rummy",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Alan-seb/RummyVision",
+          "stars": 1,
+          "forks": 0,
+          "language": "Python",
+          "updated_at": "2025-12-03T03:14:55Z",
+          "pushed_at": "2025-12-03T03:14:51Z",
+          "topics": [],
+          "html_url": "https://github.com/Alan-seb/RummyVision",
+          "description": "RummyVision is an intelligent card game assistant that combines computer vision with Monte Carlo simulation to help you make better decisions in Rummy. Point your iPhone camera at your hand, and get real-time card recognition and strategic discard suggestions powered by AI.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "atreyayelishetti/indian-rummy-game-rust",
+          "stars": 1,
+          "forks": 0,
+          "language": "Rust",
+          "updated_at": "2026-05-12T00:25:17Z",
+          "pushed_at": "2026-05-03T06:24:35Z",
+          "topics": [],
+          "html_url": "https://github.com/atreyayelishetti/indian-rummy-game-rust",
+          "description": "indian-rummy-rust",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "codingmickey/rummy-points-calculator",
+          "stars": 1,
+          "forks": 0,
+          "language": "C++",
+          "updated_at": "2024-07-10T15:40:45Z",
+          "pushed_at": "2021-07-29T17:18:07Z",
+          "topics": [],
+          "html_url": "https://github.com/codingmickey/rummy-points-calculator",
+          "description": "A cpp progarm to calculate Rummy points of all the players for each round.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "debabrata-mandal/RummyPulse",
+          "stars": 1,
+          "forks": 0,
+          "language": "Java",
+          "updated_at": "2026-08-19T04:34:20Z",
+          "pushed_at": "2026-08-19T04:40:44Z",
+          "topics": [
+            "android"
+          ],
+          "html_url": "https://github.com/debabrata-mandal/RummyPulse",
+          "description": "RummyPulse - Smart Rummy Game Analytics & Management Android App with Firebase integration, Google Sign-In authentication, expandable monthly reports, point value analytics, and real-time GST calculations. Features professional dark theme UI, automated CI/CD pipeline, and comprehensive player score tracking.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "SRathinaGiri/IndianRummy",
+          "stars": 1,
+          "forks": 1,
+          "language": "JavaScript",
+          "updated_at": "2026-06-17T11:46:14Z",
+          "pushed_at": "2026-06-17T11:46:10Z",
+          "topics": [],
+          "html_url": "https://github.com/SRathinaGiri/IndianRummy",
+          "description": "Browser-based Indian Rummy game with AI play and offline Progressive Web App support.",
+          "collected_at": "2026-08-26T01:01:21.130918+00:00",
+          "stars_delta": 0,
+          "growth_basis": "historical_snapshot",
+          "themes": [
+            "point_rummy"
+          ]
+        }
+      ]
+    },
+    "loop_engineer": {
+      "repos": [
+        {
+          "repo": "huggingface/transformers",
+          "stars": 164441,
+          "forks": 34363,
+          "language": "Python",
+          "updated_at": "2026-08-26T01:02:36Z",
+          "pushed_at": "2026-08-25T22:28:18Z",
+          "topics": [
+            "audio",
+            "deep-learning",
+            "deepseek",
+            "gemma",
+            "glm",
+            "hacktoberfest",
+            "llm",
+            "machine-learning",
+            "model-hub",
+            "natural-language-processing",
+            "nlp",
+            "pretrained-models",
+            "python",
+            "pytorch",
+            "pytorch-transformers",
+            "qwen",
+            "speech-recognition",
+            "transformer",
+            "vlm"
+          ],
+          "html_url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+          "collected_at": "2026-08-26T01:06:17.002737+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 38
+        },
+        {
+          "repo": "vllm-project/vllm",
+          "stars": 90032,
+          "forks": 21202,
+          "language": "Python",
+          "updated_at": "2026-08-26T00:38:56Z",
+          "pushed_at": "2026-08-26T00:38:50Z",
+          "topics": [
+            "amd",
+            "blackwell",
+            "cuda",
+            "deepseek",
+            "deepseek-v3",
+            "gpt",
+            "gpt-oss",
+            "inference",
+            "kimi",
+            "llama",
+            "llm",
+            "llm-serving",
+            "model-serving",
+            "moe",
+            "openai",
+            "pytorch",
+            "qwen",
+            "qwen3",
+            "tpu",
+            "transformer"
+          ],
+          "html_url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "collected_at": "2026-08-26T01:06:17.339186+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 129
+        },
+        {
+          "repo": "langchain-ai/langgraph",
+          "stars": 40441,
+          "forks": 6824,
+          "language": "Python",
+          "updated_at": "2026-08-26T00:59:15Z",
+          "pushed_at": "2026-08-25T22:15:17Z",
+          "topics": [
+            "agents",
+            "ai",
+            "ai-agents",
+            "chatgpt",
+            "deepagents",
+            "enterprise",
+            "framework",
+            "gemini",
+            "generative-ai",
+            "langchain",
+            "langgraph",
+            "llm",
+            "multiagent",
+            "open-source",
+            "openai",
+            "pydantic",
+            "python",
+            "rag"
+          ],
+          "html_url": "https://github.com/langchain-ai/langgraph",
+          "description": "Build resilient agents.",
+          "collected_at": "2026-08-26T01:06:17.655290+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 67
+        },
+        {
+          "repo": "sgl-project/sglang",
+          "stars": 32442,
+          "forks": 8203,
+          "language": "Python",
+          "updated_at": "2026-08-26T01:02:45Z",
+          "pushed_at": "2026-08-26T01:02:11Z",
+          "topics": [
+            "attention",
+            "blackwell",
+            "cuda",
+            "deepseek",
+            "diffusion",
+            "glm",
+            "gpt-oss",
+            "inference",
+            "llama",
+            "llm",
+            "minimax",
+            "moe",
+            "qwen",
+            "qwen-image",
+            "reinforcement-learning",
+            "transformer",
+            "vlm",
+            "wan"
+          ],
+          "html_url": "https://github.com/sgl-project/sglang",
+          "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+          "collected_at": "2026-08-26T01:06:19.115169+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 60
+        },
+        {
+          "repo": "OpenRLHF/OpenRLHF",
+          "stars": 9954,
+          "forks": 1005,
+          "language": "Python",
+          "updated_at": "2026-08-25T22:02:38Z",
+          "pushed_at": "2026-08-13T11:26:24Z",
+          "topics": [
+            "large-language-models",
+            "proximal-policy-optimization",
+            "raylib",
+            "reinforcement-learning",
+            "reinforcement-learning-from-human-feedback",
+            "transformers",
+            "visual-language-models",
+            "vllm"
+          ],
+          "html_url": "https://github.com/OpenRLHF/OpenRLHF",
+          "description": "An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL)",
+          "collected_at": "2026-08-26T01:06:20.328853+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 4
+        },
+        {
+          "repo": "browser-use/browser-use",
+          "stars": 110517,
+          "forks": 12162,
+          "language": "Python",
+          "updated_at": "2026-08-26T00:46:24Z",
+          "pushed_at": "2026-08-26T00:16:01Z",
+          "topics": [
+            "ai-agents",
+            "ai-tools",
+            "browser-automation",
+            "browser-use",
+            "llm",
+            "playwright",
+            "python"
+          ],
+          "html_url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "collected_at": "2026-08-26T01:06:20.982989+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 146
+        },
+        {
+          "repo": "anthropics/claude-code",
+          "stars": 143005,
+          "forks": 22881,
+          "language": "Python",
+          "updated_at": "2026-08-26T00:55:44Z",
+          "pushed_at": "2026-08-25T22:31:52Z",
+          "topics": [],
+          "html_url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "collected_at": "2026-08-26T01:06:21.370554+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 122
+        },
+        {
+          "repo": "openai/codex",
+          "stars": 118119,
+          "forks": 18000,
+          "language": "Rust",
+          "updated_at": "2026-08-26T01:06:08Z",
+          "pushed_at": "2026-08-26T01:04:44Z",
+          "topics": [],
+          "html_url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "collected_at": "2026-08-26T01:06:21.694244+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 1064
+        },
+        {
+          "repo": "QwenLM/qwen-code",
+          "stars": 27373,
+          "forks": 2935,
+          "language": "TypeScript",
+          "updated_at": "2026-08-26T00:48:51Z",
+          "pushed_at": "2026-08-26T00:53:10Z",
+          "topics": [
+            "agentic",
+            "ai",
+            "ai-agent",
+            "ai-coding",
+            "cli",
+            "coding-agent",
+            "developer-tools",
+            "llm",
+            "mcp",
+            "qwen",
+            "terminal",
+            "typescript"
+          ],
+          "html_url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "collected_at": "2026-08-26T01:06:22.021894+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 35
+        },
+        {
+          "repo": "cline/cline",
+          "stars": 66842,
+          "forks": 7217,
+          "language": "TypeScript",
+          "updated_at": "2026-08-26T00:02:42Z",
+          "pushed_at": "2026-08-26T00:23:37Z",
+          "topics": [],
+          "html_url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+          "collected_at": "2026-08-26T01:06:22.365643+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 51
+        },
+        {
+          "repo": "RooCodeInc/Roo-Code",
+          "stars": 24325,
+          "forks": 3415,
+          "language": "TypeScript",
+          "updated_at": "2026-08-25T14:23:32Z",
+          "pushed_at": "2026-05-15T18:08:47Z",
+          "topics": [],
+          "html_url": "https://github.com/RooCodeInc/Roo-Code",
+          "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+          "collected_at": "2026-08-26T01:06:22.685402+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": -3
+        },
+        {
+          "repo": "continuedev/continue",
+          "stars": 35636,
+          "forks": 5288,
+          "language": "TypeScript",
+          "updated_at": "2026-08-25T23:29:56Z",
+          "pushed_at": "2026-08-25T12:21:44Z",
+          "topics": [
+            "agent",
+            "ai",
+            "cli",
+            "developer-tools",
+            "open-source"
+          ],
+          "html_url": "https://github.com/continuedev/continue",
+          "description": "open-source coding agent",
+          "collected_at": "2026-08-26T01:06:22.998348+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 22
+        },
+        {
+          "repo": "google-gemini/gemini-cli",
+          "stars": 106685,
+          "forks": 14484,
+          "language": "TypeScript",
+          "updated_at": "2026-08-26T00:45:58Z",
+          "pushed_at": "2026-08-26T01:01:06Z",
+          "topics": [
+            "ai",
+            "ai-agents",
+            "cli",
+            "gemini",
+            "gemini-api",
+            "mcp-client",
+            "mcp-server"
+          ],
+          "html_url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "collected_at": "2026-08-26T01:06:23.322805+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 23
+        },
+        {
+          "repo": "microsoft/autogen",
+          "stars": 60629,
+          "forks": 9150,
+          "language": "Python",
+          "updated_at": "2026-08-26T00:21:14Z",
+          "pushed_at": "2026-04-15T11:59:09Z",
+          "topics": [
+            "agentic",
+            "agentic-agi",
+            "agents",
+            "ai",
+            "autogen",
+            "autogen-ecosystem",
+            "chatgpt",
+            "framework",
+            "llm-agent",
+            "llm-framework"
+          ],
+          "html_url": "https://github.com/microsoft/autogen",
+          "description": "A programming framework for agentic AI",
+          "collected_at": "2026-08-26T01:06:23.662944+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 64
+        },
+        {
+          "repo": "microsoft/semantic-kernel",
+          "stars": 28500,
+          "forks": 4741,
+          "language": "C#",
+          "updated_at": "2026-08-26T00:02:54Z",
+          "pushed_at": "2026-08-25T10:44:29Z",
+          "topics": [
+            "ai",
+            "artificial-intelligence",
+            "llm",
+            "openai",
+            "sdk"
+          ],
+          "html_url": "https://github.com/microsoft/semantic-kernel",
+          "description": "Integrate cutting-edge LLM technology quickly and easily into your apps",
+          "collected_at": "2026-08-26T01:06:23.975706+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 30
+        },
+        {
+          "repo": "crewAIInc/crewAI",
+          "stars": 57611,
+          "forks": 8246,
+          "language": "Python",
+          "updated_at": "2026-08-26T01:01:47Z",
+          "pushed_at": "2026-08-26T00:43:56Z",
+          "topics": [
+            "agents",
+            "ai",
+            "ai-agents",
+            "aiagentframework",
+            "llms"
+          ],
+          "html_url": "https://github.com/crewAIInc/crewAI",
+          "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+          "collected_at": "2026-08-26T01:06:24.287100+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 854
+        },
+        {
+          "repo": "openai/openai-agents-python",
+          "stars": 28961,
+          "forks": 4592,
+          "language": "Python",
+          "updated_at": "2026-08-26T01:02:51Z",
+          "pushed_at": "2026-08-25T07:11:27Z",
+          "topics": [
+            "agents",
+            "ai",
+            "framework",
+            "harness",
+            "llm",
+            "openai",
+            "python"
+          ],
+          "html_url": "https://github.com/openai/openai-agents-python",
+          "description": "A lightweight, powerful framework for multi-agent workflows",
+          "collected_at": "2026-08-26T01:06:24.594468+00:00",
+          "growth_basis": "direct watched repo fallback / 非完整全网日增",
+          "stars_delta": null
+        }
+      ],
+      "high_star_top10": [
+        {
+          "repo": "huggingface/transformers",
+          "stars": 164441,
+          "forks": 34363,
+          "language": "Python",
+          "updated_at": "2026-08-26T01:02:36Z",
+          "pushed_at": "2026-08-25T22:28:18Z",
+          "topics": [
+            "audio",
+            "deep-learning",
+            "deepseek",
+            "gemma",
+            "glm",
+            "hacktoberfest",
+            "llm",
+            "machine-learning",
+            "model-hub",
+            "natural-language-processing",
+            "nlp",
+            "pretrained-models",
+            "python",
+            "pytorch",
+            "pytorch-transformers",
+            "qwen",
+            "speech-recognition",
+            "transformer",
+            "vlm"
+          ],
+          "html_url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+          "collected_at": "2026-08-26T01:06:17.002737+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 38
+        },
+        {
+          "repo": "anthropics/claude-code",
+          "stars": 143005,
+          "forks": 22881,
+          "language": "Python",
+          "updated_at": "2026-08-26T00:55:44Z",
+          "pushed_at": "2026-08-25T22:31:52Z",
+          "topics": [],
+          "html_url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "collected_at": "2026-08-26T01:06:21.370554+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 122
+        },
+        {
+          "repo": "openai/codex",
+          "stars": 118119,
+          "forks": 18000,
+          "language": "Rust",
+          "updated_at": "2026-08-26T01:06:08Z",
+          "pushed_at": "2026-08-26T01:04:44Z",
+          "topics": [],
+          "html_url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "collected_at": "2026-08-26T01:06:21.694244+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 1064
+        },
+        {
+          "repo": "browser-use/browser-use",
+          "stars": 110517,
+          "forks": 12162,
+          "language": "Python",
+          "updated_at": "2026-08-26T00:46:24Z",
+          "pushed_at": "2026-08-26T00:16:01Z",
+          "topics": [
+            "ai-agents",
+            "ai-tools",
+            "browser-automation",
+            "browser-use",
+            "llm",
+            "playwright",
+            "python"
+          ],
+          "html_url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "collected_at": "2026-08-26T01:06:20.982989+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 146
+        },
+        {
+          "repo": "google-gemini/gemini-cli",
+          "stars": 106685,
+          "forks": 14484,
+          "language": "TypeScript",
+          "updated_at": "2026-08-26T00:45:58Z",
+          "pushed_at": "2026-08-26T01:01:06Z",
+          "topics": [
+            "ai",
+            "ai-agents",
+            "cli",
+            "gemini",
+            "gemini-api",
+            "mcp-client",
+            "mcp-server"
+          ],
+          "html_url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "collected_at": "2026-08-26T01:06:23.322805+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 23
+        },
+        {
+          "repo": "vllm-project/vllm",
+          "stars": 90032,
+          "forks": 21202,
+          "language": "Python",
+          "updated_at": "2026-08-26T00:38:56Z",
+          "pushed_at": "2026-08-26T00:38:50Z",
+          "topics": [
+            "amd",
+            "blackwell",
+            "cuda",
+            "deepseek",
+            "deepseek-v3",
+            "gpt",
+            "gpt-oss",
+            "inference",
+            "kimi",
+            "llama",
+            "llm",
+            "llm-serving",
+            "model-serving",
+            "moe",
+            "openai",
+            "pytorch",
+            "qwen",
+            "qwen3",
+            "tpu",
+            "transformer"
+          ],
+          "html_url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "collected_at": "2026-08-26T01:06:17.339186+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 129
+        },
+        {
+          "repo": "cline/cline",
+          "stars": 66842,
+          "forks": 7217,
+          "language": "TypeScript",
+          "updated_at": "2026-08-26T00:02:42Z",
+          "pushed_at": "2026-08-26T00:23:37Z",
+          "topics": [],
+          "html_url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+          "collected_at": "2026-08-26T01:06:22.365643+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 51
+        },
+        {
+          "repo": "microsoft/autogen",
+          "stars": 60629,
+          "forks": 9150,
+          "language": "Python",
+          "updated_at": "2026-08-26T00:21:14Z",
+          "pushed_at": "2026-04-15T11:59:09Z",
+          "topics": [
+            "agentic",
+            "agentic-agi",
+            "agents",
+            "ai",
+            "autogen",
+            "autogen-ecosystem",
+            "chatgpt",
+            "framework",
+            "llm-agent",
+            "llm-framework"
+          ],
+          "html_url": "https://github.com/microsoft/autogen",
+          "description": "A programming framework for agentic AI",
+          "collected_at": "2026-08-26T01:06:23.662944+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 64
+        },
+        {
+          "repo": "crewAIInc/crewAI",
+          "stars": 57611,
+          "forks": 8246,
+          "language": "Python",
+          "updated_at": "2026-08-26T01:01:47Z",
+          "pushed_at": "2026-08-26T00:43:56Z",
+          "topics": [
+            "agents",
+            "ai",
+            "ai-agents",
+            "aiagentframework",
+            "llms"
+          ],
+          "html_url": "https://github.com/crewAIInc/crewAI",
+          "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+          "collected_at": "2026-08-26T01:06:24.287100+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 854
+        },
+        {
+          "repo": "langchain-ai/langgraph",
+          "stars": 40441,
+          "forks": 6824,
+          "language": "Python",
+          "updated_at": "2026-08-26T00:59:15Z",
+          "pushed_at": "2026-08-25T22:15:17Z",
+          "topics": [
+            "agents",
+            "ai",
+            "ai-agents",
+            "chatgpt",
+            "deepagents",
+            "enterprise",
+            "framework",
+            "gemini",
+            "generative-ai",
+            "langchain",
+            "langgraph",
+            "llm",
+            "multiagent",
+            "open-source",
+            "openai",
+            "pydantic",
+            "python",
+            "rag"
+          ],
+          "html_url": "https://github.com/langchain-ai/langgraph",
+          "description": "Build resilient agents.",
+          "collected_at": "2026-08-26T01:06:17.655290+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 67
+        }
+      ],
+      "growth_top10": [
+        {
+          "repo": "openai/codex",
+          "stars": 118119,
+          "forks": 18000,
+          "language": "Rust",
+          "updated_at": "2026-08-26T01:06:08Z",
+          "pushed_at": "2026-08-26T01:04:44Z",
+          "topics": [],
+          "html_url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "collected_at": "2026-08-26T01:06:21.694244+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 1064
+        },
+        {
+          "repo": "crewAIInc/crewAI",
+          "stars": 57611,
+          "forks": 8246,
+          "language": "Python",
+          "updated_at": "2026-08-26T01:01:47Z",
+          "pushed_at": "2026-08-26T00:43:56Z",
+          "topics": [
+            "agents",
+            "ai",
+            "ai-agents",
+            "aiagentframework",
+            "llms"
+          ],
+          "html_url": "https://github.com/crewAIInc/crewAI",
+          "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+          "collected_at": "2026-08-26T01:06:24.287100+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 854
+        },
+        {
+          "repo": "browser-use/browser-use",
+          "stars": 110517,
+          "forks": 12162,
+          "language": "Python",
+          "updated_at": "2026-08-26T00:46:24Z",
+          "pushed_at": "2026-08-26T00:16:01Z",
+          "topics": [
+            "ai-agents",
+            "ai-tools",
+            "browser-automation",
+            "browser-use",
+            "llm",
+            "playwright",
+            "python"
+          ],
+          "html_url": "https://github.com/browser-use/browser-use",
+          "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+          "collected_at": "2026-08-26T01:06:20.982989+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 146
+        },
+        {
+          "repo": "vllm-project/vllm",
+          "stars": 90032,
+          "forks": 21202,
+          "language": "Python",
+          "updated_at": "2026-08-26T00:38:56Z",
+          "pushed_at": "2026-08-26T00:38:50Z",
+          "topics": [
+            "amd",
+            "blackwell",
+            "cuda",
+            "deepseek",
+            "deepseek-v3",
+            "gpt",
+            "gpt-oss",
+            "inference",
+            "kimi",
+            "llama",
+            "llm",
+            "llm-serving",
+            "model-serving",
+            "moe",
+            "openai",
+            "pytorch",
+            "qwen",
+            "qwen3",
+            "tpu",
+            "transformer"
+          ],
+          "html_url": "https://github.com/vllm-project/vllm",
+          "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+          "collected_at": "2026-08-26T01:06:17.339186+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 129
+        },
+        {
+          "repo": "anthropics/claude-code",
+          "stars": 143005,
+          "forks": 22881,
+          "language": "Python",
+          "updated_at": "2026-08-26T00:55:44Z",
+          "pushed_at": "2026-08-25T22:31:52Z",
+          "topics": [],
+          "html_url": "https://github.com/anthropics/claude-code",
+          "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+          "collected_at": "2026-08-26T01:06:21.370554+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 122
+        },
+        {
+          "repo": "langchain-ai/langgraph",
+          "stars": 40441,
+          "forks": 6824,
+          "language": "Python",
+          "updated_at": "2026-08-26T00:59:15Z",
+          "pushed_at": "2026-08-25T22:15:17Z",
+          "topics": [
+            "agents",
+            "ai",
+            "ai-agents",
+            "chatgpt",
+            "deepagents",
+            "enterprise",
+            "framework",
+            "gemini",
+            "generative-ai",
+            "langchain",
+            "langgraph",
+            "llm",
+            "multiagent",
+            "open-source",
+            "openai",
+            "pydantic",
+            "python",
+            "rag"
+          ],
+          "html_url": "https://github.com/langchain-ai/langgraph",
+          "description": "Build resilient agents.",
+          "collected_at": "2026-08-26T01:06:17.655290+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 67
+        },
+        {
+          "repo": "microsoft/autogen",
+          "stars": 60629,
+          "forks": 9150,
+          "language": "Python",
+          "updated_at": "2026-08-26T00:21:14Z",
+          "pushed_at": "2026-04-15T11:59:09Z",
+          "topics": [
+            "agentic",
+            "agentic-agi",
+            "agents",
+            "ai",
+            "autogen",
+            "autogen-ecosystem",
+            "chatgpt",
+            "framework",
+            "llm-agent",
+            "llm-framework"
+          ],
+          "html_url": "https://github.com/microsoft/autogen",
+          "description": "A programming framework for agentic AI",
+          "collected_at": "2026-08-26T01:06:23.662944+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 64
+        },
+        {
+          "repo": "sgl-project/sglang",
+          "stars": 32442,
+          "forks": 8203,
+          "language": "Python",
+          "updated_at": "2026-08-26T01:02:45Z",
+          "pushed_at": "2026-08-26T01:02:11Z",
+          "topics": [
+            "attention",
+            "blackwell",
+            "cuda",
+            "deepseek",
+            "diffusion",
+            "glm",
+            "gpt-oss",
+            "inference",
+            "llama",
+            "llm",
+            "minimax",
+            "moe",
+            "qwen",
+            "qwen-image",
+            "reinforcement-learning",
+            "transformer",
+            "vlm",
+            "wan"
+          ],
+          "html_url": "https://github.com/sgl-project/sglang",
+          "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+          "collected_at": "2026-08-26T01:06:19.115169+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 60
+        },
+        {
+          "repo": "cline/cline",
+          "stars": 66842,
+          "forks": 7217,
+          "language": "TypeScript",
+          "updated_at": "2026-08-26T00:02:42Z",
+          "pushed_at": "2026-08-26T00:23:37Z",
+          "topics": [],
+          "html_url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+          "collected_at": "2026-08-26T01:06:22.365643+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 51
+        },
+        {
+          "repo": "huggingface/transformers",
+          "stars": 164441,
+          "forks": 34363,
+          "language": "Python",
+          "updated_at": "2026-08-26T01:02:36Z",
+          "pushed_at": "2026-08-25T22:28:18Z",
+          "topics": [
+            "audio",
+            "deep-learning",
+            "deepseek",
+            "gemma",
+            "glm",
+            "hacktoberfest",
+            "llm",
+            "machine-learning",
+            "model-hub",
+            "natural-language-processing",
+            "nlp",
+            "pretrained-models",
+            "python",
+            "pytorch",
+            "pytorch-transformers",
+            "qwen",
+            "speech-recognition",
+            "transformer",
+            "vlm"
+          ],
+          "html_url": "https://github.com/huggingface/transformers",
+          "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+          "collected_at": "2026-08-26T01:06:17.002737+00:00",
+          "growth_basis": "cross-snapshot direct watched repo fallback / 非完整全网日增",
+          "stars_delta": 38
+        }
+      ]
+    }
+  },
+  "direct_fallback": true,
+  "direct_fallback_note": "GitHub Search 403/rate limit after early queries; broad and Loop tables augmented with authenticated direct GET watched repos. Growth is not complete all-GitHub daily growth."
+}
