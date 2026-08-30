@@ -1,0 +1,74 @@
+{
+  "date": "2026-08-30",
+  "files": [
+    "GitHub/AIInfra/2026-08-30/huggingface-transformers.md",
+    "GitHub/AIInfra/2026-08-30/anthropics-claude-code.md",
+    "GitHub/AIInfra/2026-08-30/openai-codex.md",
+    "GitHub/AIInfra/2026-08-30/browser-use-browser-use.md",
+    "GitHub/AIInfra/2026-08-30/google-gemini-gemini-cli.md",
+    "GitHub/AIInfra/2026-08-30/pytorch-pytorch.md",
+    "GitHub/AIInfra/2026-08-30/vllm-project-vllm.md",
+    "GitHub/AIInfra/2026-08-30/modelcontextprotocol-servers.md",
+    "GitHub/AIInfra/2026-08-30/cline-cline.md",
+    "GitHub/AIInfra/2026-08-30/microsoft-autogen.md",
+    "GitHub/LoopEngineer/2026-08-30/anthropics-claude-code.md",
+    "GitHub/LoopEngineer/2026-08-30/openai-codex.md",
+    "GitHub/LoopEngineer/2026-08-30/browser-use-browser-use.md",
+    "GitHub/LoopEngineer/2026-08-30/google-gemini-gemini-cli.md",
+    "GitHub/LoopEngineer/2026-08-30/modelcontextprotocol-servers.md",
+    "GitHub/LoopEngineer/2026-08-30/cline-cline.md",
+    "GitHub/LoopEngineer/2026-08-30/microsoft-autogen.md",
+    "GitHub/LoopEngineer/2026-08-30/crewAIInc-crewAI.md",
+    "GitHub/LoopEngineer/2026-08-30/langchain-ai-langgraph.md",
+    "GitHub/LoopEngineer/2026-08-30/continuedev-continue.md",
+    "GitHub/PointRummy/2026-08-30/nakkekakke-rummy-ai.md",
+    "GitHub/PointRummy/2026-08-30/jmhummel-Gin-Rummy-Java.md",
+    "GitHub/PointRummy/2026-08-30/mudont-indian-rummy.md",
+    "GitHub/PointRummy/2026-08-30/dv-rastogi-Rummy.md",
+    "GitHub/PointRummy/2026-08-30/SCFlanagan-Rummy.md",
+    "GitHub/PointRummy/2026-08-30/mcartmell-gin-rummy-bot.md",
+    "GitHub/PointRummy/2026-08-30/vahsek300501-Indian-Rummy.md",
+    "GitHub/PointRummy/2026-08-30/abubakarmunir712-dsa-final-project.md",
+    "GitHub/PointRummy/2026-08-30/rawbeen248-Gin-Rummy-AI-vs-Human.md",
+    "GitHub/PointRummy/2026-08-30/Mohitkumar-559-RummyServer.md",
+    "Papers/2026-08-30/WikiSkill-Compiling-Agent-Experience-into-Persistent-Knowledge-for-Ski.md",
+    "Papers/2026-08-30/SWE-Prime-Fewer-Trajectories-Better-Performance.md",
+    "Papers/2026-08-30/RedEvoAgent-Automatic-Red-Teaming-Agent-with-Experience-Driven-Skill-E.md",
+    "Papers/2026-08-30/Learning-a-Continuous-Sepsis-Severity-Score-Without-Hour-by-Hour-Super.md",
+    "Papers/2026-08-30/Scaling-Graph-Neural-Networks-for-Friend-Recommendation-Multi-Hash-Use.md",
+    "Industry/2026-08-30/Anthropic-Claude-Code-release-notes.md",
+    "Industry/2026-08-30/OpenAI-Codex-changelog.md",
+    "Industry/2026-08-30/NVIDIA-AI-technical-blog-watch.md",
+    "Daily/2026-08-30.md"
+  ],
+  "count": 39,
+  "snapshot": "/home/vscode-server/obsidian-ai-radar/Automation/state/github-stars-2026-08-30.json",
+  "github_errors": [
+    {
+      "query": "loop engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineer",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineer",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "harness engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    }
+  ],
+  "paper_errors": []
+}
