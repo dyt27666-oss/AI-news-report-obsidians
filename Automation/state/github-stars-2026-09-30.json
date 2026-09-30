@@ -1,0 +1,2985 @@
+{
+  "date": "2026-09-30",
+  "collected_at": "2026-09-30T01:07:27.304202+00:00",
+  "cold_start": false,
+  "baseline_available": true,
+  "queries": [
+    "point rummy",
+    "indian rummy",
+    "rummy ai",
+    "rummy reinforcement learning",
+    "gin rummy ai",
+    "loop engineering",
+    "loop engineer",
+    "harness engineering",
+    "coding agent loop",
+    "AGENTS.md harness",
+    "topic:artificial-intelligence stars:>1000",
+    "topic:llm stars:>500",
+    "topic:machine-learning stars:>1000",
+    "topic:reinforcement-learning stars:>100",
+    "topic:agents stars:>100",
+    "topic:inference stars:>100",
+    "topic:cuda stars:>100",
+    "topic:triton stars:>50",
+    "vllm OR sglang OR tensorrt-llm",
+    "grpo OR rlhf OR verl OR openrlhf",
+    "point rummy OR indian rummy OR rummy ai",
+    "rummy reinforcement learning OR rummy bot OR rummy simulation",
+    "loop engineering OR loop engineer OR harness engineering",
+    "coding agent loop OR agent loop design OR AGENTS.md harness"
+  ],
+  "theme_queries": {
+    "point_rummy": [
+      "point rummy",
+      "indian rummy",
+      "rummy ai",
+      "rummy reinforcement learning",
+      "gin rummy ai"
+    ],
+    "loop_engineer": [
+      "loop engineering",
+      "loop engineer",
+      "harness engineering",
+      "coding agent loop",
+      "AGENTS.md harness"
+    ]
+  },
+  "errors": [
+    {
+      "query": "point rummy",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "point rummy",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "indian rummy",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "indian rummy",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy ai",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy ai",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "gin rummy ai",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "gin rummy ai",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineer",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineer",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "harness engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "harness engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "AGENTS.md harness",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "AGENTS.md harness",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:artificial-intelligence stars:>1000",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:artificial-intelligence stars:>1000",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:llm stars:>500",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:llm stars:>500",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:machine-learning stars:>1000",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:machine-learning stars:>1000",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:reinforcement-learning stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:reinforcement-learning stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:agents stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:agents stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:inference stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:inference stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:cuda stars:>100",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:cuda stars:>100",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:triton stars:>50",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "topic:triton stars:>50",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "vllm OR sglang OR tensorrt-llm",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "vllm OR sglang OR tensorrt-llm",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "grpo OR rlhf OR verl OR openrlhf",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "grpo OR rlhf OR verl OR openrlhf",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "point rummy OR indian rummy OR rummy ai",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "point rummy OR indian rummy OR rummy ai",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning OR rummy bot OR rummy simulation",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "rummy reinforcement learning OR rummy bot OR rummy simulation",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering OR loop engineer OR harness engineering",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "loop engineering OR loop engineer OR harness engineering",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop OR agent loop design OR AGENTS.md harness",
+      "sort": "stars",
+      "error": "HTTP Error 403: rate limit exceeded"
+    },
+    {
+      "query": "coding agent loop OR agent loop design OR AGENTS.md harness",
+      "sort": "updated",
+      "error": "HTTP Error 403: rate limit exceeded"
+    }
+  ],
+  "repos": [
+    {
+      "repo": "huggingface/transformers",
+      "stars": 166826,
+      "forks": 34727,
+      "language": "Python",
+      "updated_at": "2026-09-30T00:56:11Z",
+      "pushed_at": "2026-09-29T23:11:39Z",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "html_url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 56,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "stars": 103527,
+      "forks": 31003,
+      "language": "Python",
+      "updated_at": "2026-09-30T01:06:59Z",
+      "pushed_at": "2026-09-30T01:06:46Z",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+      ],
+      "html_url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 58,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "stars": 92959,
+      "forks": 22813,
+      "language": "Python",
+      "updated_at": "2026-09-30T00:32:14Z",
+      "pushed_at": "2026-09-30T00:34:26Z",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "html_url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 70,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "stars": 90685,
+      "forks": 11711,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T00:19:47Z",
+      "pushed_at": "2026-09-29T13:39:48Z",
+      "topics": [],
+      "html_url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 37,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "stars": 89546,
+      "forks": 11816,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T00:55:02Z",
+      "pushed_at": "2026-09-30T01:03:38Z",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "llm",
+        "openai"
+      ],
+      "html_url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 133,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "sgl-project/sglang",
+      "stars": 36605,
+      "forks": 9212,
+      "language": "Python",
+      "updated_at": "2026-09-30T00:43:24Z",
+      "pushed_at": "2026-09-30T01:01:45Z",
+      "topics": [
+        "attention",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "diffusion",
+        "glm",
+        "gpt-oss",
+        "inference",
+        "llama",
+        "llm",
+        "minimax",
+        "moe",
+        "qwen",
+        "qwen-image",
+        "reinforcement-learning",
+        "transformer",
+        "vlm",
+        "wan"
+      ],
+      "html_url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 58,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "NVIDIA/TensorRT-LLM",
+      "stars": 14746,
+      "forks": 2781,
+      "language": "Python",
+      "updated_at": "2026-09-30T00:56:55Z",
+      "pushed_at": "2026-09-30T00:56:50Z",
+      "topics": [
+        "blackwell",
+        "cuda",
+        "llm-serving",
+        "moe",
+        "pytorch"
+      ],
+      "html_url": "https://github.com/NVIDIA/TensorRT-LLM",
+      "description": "TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 14,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "deepspeedai/DeepSpeed",
+      "stars": 43167,
+      "forks": 5018,
+      "language": "Python",
+      "updated_at": "2026-09-29T21:37:00Z",
+      "pushed_at": "2026-09-30T00:57:33Z",
+      "topics": [
+        "billion-parameters",
+        "compression",
+        "data-parallelism",
+        "deep-learning",
+        "gpu",
+        "inference",
+        "machine-learning",
+        "mixture-of-experts",
+        "model-parallelism",
+        "pipeline-parallelism",
+        "pytorch",
+        "trillion-parameters",
+        "zero"
+      ],
+      "html_url": "https://github.com/deepspeedai/DeepSpeed",
+      "description": "DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 4,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "NVIDIA/Megatron-LM",
+      "stars": 18034,
+      "forks": 4583,
+      "language": "Python",
+      "updated_at": "2026-09-29T23:59:37Z",
+      "pushed_at": "2026-09-30T00:45:50Z",
+      "topics": [
+        "large-language-models",
+        "model-para",
+        "transformers"
+      ],
+      "html_url": "https://github.com/NVIDIA/Megatron-LM",
+      "description": "Ongoing research training transformer models at scale",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 6,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "verl-project/verl",
+      "stars": 23699,
+      "forks": 4679,
+      "language": "Python",
+      "updated_at": "2026-09-29T23:05:49Z",
+      "pushed_at": "2026-09-29T23:50:22Z",
+      "topics": [],
+      "html_url": "https://github.com/verl-project/verl",
+      "description": "verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework ",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 23,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "OpenRLHF/OpenRLHF",
+      "stars": 10054,
+      "forks": 1032,
+      "language": "Python",
+      "updated_at": "2026-09-30T00:58:53Z",
+      "pushed_at": "2026-09-17T05:49:37Z",
+      "topics": [
+        "large-language-models",
+        "proximal-policy-optimization",
+        "raylib",
+        "reinforcement-learning",
+        "reinforcement-learning-from-human-feedback",
+        "transformers",
+        "visual-language-models",
+        "vllm"
+      ],
+      "html_url": "https://github.com/OpenRLHF/OpenRLHF",
+      "description": "An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL)",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 7,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "langchain-ai/langgraph",
+      "stars": 42482,
+      "forks": 7195,
+      "language": "Python",
+      "updated_at": "2026-09-30T00:59:49Z",
+      "pushed_at": "2026-09-29T16:44:15Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 56,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 61222,
+      "forks": 9269,
+      "language": "Python",
+      "updated_at": "2026-09-29T23:56:52Z",
+      "pushed_at": "2026-04-15T11:59:09Z",
+      "topics": [
+        "agentic",
+        "agentic-agi",
+        "agents",
+        "ai",
+        "autogen",
+        "autogen-ecosystem",
+        "chatgpt",
+        "framework",
+        "llm-agent",
+        "llm-framework"
+      ],
+      "html_url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 12,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "crewAIInc/crewAI",
+      "stars": 59195,
+      "forks": 8607,
+      "language": "Python",
+      "updated_at": "2026-09-29T23:56:54Z",
+      "pushed_at": "2026-09-29T23:02:58Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "aiagentframework",
+        "llms"
+      ],
+      "html_url": "https://github.com/crewAIInc/crewAI",
+      "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 45,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "openai/codex",
+      "stars": 127204,
+      "forks": 19876,
+      "language": "Rust",
+      "updated_at": "2026-09-30T01:07:24Z",
+      "pushed_at": "2026-09-30T00:51:56Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 227,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "stars": 107194,
+      "forks": 14664,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T00:55:49Z",
+      "pushed_at": "2026-09-29T22:20:07Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ],
+      "html_url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 15,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 69575,
+      "forks": 7552,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T00:18:08Z",
+      "pushed_at": "2026-09-30T00:49:32Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 74,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "RooCodeInc/Roo-Code",
+      "stars": 24290,
+      "forks": 3421,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T00:01:38Z",
+      "pushed_at": "2026-05-15T18:08:47Z",
+      "topics": [],
+      "html_url": "https://github.com/RooCodeInc/Roo-Code",
+      "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": -1,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "continuedev/continue",
+      "stars": 36066,
+      "forks": 5446,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T00:35:30Z",
+      "pushed_at": "2026-09-29T13:29:59Z",
+      "topics": [
+        "agent",
+        "ai",
+        "cli",
+        "developer-tools",
+        "open-source"
+      ],
+      "html_url": "https://github.com/continuedev/continue",
+      "description": "open-source coding agent",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 15,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "stars": 28224,
+      "forks": 3131,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T00:28:23Z",
+      "pushed_at": "2026-09-30T00:28:20Z",
+      "topics": [
+        "agentic",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "cli",
+        "coding-agent",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "qwen",
+        "terminal",
+        "typescript"
+      ],
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 54,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "Aider-AI/aider",
+      "stars": 49285,
+      "forks": 5016,
+      "language": "Python",
+      "updated_at": "2026-09-30T00:57:00Z",
+      "pushed_at": "2026-05-22T14:02:20Z",
+      "topics": [
+        "anthropic",
+        "chatgpt",
+        "claude-3",
+        "cli",
+        "command-line",
+        "gemini",
+        "gpt-3",
+        "gpt-35-turbo",
+        "gpt-4",
+        "gpt-4o",
+        "llama",
+        "openai",
+        "sonnet"
+      ],
+      "html_url": "https://github.com/Aider-AI/aider",
+      "description": "aider is AI pair programming in your terminal",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 49285,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 148591,
+      "forks": 25087,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T01:03:27Z",
+      "pushed_at": "2026-09-30T01:03:20Z",
+      "topics": [],
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": null,
+      "growth_basis": "冷启动代理，非真实日增",
+      "themes": []
+    },
+    {
+      "repo": "microsoft/vscode-copilot-release",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "未获取",
+      "pushed_at": "未获取",
+      "topics": [],
+      "html_url": "https://github.com/microsoft/vscode-copilot-release",
+      "description": "GitHub direct API 失败，保留 watched repo 占位。",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "fallback_error": "HTTP Error 403: rate limit exceeded",
+      "source": "direct /repos fallback failed",
+      "stars_delta": null,
+      "growth_basis": "冷启动代理，非真实日增",
+      "themes": []
+    },
+    {
+      "repo": "windsurf-ai/windsurf",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "未获取",
+      "pushed_at": "未获取",
+      "topics": [],
+      "html_url": "https://github.com/windsurf-ai/windsurf",
+      "description": "GitHub direct API 失败，保留 watched repo 占位。",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "fallback_error": "HTTP Error 403: rate limit exceeded",
+      "source": "direct /repos fallback failed",
+      "stars_delta": null,
+      "growth_basis": "冷启动代理，非真实日增",
+      "themes": []
+    },
+    {
+      "repo": "cursor/cursor",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "未获取",
+      "pushed_at": "未获取",
+      "topics": [],
+      "html_url": "https://github.com/cursor/cursor",
+      "description": "GitHub direct API 失败，保留 watched repo 占位。",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "fallback_error": "HTTP Error 403: rate limit exceeded",
+      "source": "direct /repos fallback failed",
+      "stars_delta": null,
+      "growth_basis": "冷启动代理，非真实日增",
+      "themes": []
+    },
+    {
+      "repo": "Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "未获取",
+      "pushed_at": "未获取",
+      "topics": [],
+      "html_url": "https://github.com/Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+      "description": "GitHub direct API 失败，保留 watched repo 占位。",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "fallback_error": "HTTP Error 403: rate limit exceeded",
+      "source": "direct /repos fallback failed",
+      "stars_delta": -2,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "AdithyaKV/IndianRummyAI",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "未获取",
+      "pushed_at": "未获取",
+      "topics": [],
+      "html_url": "https://github.com/AdithyaKV/IndianRummyAI",
+      "description": "GitHub direct API 失败，保留 watched repo 占位。",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "fallback_error": "HTTP Error 403: rate limit exceeded",
+      "source": "direct /repos fallback failed",
+      "stars_delta": 0,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "aabr2612/Indian-Rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "未获取",
+      "pushed_at": "未获取",
+      "topics": [],
+      "html_url": "https://github.com/aabr2612/Indian-Rummy",
+      "description": "GitHub direct API 失败，保留 watched repo 占位。",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "fallback_error": "HTTP Error 403: rate limit exceeded",
+      "source": "direct /repos fallback failed",
+      "stars_delta": 0,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "abubakarmunir712/dsa-final-project",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "未获取",
+      "pushed_at": "未获取",
+      "topics": [],
+      "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+      "description": "GitHub direct API 失败，保留 watched repo 占位。",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "fallback_error": "HTTP Error 403: rate limit exceeded",
+      "source": "direct /repos fallback failed",
+      "stars_delta": -2,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "aidanw33/cards-ai-bot",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "未获取",
+      "pushed_at": "未获取",
+      "topics": [],
+      "html_url": "https://github.com/aidanw33/cards-ai-bot",
+      "description": "GitHub direct API 失败，保留 watched repo 占位。",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "fallback_error": "HTTP Error 403: rate limit exceeded",
+      "source": "direct /repos fallback failed",
+      "stars_delta": 0,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Alan-seb/RummyVision",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "未获取",
+      "pushed_at": "未获取",
+      "topics": [],
+      "html_url": "https://github.com/Alan-seb/RummyVision",
+      "description": "GitHub direct API 失败，保留 watched repo 占位。",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "fallback_error": "HTTP Error 403: rate limit exceeded",
+      "source": "direct /repos fallback failed",
+      "stars_delta": -1,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "ajaydasm/rummy-point-tracker",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "未获取",
+      "pushed_at": "未获取",
+      "topics": [],
+      "html_url": "https://github.com/ajaydasm/rummy-point-tracker",
+      "description": "GitHub direct API 失败，保留 watched repo 占位。",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "fallback_error": "HTTP Error 403: rate limit exceeded",
+      "source": "direct /repos fallback failed",
+      "stars_delta": 0,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "Abhishek230799/Rummy-301-points-counter",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "未获取",
+      "pushed_at": "未获取",
+      "topics": [],
+      "html_url": "https://github.com/Abhishek230799/Rummy-301-points-counter",
+      "description": "GitHub direct API 失败，保留 watched repo 占位。",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "fallback_error": "HTTP Error 403: rate limit exceeded",
+      "source": "direct /repos fallback failed",
+      "stars_delta": 0,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "AjeyBharadwaj/Rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "未获取",
+      "pushed_at": "未获取",
+      "topics": [],
+      "html_url": "https://github.com/AjeyBharadwaj/Rummy",
+      "description": "GitHub direct API 失败，保留 watched repo 占位。",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "fallback_error": "HTTP Error 403: rate limit exceeded",
+      "source": "direct /repos fallback failed",
+      "stars_delta": -1,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "point_rummy"
+      ]
+    },
+    {
+      "repo": "abkcode/rummy",
+      "stars": 0,
+      "forks": 0,
+      "language": "Unknown",
+      "updated_at": "未获取",
+      "pushed_at": "未获取",
+      "topics": [],
+      "html_url": "https://github.com/abkcode/rummy",
+      "description": "GitHub direct API 失败，保留 watched repo 占位。",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "fallback_error": "HTTP Error 403: rate limit exceeded",
+      "source": "direct /repos fallback failed",
+      "stars_delta": 0,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "point_rummy"
+      ]
+    }
+  ],
+  "high_star_top10": [
+    {
+      "repo": "huggingface/transformers",
+      "stars": 166826,
+      "forks": 34727,
+      "language": "Python",
+      "updated_at": "2026-09-30T00:56:11Z",
+      "pushed_at": "2026-09-29T23:11:39Z",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "html_url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 56,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "anthropics/claude-code",
+      "stars": 148591,
+      "forks": 25087,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T01:03:27Z",
+      "pushed_at": "2026-09-30T01:03:20Z",
+      "topics": [],
+      "html_url": "https://github.com/anthropics/claude-code",
+      "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": null,
+      "growth_basis": "冷启动代理，非真实日增",
+      "themes": []
+    },
+    {
+      "repo": "openai/codex",
+      "stars": 127204,
+      "forks": 19876,
+      "language": "Rust",
+      "updated_at": "2026-09-30T01:07:24Z",
+      "pushed_at": "2026-09-30T00:51:56Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 227,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "google-gemini/gemini-cli",
+      "stars": 107194,
+      "forks": 14664,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T00:55:49Z",
+      "pushed_at": "2026-09-29T22:20:07Z",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "cli",
+        "gemini",
+        "gemini-api",
+        "mcp-client",
+        "mcp-server"
+      ],
+      "html_url": "https://github.com/google-gemini/gemini-cli",
+      "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 15,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "stars": 103527,
+      "forks": 31003,
+      "language": "Python",
+      "updated_at": "2026-09-30T01:06:59Z",
+      "pushed_at": "2026-09-30T01:06:46Z",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+      ],
+      "html_url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 58,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "stars": 92959,
+      "forks": 22813,
+      "language": "Python",
+      "updated_at": "2026-09-30T00:32:14Z",
+      "pushed_at": "2026-09-30T00:34:26Z",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "html_url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 70,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "modelcontextprotocol/servers",
+      "stars": 90685,
+      "forks": 11711,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T00:19:47Z",
+      "pushed_at": "2026-09-29T13:39:48Z",
+      "topics": [],
+      "html_url": "https://github.com/modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 37,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "stars": 89546,
+      "forks": 11816,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T00:55:02Z",
+      "pushed_at": "2026-09-30T01:03:38Z",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "llm",
+        "openai"
+      ],
+      "html_url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 133,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 69575,
+      "forks": 7552,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T00:18:08Z",
+      "pushed_at": "2026-09-30T00:49:32Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 74,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "microsoft/autogen",
+      "stars": 61222,
+      "forks": 9269,
+      "language": "Python",
+      "updated_at": "2026-09-29T23:56:52Z",
+      "pushed_at": "2026-04-15T11:59:09Z",
+      "topics": [
+        "agentic",
+        "agentic-agi",
+        "agents",
+        "ai",
+        "autogen",
+        "autogen-ecosystem",
+        "chatgpt",
+        "framework",
+        "llm-agent",
+        "llm-framework"
+      ],
+      "html_url": "https://github.com/microsoft/autogen",
+      "description": "A programming framework for agentic AI",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 12,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    }
+  ],
+  "growth_top10": [
+    {
+      "repo": "Aider-AI/aider",
+      "stars": 49285,
+      "forks": 5016,
+      "language": "Python",
+      "updated_at": "2026-09-30T00:57:00Z",
+      "pushed_at": "2026-05-22T14:02:20Z",
+      "topics": [
+        "anthropic",
+        "chatgpt",
+        "claude-3",
+        "cli",
+        "command-line",
+        "gemini",
+        "gpt-3",
+        "gpt-35-turbo",
+        "gpt-4",
+        "gpt-4o",
+        "llama",
+        "openai",
+        "sonnet"
+      ],
+      "html_url": "https://github.com/Aider-AI/aider",
+      "description": "aider is AI pair programming in your terminal",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 49285,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "openai/codex",
+      "stars": 127204,
+      "forks": 19876,
+      "language": "Rust",
+      "updated_at": "2026-09-30T01:07:24Z",
+      "pushed_at": "2026-09-30T00:51:56Z",
+      "topics": [],
+      "html_url": "https://github.com/openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 227,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "OpenHands/OpenHands",
+      "stars": 89546,
+      "forks": 11816,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T00:55:02Z",
+      "pushed_at": "2026-09-30T01:03:38Z",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "llm",
+        "openai"
+      ],
+      "html_url": "https://github.com/OpenHands/OpenHands",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 133,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "cline/cline",
+      "stars": 69575,
+      "forks": 7552,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T00:18:08Z",
+      "pushed_at": "2026-09-30T00:49:32Z",
+      "topics": [],
+      "html_url": "https://github.com/cline/cline",
+      "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 74,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "vllm-project/vllm",
+      "stars": 92959,
+      "forks": 22813,
+      "language": "Python",
+      "updated_at": "2026-09-30T00:32:14Z",
+      "pushed_at": "2026-09-30T00:34:26Z",
+      "topics": [
+        "amd",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "deepseek-v3",
+        "gpt",
+        "gpt-oss",
+        "inference",
+        "kimi",
+        "llama",
+        "llm",
+        "llm-serving",
+        "model-serving",
+        "moe",
+        "openai",
+        "pytorch",
+        "qwen",
+        "qwen3",
+        "tpu",
+        "transformer"
+      ],
+      "html_url": "https://github.com/vllm-project/vllm",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 70,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "pytorch/pytorch",
+      "stars": 103527,
+      "forks": 31003,
+      "language": "Python",
+      "updated_at": "2026-09-30T01:06:59Z",
+      "pushed_at": "2026-09-30T01:06:46Z",
+      "topics": [
+        "autograd",
+        "deep-learning",
+        "gpu",
+        "machine-learning",
+        "neural-network",
+        "numpy",
+        "python",
+        "tensor"
+      ],
+      "html_url": "https://github.com/pytorch/pytorch",
+      "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 58,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "sgl-project/sglang",
+      "stars": 36605,
+      "forks": 9212,
+      "language": "Python",
+      "updated_at": "2026-09-30T00:43:24Z",
+      "pushed_at": "2026-09-30T01:01:45Z",
+      "topics": [
+        "attention",
+        "blackwell",
+        "cuda",
+        "deepseek",
+        "diffusion",
+        "glm",
+        "gpt-oss",
+        "inference",
+        "llama",
+        "llm",
+        "minimax",
+        "moe",
+        "qwen",
+        "qwen-image",
+        "reinforcement-learning",
+        "transformer",
+        "vlm",
+        "wan"
+      ],
+      "html_url": "https://github.com/sgl-project/sglang",
+      "description": "SGLang is a high-performance serving framework for large language models and multimodal models.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 58,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "huggingface/transformers",
+      "stars": 166826,
+      "forks": 34727,
+      "language": "Python",
+      "updated_at": "2026-09-30T00:56:11Z",
+      "pushed_at": "2026-09-29T23:11:39Z",
+      "topics": [
+        "audio",
+        "deep-learning",
+        "deepseek",
+        "gemma",
+        "glm",
+        "hacktoberfest",
+        "llm",
+        "machine-learning",
+        "model-hub",
+        "natural-language-processing",
+        "nlp",
+        "pretrained-models",
+        "python",
+        "pytorch",
+        "pytorch-transformers",
+        "qwen",
+        "speech-recognition",
+        "transformer",
+        "vlm"
+      ],
+      "html_url": "https://github.com/huggingface/transformers",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 56,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": []
+    },
+    {
+      "repo": "langchain-ai/langgraph",
+      "stars": 42482,
+      "forks": 7195,
+      "language": "Python",
+      "updated_at": "2026-09-30T00:59:49Z",
+      "pushed_at": "2026-09-29T16:44:15Z",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "chatgpt",
+        "deepagents",
+        "enterprise",
+        "framework",
+        "gemini",
+        "generative-ai",
+        "langchain",
+        "langgraph",
+        "llm",
+        "multiagent",
+        "open-source",
+        "openai",
+        "pydantic",
+        "python",
+        "rag"
+      ],
+      "html_url": "https://github.com/langchain-ai/langgraph",
+      "description": "Build resilient agents.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 56,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    },
+    {
+      "repo": "QwenLM/qwen-code",
+      "stars": 28224,
+      "forks": 3131,
+      "language": "TypeScript",
+      "updated_at": "2026-09-30T00:28:23Z",
+      "pushed_at": "2026-09-30T00:28:20Z",
+      "topics": [
+        "agentic",
+        "ai",
+        "ai-agent",
+        "ai-coding",
+        "cli",
+        "coding-agent",
+        "developer-tools",
+        "llm",
+        "mcp",
+        "qwen",
+        "terminal",
+        "typescript"
+      ],
+      "html_url": "https://github.com/QwenLM/qwen-code",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "collected_at": "2026-09-30T01:07:27.304202+00:00",
+      "source": "direct /repos fallback",
+      "stars_delta": 54,
+      "growth_basis": "direct watched repo fallback，非完整全网日增",
+      "themes": [
+        "loop_engineer"
+      ]
+    }
+  ],
+  "theme_sections": {
+    "point_rummy": {
+      "repos": [
+        {
+          "repo": "Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": -2,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "AdithyaKV/IndianRummyAI",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/AdithyaKV/IndianRummyAI",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "aabr2612/Indian-Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/aabr2612/Indian-Rummy",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "abubakarmunir712/dsa-final-project",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": -2,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "aidanw33/cards-ai-bot",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/aidanw33/cards-ai-bot",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Alan-seb/RummyVision",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/Alan-seb/RummyVision",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": -1,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "ajaydasm/rummy-point-tracker",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/ajaydasm/rummy-point-tracker",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Abhishek230799/Rummy-301-points-counter",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/Abhishek230799/Rummy-301-points-counter",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "AjeyBharadwaj/Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/AjeyBharadwaj/Rummy",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": -1,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "abkcode/rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/abkcode/rummy",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        }
+      ],
+      "high_star_top10": [
+        {
+          "repo": "Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": -2,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "AdithyaKV/IndianRummyAI",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/AdithyaKV/IndianRummyAI",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "aabr2612/Indian-Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/aabr2612/Indian-Rummy",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "abubakarmunir712/dsa-final-project",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": -2,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "aidanw33/cards-ai-bot",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/aidanw33/cards-ai-bot",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Alan-seb/RummyVision",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/Alan-seb/RummyVision",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": -1,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "ajaydasm/rummy-point-tracker",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/ajaydasm/rummy-point-tracker",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Abhishek230799/Rummy-301-points-counter",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/Abhishek230799/Rummy-301-points-counter",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "AjeyBharadwaj/Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/AjeyBharadwaj/Rummy",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": -1,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "abkcode/rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/abkcode/rummy",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        }
+      ],
+      "growth_top10": [
+        {
+          "repo": "AdithyaKV/IndianRummyAI",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/AdithyaKV/IndianRummyAI",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "aabr2612/Indian-Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/aabr2612/Indian-Rummy",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "aidanw33/cards-ai-bot",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/aidanw33/cards-ai-bot",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "ajaydasm/rummy-point-tracker",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/ajaydasm/rummy-point-tracker",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Abhishek230799/Rummy-301-points-counter",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/Abhishek230799/Rummy-301-points-counter",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "abkcode/rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/abkcode/rummy",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": 0,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Alan-seb/RummyVision",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/Alan-seb/RummyVision",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": -1,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "AjeyBharadwaj/Rummy",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/AjeyBharadwaj/Rummy",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": -1,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/Abhilash-Mandlekar/RummyAgent-Reinforecement-Learning",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": -2,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        },
+        {
+          "repo": "abubakarmunir712/dsa-final-project",
+          "stars": 0,
+          "forks": 0,
+          "language": "Unknown",
+          "updated_at": "未获取",
+          "pushed_at": "未获取",
+          "topics": [],
+          "html_url": "https://github.com/abubakarmunir712/dsa-final-project",
+          "description": "GitHub direct API 失败，保留 watched repo 占位。",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "fallback_error": "HTTP Error 403: rate limit exceeded",
+          "source": "direct /repos fallback failed",
+          "stars_delta": -2,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "point_rummy"
+          ]
+        }
+      ]
+    },
+    "loop_engineer": {
+      "repos": [
+        {
+          "repo": "modelcontextprotocol/servers",
+          "stars": 90685,
+          "forks": 11711,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:19:47Z",
+          "pushed_at": "2026-09-29T13:39:48Z",
+          "topics": [],
+          "html_url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 37,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "OpenHands/OpenHands",
+          "stars": 89546,
+          "forks": 11816,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:55:02Z",
+          "pushed_at": "2026-09-30T01:03:38Z",
+          "topics": [
+            "agent",
+            "artificial-intelligence",
+            "chatgpt",
+            "claude-ai",
+            "cli",
+            "developer-tools",
+            "gpt",
+            "llm",
+            "openai"
+          ],
+          "html_url": "https://github.com/OpenHands/OpenHands",
+          "description": "🙌 OpenHands: AI-Driven Development",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 133,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "langchain-ai/langgraph",
+          "stars": 42482,
+          "forks": 7195,
+          "language": "Python",
+          "updated_at": "2026-09-30T00:59:49Z",
+          "pushed_at": "2026-09-29T16:44:15Z",
+          "topics": [
+            "agents",
+            "ai",
+            "ai-agents",
+            "chatgpt",
+            "deepagents",
+            "enterprise",
+            "framework",
+            "gemini",
+            "generative-ai",
+            "langchain",
+            "langgraph",
+            "llm",
+            "multiagent",
+            "open-source",
+            "openai",
+            "pydantic",
+            "python",
+            "rag"
+          ],
+          "html_url": "https://github.com/langchain-ai/langgraph",
+          "description": "Build resilient agents.",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 56,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "openai/codex",
+          "stars": 127204,
+          "forks": 19876,
+          "language": "Rust",
+          "updated_at": "2026-09-30T01:07:24Z",
+          "pushed_at": "2026-09-30T00:51:56Z",
+          "topics": [],
+          "html_url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 227,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "google-gemini/gemini-cli",
+          "stars": 107194,
+          "forks": 14664,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:55:49Z",
+          "pushed_at": "2026-09-29T22:20:07Z",
+          "topics": [
+            "ai",
+            "ai-agents",
+            "cli",
+            "gemini",
+            "gemini-api",
+            "mcp-client",
+            "mcp-server"
+          ],
+          "html_url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 15,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "cline/cline",
+          "stars": 69575,
+          "forks": 7552,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:18:08Z",
+          "pushed_at": "2026-09-30T00:49:32Z",
+          "topics": [],
+          "html_url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 74,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "RooCodeInc/Roo-Code",
+          "stars": 24290,
+          "forks": 3421,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:01:38Z",
+          "pushed_at": "2026-05-15T18:08:47Z",
+          "topics": [],
+          "html_url": "https://github.com/RooCodeInc/Roo-Code",
+          "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": -1,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "continuedev/continue",
+          "stars": 36066,
+          "forks": 5446,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:35:30Z",
+          "pushed_at": "2026-09-29T13:29:59Z",
+          "topics": [
+            "agent",
+            "ai",
+            "cli",
+            "developer-tools",
+            "open-source"
+          ],
+          "html_url": "https://github.com/continuedev/continue",
+          "description": "open-source coding agent",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 15,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "QwenLM/qwen-code",
+          "stars": 28224,
+          "forks": 3131,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:28:23Z",
+          "pushed_at": "2026-09-30T00:28:20Z",
+          "topics": [
+            "agentic",
+            "ai",
+            "ai-agent",
+            "ai-coding",
+            "cli",
+            "coding-agent",
+            "developer-tools",
+            "llm",
+            "mcp",
+            "qwen",
+            "terminal",
+            "typescript"
+          ],
+          "html_url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 54,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "Aider-AI/aider",
+          "stars": 49285,
+          "forks": 5016,
+          "language": "Python",
+          "updated_at": "2026-09-30T00:57:00Z",
+          "pushed_at": "2026-05-22T14:02:20Z",
+          "topics": [
+            "anthropic",
+            "chatgpt",
+            "claude-3",
+            "cli",
+            "command-line",
+            "gemini",
+            "gpt-3",
+            "gpt-35-turbo",
+            "gpt-4",
+            "gpt-4o",
+            "llama",
+            "openai",
+            "sonnet"
+          ],
+          "html_url": "https://github.com/Aider-AI/aider",
+          "description": "aider is AI pair programming in your terminal",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 49285,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        }
+      ],
+      "high_star_top10": [
+        {
+          "repo": "openai/codex",
+          "stars": 127204,
+          "forks": 19876,
+          "language": "Rust",
+          "updated_at": "2026-09-30T01:07:24Z",
+          "pushed_at": "2026-09-30T00:51:56Z",
+          "topics": [],
+          "html_url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 227,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "google-gemini/gemini-cli",
+          "stars": 107194,
+          "forks": 14664,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:55:49Z",
+          "pushed_at": "2026-09-29T22:20:07Z",
+          "topics": [
+            "ai",
+            "ai-agents",
+            "cli",
+            "gemini",
+            "gemini-api",
+            "mcp-client",
+            "mcp-server"
+          ],
+          "html_url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 15,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "modelcontextprotocol/servers",
+          "stars": 90685,
+          "forks": 11711,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:19:47Z",
+          "pushed_at": "2026-09-29T13:39:48Z",
+          "topics": [],
+          "html_url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 37,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "OpenHands/OpenHands",
+          "stars": 89546,
+          "forks": 11816,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:55:02Z",
+          "pushed_at": "2026-09-30T01:03:38Z",
+          "topics": [
+            "agent",
+            "artificial-intelligence",
+            "chatgpt",
+            "claude-ai",
+            "cli",
+            "developer-tools",
+            "gpt",
+            "llm",
+            "openai"
+          ],
+          "html_url": "https://github.com/OpenHands/OpenHands",
+          "description": "🙌 OpenHands: AI-Driven Development",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 133,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "cline/cline",
+          "stars": 69575,
+          "forks": 7552,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:18:08Z",
+          "pushed_at": "2026-09-30T00:49:32Z",
+          "topics": [],
+          "html_url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 74,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "Aider-AI/aider",
+          "stars": 49285,
+          "forks": 5016,
+          "language": "Python",
+          "updated_at": "2026-09-30T00:57:00Z",
+          "pushed_at": "2026-05-22T14:02:20Z",
+          "topics": [
+            "anthropic",
+            "chatgpt",
+            "claude-3",
+            "cli",
+            "command-line",
+            "gemini",
+            "gpt-3",
+            "gpt-35-turbo",
+            "gpt-4",
+            "gpt-4o",
+            "llama",
+            "openai",
+            "sonnet"
+          ],
+          "html_url": "https://github.com/Aider-AI/aider",
+          "description": "aider is AI pair programming in your terminal",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 49285,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "langchain-ai/langgraph",
+          "stars": 42482,
+          "forks": 7195,
+          "language": "Python",
+          "updated_at": "2026-09-30T00:59:49Z",
+          "pushed_at": "2026-09-29T16:44:15Z",
+          "topics": [
+            "agents",
+            "ai",
+            "ai-agents",
+            "chatgpt",
+            "deepagents",
+            "enterprise",
+            "framework",
+            "gemini",
+            "generative-ai",
+            "langchain",
+            "langgraph",
+            "llm",
+            "multiagent",
+            "open-source",
+            "openai",
+            "pydantic",
+            "python",
+            "rag"
+          ],
+          "html_url": "https://github.com/langchain-ai/langgraph",
+          "description": "Build resilient agents.",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 56,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "continuedev/continue",
+          "stars": 36066,
+          "forks": 5446,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:35:30Z",
+          "pushed_at": "2026-09-29T13:29:59Z",
+          "topics": [
+            "agent",
+            "ai",
+            "cli",
+            "developer-tools",
+            "open-source"
+          ],
+          "html_url": "https://github.com/continuedev/continue",
+          "description": "open-source coding agent",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 15,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "QwenLM/qwen-code",
+          "stars": 28224,
+          "forks": 3131,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:28:23Z",
+          "pushed_at": "2026-09-30T00:28:20Z",
+          "topics": [
+            "agentic",
+            "ai",
+            "ai-agent",
+            "ai-coding",
+            "cli",
+            "coding-agent",
+            "developer-tools",
+            "llm",
+            "mcp",
+            "qwen",
+            "terminal",
+            "typescript"
+          ],
+          "html_url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 54,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "RooCodeInc/Roo-Code",
+          "stars": 24290,
+          "forks": 3421,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:01:38Z",
+          "pushed_at": "2026-05-15T18:08:47Z",
+          "topics": [],
+          "html_url": "https://github.com/RooCodeInc/Roo-Code",
+          "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": -1,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        }
+      ],
+      "growth_top10": [
+        {
+          "repo": "Aider-AI/aider",
+          "stars": 49285,
+          "forks": 5016,
+          "language": "Python",
+          "updated_at": "2026-09-30T00:57:00Z",
+          "pushed_at": "2026-05-22T14:02:20Z",
+          "topics": [
+            "anthropic",
+            "chatgpt",
+            "claude-3",
+            "cli",
+            "command-line",
+            "gemini",
+            "gpt-3",
+            "gpt-35-turbo",
+            "gpt-4",
+            "gpt-4o",
+            "llama",
+            "openai",
+            "sonnet"
+          ],
+          "html_url": "https://github.com/Aider-AI/aider",
+          "description": "aider is AI pair programming in your terminal",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 49285,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "openai/codex",
+          "stars": 127204,
+          "forks": 19876,
+          "language": "Rust",
+          "updated_at": "2026-09-30T01:07:24Z",
+          "pushed_at": "2026-09-30T00:51:56Z",
+          "topics": [],
+          "html_url": "https://github.com/openai/codex",
+          "description": "Lightweight coding agent that runs in your terminal",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 227,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "OpenHands/OpenHands",
+          "stars": 89546,
+          "forks": 11816,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:55:02Z",
+          "pushed_at": "2026-09-30T01:03:38Z",
+          "topics": [
+            "agent",
+            "artificial-intelligence",
+            "chatgpt",
+            "claude-ai",
+            "cli",
+            "developer-tools",
+            "gpt",
+            "llm",
+            "openai"
+          ],
+          "html_url": "https://github.com/OpenHands/OpenHands",
+          "description": "🙌 OpenHands: AI-Driven Development",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 133,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "cline/cline",
+          "stars": 69575,
+          "forks": 7552,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:18:08Z",
+          "pushed_at": "2026-09-30T00:49:32Z",
+          "topics": [],
+          "html_url": "https://github.com/cline/cline",
+          "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 74,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "langchain-ai/langgraph",
+          "stars": 42482,
+          "forks": 7195,
+          "language": "Python",
+          "updated_at": "2026-09-30T00:59:49Z",
+          "pushed_at": "2026-09-29T16:44:15Z",
+          "topics": [
+            "agents",
+            "ai",
+            "ai-agents",
+            "chatgpt",
+            "deepagents",
+            "enterprise",
+            "framework",
+            "gemini",
+            "generative-ai",
+            "langchain",
+            "langgraph",
+            "llm",
+            "multiagent",
+            "open-source",
+            "openai",
+            "pydantic",
+            "python",
+            "rag"
+          ],
+          "html_url": "https://github.com/langchain-ai/langgraph",
+          "description": "Build resilient agents.",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 56,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "QwenLM/qwen-code",
+          "stars": 28224,
+          "forks": 3131,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:28:23Z",
+          "pushed_at": "2026-09-30T00:28:20Z",
+          "topics": [
+            "agentic",
+            "ai",
+            "ai-agent",
+            "ai-coding",
+            "cli",
+            "coding-agent",
+            "developer-tools",
+            "llm",
+            "mcp",
+            "qwen",
+            "terminal",
+            "typescript"
+          ],
+          "html_url": "https://github.com/QwenLM/qwen-code",
+          "description": "An open-source AI coding agent that lives in your terminal.",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 54,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "modelcontextprotocol/servers",
+          "stars": 90685,
+          "forks": 11711,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:19:47Z",
+          "pushed_at": "2026-09-29T13:39:48Z",
+          "topics": [],
+          "html_url": "https://github.com/modelcontextprotocol/servers",
+          "description": "Model Context Protocol Servers",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 37,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "google-gemini/gemini-cli",
+          "stars": 107194,
+          "forks": 14664,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:55:49Z",
+          "pushed_at": "2026-09-29T22:20:07Z",
+          "topics": [
+            "ai",
+            "ai-agents",
+            "cli",
+            "gemini",
+            "gemini-api",
+            "mcp-client",
+            "mcp-server"
+          ],
+          "html_url": "https://github.com/google-gemini/gemini-cli",
+          "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 15,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "continuedev/continue",
+          "stars": 36066,
+          "forks": 5446,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:35:30Z",
+          "pushed_at": "2026-09-29T13:29:59Z",
+          "topics": [
+            "agent",
+            "ai",
+            "cli",
+            "developer-tools",
+            "open-source"
+          ],
+          "html_url": "https://github.com/continuedev/continue",
+          "description": "open-source coding agent",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": 15,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        },
+        {
+          "repo": "RooCodeInc/Roo-Code",
+          "stars": 24290,
+          "forks": 3421,
+          "language": "TypeScript",
+          "updated_at": "2026-09-30T00:01:38Z",
+          "pushed_at": "2026-05-15T18:08:47Z",
+          "topics": [],
+          "html_url": "https://github.com/RooCodeInc/Roo-Code",
+          "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+          "collected_at": "2026-09-30T01:07:27.304202+00:00",
+          "source": "direct /repos fallback",
+          "stars_delta": -1,
+          "growth_basis": "direct watched repo fallback，非完整全网日增",
+          "themes": [
+            "loop_engineer"
+          ]
+        }
+      ]
+    }
+  },
+  "baseline_snapshot": "github-stars-2026-09-29.json",
+  "direct_fallback": true,
+  "direct_fallback_reason": "GitHub Search API 403 rate limit from first query; direct /repos fallback used for watched AI Infra/Loop/Rummy sets."
+}
